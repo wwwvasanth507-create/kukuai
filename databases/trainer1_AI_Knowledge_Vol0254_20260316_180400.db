@@ -1,0 +1,180 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0254 of 1000
+  Topic Focus: Politics & Government
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Math
+  - Economics
+  - People
+  - Science
+  - Programming
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the water cycle?
+A1: Water evaporates from oceans/lakes, rises and condenses
+     into clouds, falls as precipitation, and flows back via
+     rivers and groundwater. Driven by solar energy.
+
+Q2: What is the Magna Carta?
+A2: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q3: What is the internet?
+A3: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q4: What is gravity?
+A4: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q5: What is DNA?
+A5: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Fundamental Theorem of Calculus
+Branch:       Calculus
+Formula:      ∫[a,b] f'(x)dx = f(b) - f(a)
+Applications: Physics, engineering, economics
+Discoverer:   Newton/Leibniz (1670)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+Language:  C
+Created:   1972 by Dennis Ritchie
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Systems, OS, embedded, kernels
+Hello:     printf("Hello, World!\n");
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+============================================================
+  END OF VOLUME 0254
+============================================================

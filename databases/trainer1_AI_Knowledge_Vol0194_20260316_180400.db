@@ -1,0 +1,209 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0194 of 1000
+  Topic Focus: Politics & Government
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Diseases
+  - Inventions
+  - Programming
+  - People
+  - Philosophy
+  - Math
+  - Science
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Influenza
+Type:        Viral
+Pathogen:    Influenza viruses
+Transmission:Respiratory droplets
+Symptoms:    Fever, chills, muscle aches
+Treatment:   Oseltamivir, rest, fluids
+Deaths/yr:   0.65M
+Vaccine:     Yes (annual update)
+Discovered:  1933
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  R
+Created:   1993 by Ross Ihaka/Robert Gentleman
+Paradigm:  Functional
+Typing:    Dynamic
+Uses:      Statistical computing, data analysis
+Hello:     print("Hello, World!")
+
+Language:  Kotlin
+Created:   2011 by JetBrains
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Android, JVM, web back-end
+Hello:     println("Hello, World!")
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+Concept:      Stoicism
+Branch:       Ethics
+Definition:   Focus only on what is in your control; accept all else with equanimity
+Philosopher:  Marcus Aurelius/Epictetus
+Example:      Illness is not in your control; your response to it is
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+Theorem/Law:  Central Limit Theorem
+Branch:       Statistics
+Formula:      Sample means approach normal distribution
+Applications: Polling, quality control, finance
+Discoverer:   Lyapunov (1901)
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+Domain:  Mathematics
+Topic:   Euler's Number
+Formula: e ≈ 2.71828182845...
+Note:    Base of natural logarithm; fundamental to calculus
+
+Domain:  Physics
+Topic:   Newton's Second Law
+Formula: F = ma
+Note:    Force equals mass times acceleration; classical mechanics
+
+Domain:  Biology
+Topic:   Photosynthesis
+Formula: 6CO₂+6H₂O+light→C₆H₁₂O₆+6O₂
+Note:    How plants produce energy from sunlight
+
+Domain:  Physics
+Topic:   1st Law of Thermodynamics
+Formula: ΔU = Q - W
+Note:    Energy conservation in thermodynamic systems
+
+============================================================
+  END OF VOLUME 0194
+============================================================

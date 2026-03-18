@@ -1,0 +1,251 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0784 of 1000
+  Topic Focus: Life Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Elements
+  - Math
+  - Ai
+  - People
+  - History
+  - Countries
+  - Diseases
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is metabolism?
+A1: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q2: What is the Magna Carta?
+A2: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q3: What is the greenhouse effect?
+A3: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q4: What is quantum mechanics?
+A4: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+Q5: What is evolution?
+A5: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Calcium (Ca)
+Atomic Number: 20
+Category:      Alkaline earth
+Atomic Mass:   40.078 u
+Uses:          Bones, teeth, concrete, steel
+
+Element:       Hydrogen (H)
+Atomic Number: 1
+Category:      Nonmetal
+Atomic Mass:   1.008 u
+Uses:          Fuel cells, ammonia, petroleum refining
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     LSTM
+Category:    Architecture
+Definition:  Gating mechanisms solve vanishing gradient in sequences
+Year:        1997
+Researchers: Hochreiter/Schmidhuber
+Applications:NLP, speech, time series
+Related:     GRU, RNN, gates, cell state
+
+Concept:     Neural Scaling Laws
+Category:    Theory
+Definition:  Performance improves predictably with compute/data/parameters
+Year:        2020
+Researchers: Kaplan et al.
+Applications:LLM development, compute planning
+Related:     Chinchilla scaling, emergent abilities
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1903 AD
+Event:        First powered flight
+Region:       Americas
+Key Figures:  Wright Brothers
+Significance: Opens aviation age
+
+Year:         1905 AD
+Event:        Einstein's Special Relativity
+Region:       Europe
+Key Figures:  Albert Einstein
+Significance: E=mc2 revolutionizes physics
+
+Year:         1969 AD
+Event:        Moon landing Apollo 11
+Region:       Global
+Key Figures:  Armstrong/Aldrin
+Significance: First humans on the Moon
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Indonesia
+Capital:      Jakarta
+Continent:    Asia
+Population:   277.5M people
+Currency:     Indonesian rupiah
+Language:     Indonesian
+Government:   Presidential Republic
+Independence: 1945
+GDP (USD B):  $1319.1B
+
+Country:      Israel
+Capital:      Jerusalem
+Continent:    Asia
+Population:   9.7M people
+Currency:     Israeli shekel
+Language:     Hebrew
+Government:   Parliamentary Democracy
+Independence: 1948
+GDP (USD B):  $564.2B
+
+Country:      Chile
+Capital:      Santiago
+Continent:    South America
+Population:   19.6M people
+Currency:     Chilean peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1818
+GDP (USD B):  $317.1B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     COVID-19
+Type:        Viral
+Pathogen:    SARS-CoV-2
+Transmission:Respiratory droplets
+Symptoms:    Fever, cough, loss of smell
+Treatment:   Antivirals, supportive care
+Deaths/yr:   5.0M
+Vaccine:     Yes (mRNA vaccines)
+Discovered:  2019
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  END OF VOLUME 0784
+============================================================

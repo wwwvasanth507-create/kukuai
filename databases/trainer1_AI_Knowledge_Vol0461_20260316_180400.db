@@ -1,0 +1,238 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0461 of 1000
+  Topic Focus: Natural Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - People
+  - Math
+  - Science
+  - Elements
+  - Animals
+  - Inventions
+  - History
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Pythagorean Theorem
+Branch:       Geometry
+Formula:      a² + b² = c²
+Applications: Navigation, construction, computer graphics
+Discoverer:   Pythagoras (500)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Mathematics
+Topic:   Pythagorean Theorem
+Formula: a² + b² = c²
+Note:    Right triangle relationship; foundation of geometry
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Magnesium (Mg)
+Atomic Number: 12
+Category:      Alkaline earth
+Atomic Mass:   24.305 u
+Uses:          Alloys, fireworks, chlorophyll
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         African Wild Dog
+Scientific:   Lycaon pictus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     11 years
+Weight:       30 kg
+Status:       Endangered
+Fact:         80% hunting success rate; votes on hunts by sneezing democratically
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+Invention:  Transistor
+Year:       1947
+Inventor:   Bardeen/Brattain/Shockley
+Country:    USA
+Category:   Electronics
+Description:Semiconductor switch replacing vacuum tubes
+Impact:     Foundation of all modern electronics; miniaturization
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3000 BC
+Event:        Invention of cuneiform writing
+Region:       Middle East
+Key Figures:  Sumerians
+Significance: First writing system enables record-keeping
+
+Year:         570 AD
+Event:        Birth of Prophet Muhammad
+Region:       Middle East
+Key Figures:  Muhammad
+Significance: Founder of Islam; 1.9 billion followers
+
+Year:         1215 AD
+Event:        Magna Carta signed
+Region:       Europe
+Key Figures:  King John/Barons
+Significance: Foundation of constitutional law
+
+Year:         1945 AD
+Event:        Atomic bombs used in war
+Region:       Asia
+Key Figures:  Truman/Oppenheimer
+Significance: First nuclear weapons; ends WWII
+
+============================================================
+  END OF VOLUME 0461
+============================================================

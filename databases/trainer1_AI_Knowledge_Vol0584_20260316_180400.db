@@ -1,0 +1,241 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0584 of 1000
+  Topic Focus: Life Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Elements
+  - Diseases
+  - Math
+  - People
+  - Science
+  - Qa
+  - Economics
+  - History
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Oxygen (O)
+Atomic Number: 8
+Category:      Nonmetal
+Atomic Mass:   15.999 u
+Uses:          Respiration, combustion, steel
+
+Element:       Calcium (Ca)
+Atomic Number: 20
+Category:      Alkaline earth
+Atomic Mass:   40.078 u
+Uses:          Bones, teeth, concrete, steel
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Malaria
+Type:        Parasitic
+Pathogen:    Plasmodium falciparum
+Transmission:Mosquito bite
+Symptoms:    Fever, chills, sweating cycles
+Treatment:   Artemisinin combination therapy
+Deaths/yr:   0.619M
+Vaccine:     Yes (RTS,S approved 2021)
+Discovered:  1880
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Medicine
+Topic:   Blood Types
+Formula: ABO system + Rh factor
+Note:    Determines blood transfusion compatibility
+
+Domain:  Chemistry
+Topic:   Conservation of Mass
+Formula: Reactants mass = Products mass
+Note:    Mass is conserved in all chemical reactions
+
+Domain:  Physics
+Topic:   2nd Law of Thermodynamics
+Formula: ΔS ≥ 0
+Note:    Entropy always increases in isolated systems
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the speed of light?
+A1: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+Q2: What is the Renaissance?
+A2: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+Q3: What is plate tectonics?
+A3: Earth's crust is divided into tectonic plates that move
+     on the mantle. Their interactions create earthquakes,
+     volcanoes, mountains, and ocean trenches over millions
+     of years.
+
+Q4: What is entropy?
+A4: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q5: What is supply and demand?
+A5: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3100 BC
+Event:        Unification of Egypt
+Region:       Africa
+Key Figures:  Narmer
+Significance: First nation-state in history
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         1066 AD
+Event:        Battle of Hastings
+Region:       Europe
+Key Figures:  William the Conqueror
+Significance: Norman conquest shapes English culture
+
+Year:         2023 AD
+Event:        AI large language models go mainstream
+Region:       Global
+Key Figures:  OpenAI/Anthropic
+Significance: ChatGPT transforms knowledge work
+
+============================================================
+  END OF VOLUME 0584
+============================================================

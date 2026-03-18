@@ -1,0 +1,287 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0803 of 1000
+  Topic Focus: Technology & Computing
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Countries
+  - Math
+  - Inventions
+  - History
+  - Diseases
+  - Qa
+  - Economics
+  - Animals
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Kenya
+Capital:      Nairobi
+Continent:    Africa
+Population:   55.1M people
+Currency:     Kenyan shilling
+Language:     Swahili/English
+Government:   Presidential Republic
+Independence: 1963
+GDP (USD B):  $110.3B
+
+Country:      South Korea
+Capital:      Seoul
+Continent:    Asia
+Population:   51.7M people
+Currency:     South Korean won
+Language:     Korean
+Government:   Presidential Republic
+Independence: 1948
+GDP (USD B):  $1804.7B
+
+Country:      India
+Capital:      New Delhi
+Continent:    Asia
+Population:   1428.6M people
+Currency:     Indian rupee
+Language:     Hindi/English
+Government:   Federal Parliamentary
+Independence: 1947
+GDP (USD B):  $3732.2B
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Central Limit Theorem
+Branch:       Statistics
+Formula:      Sample means approach normal distribution
+Applications: Polling, quality control, finance
+Discoverer:   Lyapunov (1901)
+
+Theorem/Law:  Fundamental Theorem of Calculus
+Branch:       Calculus
+Formula:      ∫[a,b] f'(x)dx = f(b) - f(a)
+Applications: Physics, engineering, economics
+Discoverer:   Newton/Leibniz (1670)
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+Invention:  mRNA Vaccine
+Year:       2020
+Inventor:   BioNTech/Moderna
+Country:    Germany/USA
+Category:   Medicine
+Description:mRNA instructs cells to produce antigen
+Impact:     COVID vaccines; platform for cancer, flu, HIV vaccines
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         1492 AD
+Event:        Columbus reaches Americas
+Region:       Americas
+Key Figures:  Columbus
+Significance: Opens colonization; Columbian Exchange
+
+Year:         1905 AD
+Event:        Einstein's Special Relativity
+Region:       Europe
+Key Figures:  Albert Einstein
+Significance: E=mc2 revolutionizes physics
+
+Year:         2001 AD
+Event:        September 11 attacks
+Region:       Americas
+Key Figures:  Al-Qaeda
+Significance: 3,000 killed; transforms global security
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     Malaria
+Type:        Parasitic
+Pathogen:    Plasmodium falciparum
+Transmission:Mosquito bite
+Symptoms:    Fever, chills, sweating cycles
+Treatment:   Artemisinin combination therapy
+Deaths/yr:   0.619M
+Vaccine:     Yes (RTS,S approved 2021)
+Discovered:  1880
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is democracy?
+A1: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q2: What is DNA?
+A2: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q3: What is the water cycle?
+A3: Water evaporates from oceans/lakes, rises and condenses
+     into clouds, falls as precipitation, and flows back via
+     rivers and groundwater. Driven by solar energy.
+
+Q4: What is the Magna Carta?
+A4: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q5: What is the periodic table?
+A5: The periodic table organizes 118 elements by atomic
+     number. Elements in the same column share chemical
+     properties. Rows are periods; columns are groups.
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Snow Leopard
+Scientific:   Panthera uncia
+Class:        Mammalia
+Habitat:      Mountain
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       55 kg
+Status:       Vulnerable
+Fact:         Cannot roar; uses long tail as blanket; leaps 15 meters
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+============================================================
+  END OF VOLUME 0803
+============================================================

@@ -1,0 +1,262 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0295 of 1000
+  Topic Focus: Chemistry
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Diseases
+  - Animals
+  - History
+  - Qa
+  - Countries
+  - Ai
+  - People
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Phenomenology
+Branch:       Epistemology
+Definition:   Philosophy must study first-person conscious experience directly
+Philosopher:  Husserl/Heidegger
+Example:      What is the structure of my experience of time or other people?
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         336 BC
+Event:        Alexander the Great begins conquests
+Region:       Asia
+Key Figures:  Alexander III
+Significance: Spreads Hellenistic culture from Greece to India
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1945 AD
+Event:        Atomic bombs used in war
+Region:       Asia
+Key Figures:  Truman/Oppenheimer
+Significance: First nuclear weapons; ends WWII
+
+Year:         1969 AD
+Event:        Moon landing Apollo 11
+Region:       Global
+Key Figures:  Armstrong/Aldrin
+Significance: First humans on the Moon
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is an algorithm?
+A1: An algorithm is a step-by-step procedure for solving a
+     problem. Algorithms have inputs, defined steps, and
+     outputs. Examples: sorting, searching, path-finding.
+
+Q2: What is the greenhouse effect?
+A2: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q3: What is a programming language?
+A3: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q4: What is a neuron?
+A4: A neuron is a nerve cell that processes and transmits
+     information through electrical and chemical signals.
+     Key parts: dendrites (receive signals), cell body, axon
+     (send signals).
+
+Q5: What is supply and demand?
+A5: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Sweden
+Capital:      Stockholm
+Continent:    Europe
+Population:   10.5M people
+Currency:     Swedish krona
+Language:     Swedish
+Government:   Constitutional Monarchy
+Independence: 1523
+GDP (USD B):  $636.0B
+
+Country:      Chile
+Capital:      Santiago
+Continent:    South America
+Population:   19.6M people
+Currency:     Chilean peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1818
+GDP (USD B):  $317.1B
+
+Country:      Spain
+Capital:      Madrid
+Continent:    Europe
+Population:   47.4M people
+Currency:     Euro
+Language:     Spanish
+Government:   Constitutional Monarchy
+Independence: 1479
+GDP (USD B):  $1492.4B
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     RAG
+Category:    Architecture
+Definition:  Combines retrieval from knowledge base with generative model
+Year:        2020
+Researchers: Lewis et al.
+Applications:QA, chatbots, enterprise AI
+Related:     Vector database, semantic search, LLM
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Tim Berners-Lee
+Lived:         1955 - present
+Nationality:   English
+Field:         Computing
+Known For:     World Wide Web
+Contribution:  Invented the Web in 1989; gave it to the world for free
+Quote:         "The web does not just connect machines, it connects people."
+
+============================================================
+  END OF VOLUME 0295
+============================================================

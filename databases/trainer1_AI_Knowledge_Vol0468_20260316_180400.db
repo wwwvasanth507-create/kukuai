@@ -1,0 +1,280 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0468 of 1000
+  Topic Focus: Philosophy & Ethics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Programming
+  - Countries
+  - Elements
+  - Animals
+  - Math
+  - People
+  - Diseases
+  - Economics
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is supply and demand?
+A1: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+Q2: What is artificial intelligence?
+A2: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q3: What is DNA?
+A3: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q4: What is natural selection?
+A4: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q5: What is the Renaissance?
+A5: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  Ruby
+Created:   1995 by Yukihiro Matsumoto
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web (Rails), scripting
+Hello:     puts "Hello, World!"
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Russia
+Capital:      Moscow
+Continent:    Europe/Asia
+Population:   144.7M people
+Currency:     Russian ruble
+Language:     Russian
+Government:   Federal Semi-Presidential
+Independence: 1991
+GDP (USD B):  $2244.3B
+
+Country:      Belgium
+Capital:      Brussels
+Continent:    Europe
+Population:   11.6M people
+Currency:     Euro
+Language:     Dutch/French/German
+Government:   Federal Parliamentary
+Independence: 1830
+GDP (USD B):  $599.9B
+
+Country:      New Zealand
+Capital:      Wellington
+Continent:    Oceania
+Population:   5.1M people
+Currency:     New Zealand dollar
+Language:     English/Maori
+Government:   Parliamentary Democracy
+Independence: 1907
+GDP (USD B):  $249.9B
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+Element:       Calcium (Ca)
+Atomic Number: 20
+Category:      Alkaline earth
+Atomic Mass:   40.078 u
+Uses:          Bones, teeth, concrete, steel
+
+Element:       Beryllium (Be)
+Atomic Number: 4
+Category:      Alkaline earth
+Atomic Mass:   9.012 u
+Uses:          Aerospace alloys, X-ray windows
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Komodo Dragon
+Scientific:   Varanus komodoensis
+Class:        Reptilia
+Habitat:      Islands
+Diet:         Carnivore
+Lifespan:     30 years
+Weight:       90 kg
+Status:       Endangered
+Fact:         Largest living lizard; venomous; can reproduce asexually
+
+Name:         African Wild Dog
+Scientific:   Lycaon pictus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     11 years
+Weight:       30 kg
+Status:       Endangered
+Fact:         80% hunting success rate; votes on hunts by sneezing democratically
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Fundamental Theorem of Calculus
+Branch:       Calculus
+Formula:      ∫[a,b] f'(x)dx = f(b) - f(a)
+Applications: Physics, engineering, economics
+Discoverer:   Newton/Leibniz (1670)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+============================================================
+  END OF VOLUME 0468
+============================================================

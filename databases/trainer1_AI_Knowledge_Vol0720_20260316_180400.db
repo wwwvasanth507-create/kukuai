@@ -1,0 +1,285 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0720 of 1000
+  Topic Focus: World Geography
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Animals
+  - Diseases
+  - Countries
+  - Ai
+  - History
+  - Philosophy
+  - Elements
+  - People
+  - Qa
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+Name:         Monarch Butterfly
+Scientific:   Danaus plexippus
+Class:        Insecta
+Habitat:      Meadows
+Diet:         Herbivore
+Lifespan:     0.25 years
+Weight:       0.0005 kg
+Status:       Endangered
+Fact:         Migrates 4,800 km; uses Earth's magnetic field for navigation
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Russia
+Capital:      Moscow
+Continent:    Europe/Asia
+Population:   144.7M people
+Currency:     Russian ruble
+Language:     Russian
+Government:   Federal Semi-Presidential
+Independence: 1991
+GDP (USD B):  $2244.3B
+
+Country:      Greece
+Capital:      Athens
+Continent:    Europe
+Population:   10.7M people
+Currency:     Euro
+Language:     Greek
+Government:   Parliamentary Republic
+Independence: 1821
+GDP (USD B):  $218.0B
+
+Country:      Mexico
+Capital:      Mexico City
+Continent:    North America
+Population:   128.5M people
+Currency:     Mexican peso
+Language:     Spanish
+Government:   Federal Republic
+Independence: 1821
+GDP (USD B):  $1322.5B
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Reinforcement Learning
+Category:    Paradigm
+Definition:  Agent learns from environment interaction to maximize reward
+Year:        1950
+Researchers: Bellman; Sutton/Barto
+Applications:Games, robotics, recommendations, LLM alignment
+Related:     Reward, policy, value function, Q-learning
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+Concept:     RLHF
+Category:    Training technique
+Definition:  Fine-tunes LLMs using human preference comparisons
+Year:        2017
+Researchers: Christiano et al.
+Applications:ChatGPT, Claude, Gemini alignment
+Related:     PPO, reward model, preference learning
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         221 BC
+Event:        China unified by Qin Shi Huang
+Region:       Asia
+Key Figures:  Qin Shi Huang
+Significance: First Chinese emperor; Great Wall construction
+
+Year:         1439 AD
+Event:        Gutenberg printing press
+Region:       Europe
+Key Figures:  Gutenberg
+Significance: Democratizes knowledge; enables Reformation
+
+Year:         1776 AD
+Event:        American Declaration of Independence
+Region:       Americas
+Key Figures:  Jefferson/Franklin
+Significance: First modern democracy
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Aluminium (Al)
+Atomic Number: 13
+Category:      Post-transition
+Atomic Mass:   26.982 u
+Uses:          Aircraft, packaging, construction
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Silver (Ag)
+Atomic Number: 47
+Category:      Transition metal
+Atomic Mass:   107.868 u
+Uses:          Jewelry, photography, electronics
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the Renaissance?
+A1: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+Q2: What is a programming language?
+A2: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q3: What is gravity?
+A3: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q4: What is entropy?
+A4: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q5: What is natural selection?
+A5: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+============================================================
+  END OF VOLUME 0720
+============================================================

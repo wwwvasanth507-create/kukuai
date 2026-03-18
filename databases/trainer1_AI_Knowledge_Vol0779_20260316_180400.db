@@ -1,0 +1,246 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0779 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - History
+  - Diseases
+  - Economics
+  - Math
+  - Programming
+  - People
+  - Qa
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Mathematics
+Topic:   Pi
+Formula: π ≈ 3.14159265358979...
+Note:    Ratio of circle circumference to diameter
+
+Domain:  Physics
+Topic:   Newton's Second Law
+Formula: F = ma
+Note:    Force equals mass times acceleration; classical mechanics
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Physics
+Topic:   2nd Law of Thermodynamics
+Formula: ΔS ≥ 0
+Note:    Entropy always increases in isolated systems
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         336 BC
+Event:        Alexander the Great begins conquests
+Region:       Asia
+Key Figures:  Alexander III
+Significance: Spreads Hellenistic culture from Greece to India
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+Year:         1969 AD
+Event:        Moon landing Apollo 11
+Region:       Global
+Key Figures:  Armstrong/Aldrin
+Significance: First humans on the Moon
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+Theorem/Law:  Central Limit Theorem
+Branch:       Statistics
+Formula:      Sample means approach normal distribution
+Applications: Polling, quality control, finance
+Discoverer:   Lyapunov (1901)
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  C#
+Created:   2000 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Enterprise, Unity games, web
+Hello:     Console.WriteLine("Hello, World!");
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+Name:          Albert Einstein
+Lived:         1879 - 1955
+Nationality:   German-American
+Field:         Physics
+Known For:     Theory of Relativity
+Contribution:  E=mc2; photoelectric effect; special and general relativity
+Quote:         "Imagination is more important than knowledge."
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the water cycle?
+A1: Water evaporates from oceans/lakes, rises and condenses
+     into clouds, falls as precipitation, and flows back via
+     rivers and groundwater. Driven by solar energy.
+
+Q2: What is the Renaissance?
+A2: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+Q3: What is the internet?
+A3: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q4: What is democracy?
+A4: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q5: What is quantum mechanics?
+A5: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+============================================================
+  END OF VOLUME 0779
+============================================================

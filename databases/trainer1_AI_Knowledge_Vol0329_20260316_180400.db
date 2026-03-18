@@ -1,0 +1,273 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0329 of 1000
+  Topic Focus: Medicine & Health
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - Diseases
+  - Ai
+  - Elements
+  - Philosophy
+  - Science
+  - Countries
+  - Inventions
+  - People
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C#
+Created:   2000 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Enterprise, Unity games, web
+Hello:     Console.WriteLine("Hello, World!");
+
+Language:  Julia
+Created:   2012 by Bezanson et al.
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Scientific computing, ML
+Hello:     println("Hello, World!")
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+Concept:     Diffusion Model
+Category:    Architecture
+Definition:  Learns to reverse a noise-adding process for generation
+Year:        2020
+Researchers: Ho et al.
+Applications:Image/video/audio generation (Stable Diffusion)
+Related:     DDPM, score matching, noise schedule
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+Element:       Iron (Fe)
+Atomic Number: 26
+Category:      Transition metal
+Atomic Mass:   55.845 u
+Uses:          Steel, cast iron, magnets, blood
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Existentialism
+Branch:       Metaphysics
+Definition:   Existence precedes essence; radical freedom and responsibility
+Philosopher:  Jean-Paul Sartre
+Example:      You are not born kind or cruel; you become so through choices
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+Domain:  Chemistry
+Topic:   Conservation of Mass
+Formula: Reactants mass = Products mass
+Note:    Mass is conserved in all chemical reactions
+
+Domain:  Geology
+Topic:   Age of Earth
+Formula: 4.54 billion years
+Note:    Determined by radiometric dating of oldest rocks/meteorites
+
+Domain:  Mathematics
+Topic:   Pythagorean Theorem
+Formula: a² + b² = c²
+Note:    Right triangle relationship; foundation of geometry
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Morocco
+Capital:      Rabat
+Continent:    Africa
+Population:   37.5M people
+Currency:     Moroccan dirham
+Language:     Arabic/Berber
+Government:   Constitutional Monarchy
+Independence: 1956
+GDP (USD B):  $142.9B
+
+Country:      Germany
+Capital:      Berlin
+Continent:    Europe
+Population:   84.4M people
+Currency:     Euro
+Language:     German
+Government:   Federal Republic
+Independence: 1871
+GDP (USD B):  $4259.9B
+
+Country:      Portugal
+Capital:      Lisbon
+Continent:    Europe
+Population:   10.3M people
+Currency:     Euro
+Language:     Portuguese
+Government:   Semi-Presidential Republic
+Independence: 1143
+GDP (USD B):  $251.9B
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  Automobile
+Year:       1885
+Inventor:   Karl Benz
+Country:    Germany
+Category:   Transportation
+Description:Gasoline-powered self-propelled vehicle
+Impact:     Transformed cities, suburbs, economy; petroleum age
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Tim Berners-Lee
+Lived:         1955 - present
+Nationality:   English
+Field:         Computing
+Known For:     World Wide Web
+Contribution:  Invented the Web in 1989; gave it to the world for free
+Quote:         "The web does not just connect machines, it connects people."
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+============================================================
+  END OF VOLUME 0329
+============================================================

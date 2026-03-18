@@ -1,0 +1,275 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0738 of 1000
+  Topic Focus: Engineering
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Science
+  - Math
+  - People
+  - Programming
+  - Qa
+  - Inventions
+  - Ai
+  - Animals
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+Domain:  Physics
+Topic:   E = mc²
+Formula: E = mc²
+Note:    Mass-energy equivalence; foundation of nuclear physics
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Fundamental Theorem of Calculus
+Branch:       Calculus
+Formula:      ∫[a,b] f'(x)dx = f(b) - f(a)
+Applications: Physics, engineering, economics
+Discoverer:   Newton/Leibniz (1670)
+
+Theorem/Law:  Central Limit Theorem
+Branch:       Statistics
+Formula:      Sample means approach normal distribution
+Applications: Polling, quality control, finance
+Discoverer:   Lyapunov (1901)
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C++
+Created:   1985 by Bjarne Stroustrup
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, games, embedded, HPC
+Hello:     cout << "Hello, World!";
+
+Language:  R
+Created:   1993 by Ross Ihaka/Robert Gentleman
+Paradigm:  Functional
+Typing:    Dynamic
+Uses:      Statistical computing, data analysis
+Hello:     print("Hello, World!")
+
+Language:  Ruby
+Created:   1995 by Yukihiro Matsumoto
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web (Rails), scripting
+Hello:     puts "Hello, World!"
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is entropy?
+A1: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q2: What is democracy?
+A2: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q3: What is a neuron?
+A3: A neuron is a nerve cell that processes and transmits
+     information through electrical and chemical signals.
+     Key parts: dendrites (receive signals), cell body, axon
+     (send signals).
+
+Q4: What is osmosis?
+A4: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q5: What is inflation?
+A5: Inflation is the general rise in price levels over
+     time, reducing purchasing power. Caused by excess money
+     supply, high demand, or supply shocks. Measured by the
+     Consumer Price Index.
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  Microprocessor
+Year:       1971
+Inventor:   Intel
+Country:    USA
+Category:   Computing
+Description:Complete CPU on silicon chip
+Impact:     Enabled personal computers; semiconductor industry
+
+Invention:  Wheel
+Year:       3500
+Inventor:   Unknown
+Country:    Mesopotamia
+Category:   Transportation
+Description:Rolling cylinder for moving loads
+Impact:     Foundation of all land vehicles and machinery
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Backpropagation
+Category:    Training
+Definition:  Computes gradients via chain rule through network layers
+Year:        1986
+Researchers: Rumelhart/Hinton
+Applications:Training all neural networks
+Related:     Gradient descent, automatic differentiation
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+Concept:     Neural Scaling Laws
+Category:    Theory
+Definition:  Performance improves predictably with compute/data/parameters
+Year:        2020
+Researchers: Kaplan et al.
+Applications:LLM development, compute planning
+Related:     Chinchilla scaling, emergent abilities
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+Name:         African Wild Dog
+Scientific:   Lycaon pictus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     11 years
+Weight:       30 kg
+Status:       Endangered
+Fact:         80% hunting success rate; votes on hunts by sneezing democratically
+
+============================================================
+  END OF VOLUME 0738
+============================================================

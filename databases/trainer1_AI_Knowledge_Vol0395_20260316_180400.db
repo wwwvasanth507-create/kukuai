@@ -1,0 +1,177 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0395 of 1000
+  Topic Focus: Chemistry
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Elements
+  - Math
+  - Diseases
+  - Science
+  - Ai
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+Element:       Phosphorus (P)
+Atomic Number: 15
+Category:      Nonmetal
+Atomic Mass:   30.974 u
+Uses:          Fertilizers, matches, detergents, DNA
+
+Element:       Oxygen (O)
+Atomic Number: 8
+Category:      Nonmetal
+Atomic Mass:   15.999 u
+Uses:          Respiration, combustion, steel
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+Domain:  Physics
+Topic:   2nd Law of Thermodynamics
+Formula: ΔS ≥ 0
+Note:    Entropy always increases in isolated systems
+
+Domain:  Physics
+Topic:   Planck's Constant
+Formula: h = 6.626×10⁻³⁴ J·s
+Note:    Quantum of action; E = hf for photon energy
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Chain-of-Thought
+Category:    Prompting
+Definition:  Prompting LLM to show step-by-step reasoning before answer
+Year:        2022
+Researchers: Wei et al.
+Applications:Math, logic, coding, complex reasoning
+Related:     Scratchpad, few-shot prompting
+
+Concept:     Word Embeddings
+Category:    Representation
+Definition:  Dense vectors where semantic similarity = vector proximity
+Year:        2013
+Researchers: Mikolov et al.
+Applications:NLP, recommendation, search
+Related:     Word2Vec, GloVe, BERT embeddings
+
+Concept:     Backpropagation
+Category:    Training
+Definition:  Computes gradients via chain rule through network layers
+Year:        1986
+Researchers: Rumelhart/Hinton
+Applications:Training all neural networks
+Related:     Gradient descent, automatic differentiation
+
+============================================================
+  END OF VOLUME 0395
+============================================================

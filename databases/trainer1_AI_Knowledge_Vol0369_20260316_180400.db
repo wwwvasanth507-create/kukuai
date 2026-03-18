@@ -1,0 +1,226 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0369 of 1000
+  Topic Focus: Medicine & Health
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Elements
+  - Economics
+  - Animals
+  - Diseases
+  - Science
+  - Qa
+  - People
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Calcium (Ca)
+Atomic Number: 20
+Category:      Alkaline earth
+Atomic Mass:   40.078 u
+Uses:          Bones, teeth, concrete, steel
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Gold (Au)
+Atomic Number: 79
+Category:      Transition metal
+Atomic Mass:   196.967 u
+Uses:          Jewelry, currency, electronics
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   Cell Theory
+Formula: All life is made of cells arising from pre-existing cells
+Note:    Foundation of modern biology
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+Domain:  Mathematics
+Topic:   Pythagorean Theorem
+Formula: a² + b² = c²
+Note:    Right triangle relationship; foundation of geometry
+
+Domain:  Physics
+Topic:   E = mc²
+Formula: E = mc²
+Note:    Mass-energy equivalence; foundation of nuclear physics
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is machine learning?
+A1: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+Q2: What is natural selection?
+A2: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q3: What is artificial intelligence?
+A3: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q4: What is democracy?
+A4: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q5: What is evolution?
+A5: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+============================================================
+  END OF VOLUME 0369
+============================================================

@@ -1,0 +1,200 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0996 of 1000
+  Topic Focus: Biology
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Countries
+  - Programming
+  - Animals
+  - History
+  - Qa
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Name:          Aristotle
+Lived:         384 - -322
+Nationality:   Greek
+Field:         Philosophy
+Known For:     Logic, ethics, biology
+Contribution:  Codified logic; wrote on biology, physics, ethics, politics; tutored Alexander
+Quote:         "The more you know, the more you know you don't know."
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Egypt
+Capital:      Cairo
+Continent:    Africa
+Population:   104.2M people
+Currency:     Egyptian pound
+Language:     Arabic
+Government:   Presidential Republic
+Independence: 1922
+GDP (USD B):  $476.8B
+
+Country:      Cuba
+Capital:      Havana
+Continent:    North America
+Population:   11.2M people
+Currency:     Cuban peso
+Language:     Spanish
+Government:   Communist State
+Independence: 1898
+GDP (USD B):  $107.4B
+
+Country:      Albania
+Capital:      Tirana
+Continent:    Europe
+Population:   2.8M people
+Currency:     Albanian lek
+Language:     Albanian
+Government:   Parliamentary Republic
+Independence: 1912
+GDP (USD B):  $18.3B
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Ruby
+Created:   1995 by Yukihiro Matsumoto
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web (Rails), scripting
+Hello:     puts "Hello, World!"
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+Language:  Julia
+Created:   2012 by Bezanson et al.
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Scientific computing, ML
+Hello:     println("Hello, World!")
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+Name:         Snow Leopard
+Scientific:   Panthera uncia
+Class:        Mammalia
+Habitat:      Mountain
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       55 kg
+Status:       Vulnerable
+Fact:         Cannot roar; uses long tail as blanket; leaps 15 meters
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         776 BC
+Event:        First Olympic Games
+Region:       Europe
+Key Figures:  Greeks
+Significance: Pan-Hellenic unity; birth of organized sports
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the water cycle?
+A1: Water evaporates from oceans/lakes, rises and condenses
+     into clouds, falls as precipitation, and flows back via
+     rivers and groundwater. Driven by solar energy.
+
+Q2: What is the greenhouse effect?
+A2: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q3: What is the internet?
+A3: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q4: What is evolution?
+A4: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q5: What is machine learning?
+A5: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+============================================================
+  END OF VOLUME 0996
+============================================================

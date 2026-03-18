@@ -1,0 +1,246 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0370 of 1000
+  Topic Focus: Artificial Intelligence
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - Math
+  - Animals
+  - Economics
+  - History
+  - Diseases
+  - Programming
+  - People
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Automobile
+Year:       1885
+Inventor:   Karl Benz
+Country:    Germany
+Category:   Transportation
+Description:Gasoline-powered self-propelled vehicle
+Impact:     Transformed cities, suburbs, economy; petroleum age
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+Invention:  Microprocessor
+Year:       1971
+Inventor:   Intel
+Country:    USA
+Category:   Computing
+Description:Complete CPU on silicon chip
+Impact:     Enabled personal computers; semiconductor industry
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+Name:         Saltwater Crocodile
+Scientific:   Crocodylus porosus
+Class:        Reptilia
+Habitat:      Coastal
+Diet:         Carnivore
+Lifespan:     70 years
+Weight:       1000 kg
+Status:       Least Concern
+Fact:         Strongest bite force of any living animal; survived dinosaurs
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         221 BC
+Event:        China unified by Qin Shi Huang
+Region:       Asia
+Key Figures:  Qin Shi Huang
+Significance: First Chinese emperor; Great Wall construction
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1917 AD
+Event:        Russian Revolution
+Region:       Europe
+Key Figures:  Lenin/Trotsky
+Significance: Communism seizes power; USSR formed
+
+Year:         2020 AD
+Event:        COVID-19 pandemic declared
+Region:       Global
+Key Figures:  WHO
+Significance: Worst pandemic since 1918; 6M+ dead
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Rust
+Created:   2010 by Graydon Hoare
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, WebAssembly, embedded
+Hello:     println!("Hello, World!");
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  Go
+Created:   2009 by Griesemer/Pike/Thompson
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Cloud services, CLI, systems
+Hello:     fmt.Println("Hello, World!")
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+============================================================
+  END OF VOLUME 0370
+============================================================

@@ -1,0 +1,221 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0590 of 1000
+  Topic Focus: Artificial Intelligence
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Animals
+  - Math
+  - Diseases
+  - People
+  - Qa
+  - Elements
+  - Science
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Cheetah
+Scientific:   Acinonyx jubatus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     12 years
+Weight:       65 kg
+Status:       Vulnerable
+Fact:         Fastest land animal at 120 km/h; cannot roar; purrs instead
+
+Name:         Mimic Octopus
+Scientific:   Thaumoctopus mimicus
+Class:        Cephalopoda
+Habitat:      Shallow sea
+Diet:         Carnivore
+Lifespan:     1 years
+Weight:       0.5 kg
+Status:       Least Concern
+Fact:         Can mimic 15+ different species including lionfish and flatfish
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Nash Equilibrium
+Branch:       Game Theory
+Formula:      No player benefits from unilateral strategy change
+Applications: Economics, AI, political science
+Discoverer:   John Nash (1950)
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+Disease:     Influenza
+Type:        Viral
+Pathogen:    Influenza viruses
+Transmission:Respiratory droplets
+Symptoms:    Fever, chills, muscle aches
+Treatment:   Oseltamivir, rest, fluids
+Deaths/yr:   0.65M
+Vaccine:     Yes (annual update)
+Discovered:  1933
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+Name:          Aristotle
+Lived:         384 - -322
+Nationality:   Greek
+Field:         Philosophy
+Known For:     Logic, ethics, biology
+Contribution:  Codified logic; wrote on biology, physics, ethics, politics; tutored Alexander
+Quote:         "The more you know, the more you know you don't know."
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is evolution?
+A1: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q2: What is plate tectonics?
+A2: Earth's crust is divided into tectonic plates that move
+     on the mantle. Their interactions create earthquakes,
+     volcanoes, mountains, and ocean trenches over millions
+     of years.
+
+Q3: What is inflation?
+A3: Inflation is the general rise in price levels over
+     time, reducing purchasing power. Caused by excess money
+     supply, high demand, or supply shocks. Measured by the
+     Consumer Price Index.
+
+Q4: What is the Pythagorean theorem?
+A4: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q5: What is the speed of light?
+A5: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+Element:       Zinc (Zn)
+Atomic Number: 30
+Category:      Transition metal
+Atomic Mass:   65.38 u
+Uses:          Galvanizing, alloys, sunscreen
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Euler's Number
+Formula: e ≈ 2.71828182845...
+Note:    Base of natural logarithm; fundamental to calculus
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Biology
+Topic:   Cell Theory
+Formula: All life is made of cells arising from pre-existing cells
+Note:    Foundation of modern biology
+
+============================================================
+  END OF VOLUME 0590
+============================================================

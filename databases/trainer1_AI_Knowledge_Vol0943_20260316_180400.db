@@ -1,0 +1,191 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0943 of 1000
+  Topic Focus: Technology & Computing
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - Animals
+  - People
+  - Elements
+  - History
+  - Diseases
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+Language:  Go
+Created:   2009 by Griesemer/Pike/Thompson
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Cloud services, CLI, systems
+Hello:     fmt.Println("Hello, World!")
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Sulfur (S)
+Atomic Number: 16
+Category:      Nonmetal
+Atomic Mass:   32.065 u
+Uses:          Sulfuric acid, gunpowder, rubber
+
+Element:       Aluminium (Al)
+Atomic Number: 13
+Category:      Post-transition
+Atomic Mass:   26.982 u
+Uses:          Aircraft, packaging, construction
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         570 AD
+Event:        Birth of Prophet Muhammad
+Region:       Middle East
+Key Figures:  Muhammad
+Significance: Founder of Islam; 1.9 billion followers
+
+Year:         1439 AD
+Event:        Gutenberg printing press
+Region:       Europe
+Key Figures:  Gutenberg
+Significance: Democratizes knowledge; enables Reformation
+
+Year:         1453 AD
+Event:        Fall of Constantinople
+Region:       Europe/Asia
+Key Figures:  Mehmed II
+Significance: Ends Byzantine Empire; drives exploration
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+============================================================
+  END OF VOLUME 0943
+============================================================

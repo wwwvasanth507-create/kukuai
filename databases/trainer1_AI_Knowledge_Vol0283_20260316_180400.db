@@ -1,0 +1,213 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0283 of 1000
+  Topic Focus: Technology & Computing
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - Programming
+  - Economics
+  - Math
+  - Qa
+  - Countries
+  - History
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  World Wide Web
+Year:       1989
+Inventor:   Tim Berners-Lee
+Country:    UK/Switzerland
+Category:   Communication
+Description:Hyperlinked documents over internet
+Impact:     Democratized information; e-commerce; social media
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Lua
+Created:   1993 by PUC-Rio
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Game scripting, embedded
+Hello:     print("Hello, World!")
+
+Language:  Python
+Created:   1991 by Guido van Rossum
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      AI/ML, web, scripting, data science
+Hello:     print("Hello, World!")
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the periodic table?
+A1: The periodic table organizes 118 elements by atomic
+     number. Elements in the same column share chemical
+     properties. Rows are periods; columns are groups.
+
+Q2: What is a programming language?
+A2: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q3: What is gravity?
+A3: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q4: What is DNA?
+A4: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q5: What is entropy?
+A5: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Morocco
+Capital:      Rabat
+Continent:    Africa
+Population:   37.5M people
+Currency:     Moroccan dirham
+Language:     Arabic/Berber
+Government:   Constitutional Monarchy
+Independence: 1956
+GDP (USD B):  $142.9B
+
+Country:      Afghanistan
+Capital:      Kabul
+Continent:    Asia
+Population:   41.1M people
+Currency:     Afghan afghani
+Language:     Dari/Pashto
+Government:   Islamic Republic
+Independence: 1919
+GDP (USD B):  $19.8B
+
+Country:      Thailand
+Capital:      Bangkok
+Continent:    Asia
+Population:   71.8M people
+Currency:     Thai baht
+Language:     Thai
+Government:   Constitutional Monarchy
+Independence: 1238
+GDP (USD B):  $544.2B
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3000 BC
+Event:        Invention of cuneiform writing
+Region:       Middle East
+Key Figures:  Sumerians
+Significance: First writing system enables record-keeping
+
+Year:         1543 AD
+Event:        Heliocentric model published
+Region:       Europe
+Key Figures:  Copernicus
+Significance: Scientific Revolution begins
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+Year:         2001 AD
+Event:        September 11 attacks
+Region:       Americas
+Key Figures:  Al-Qaeda
+Significance: 3,000 killed; transforms global security
+
+============================================================
+  END OF VOLUME 0283
+============================================================

@@ -1,0 +1,237 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0325 of 1000
+  Topic Focus: Physics & Astronomy
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Animals
+  - Math
+  - Countries
+  - People
+  - Elements
+  - Economics
+  - Inventions
+  - Philosophy
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Hungary
+Capital:      Budapest
+Continent:    Europe
+Population:   9.7M people
+Currency:     Hungarian forint
+Language:     Hungarian
+Government:   Parliamentary Republic
+Independence: 1000
+GDP (USD B):  $178.5B
+
+Country:      Afghanistan
+Capital:      Kabul
+Continent:    Asia
+Population:   41.1M people
+Currency:     Afghan afghani
+Language:     Dari/Pashto
+Government:   Islamic Republic
+Independence: 1919
+GDP (USD B):  $19.8B
+
+Country:      Morocco
+Capital:      Rabat
+Continent:    Africa
+Population:   37.5M people
+Currency:     Moroccan dirham
+Language:     Arabic/Berber
+Government:   Constitutional Monarchy
+Independence: 1956
+GDP (USD B):  $142.9B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Hydrogen (H)
+Atomic Number: 1
+Category:      Nonmetal
+Atomic Mass:   1.008 u
+Uses:          Fuel cells, ammonia, petroleum refining
+
+Element:       Oxygen (O)
+Atomic Number: 8
+Category:      Nonmetal
+Atomic Mass:   15.999 u
+Uses:          Respiration, combustion, steel
+
+Element:       Silicon (Si)
+Atomic Number: 14
+Category:      Metalloid
+Atomic Mass:   28.086 u
+Uses:          Semiconductors, glass, solar cells
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Transistor
+Year:       1947
+Inventor:   Bardeen/Brattain/Shockley
+Country:    USA
+Category:   Electronics
+Description:Semiconductor switch replacing vacuum tubes
+Impact:     Foundation of all modern electronics; miniaturization
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Dialectical Materialism
+Branch:       Metaphysics
+Definition:   History driven by material economic forces through thesis-antithesis-synthesis
+Philosopher:  Karl Marx/Hegel
+Example:      Class struggle between bourgeoisie and proletariat drives history
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+Concept:      Phenomenology
+Branch:       Epistemology
+Definition:   Philosophy must study first-person conscious experience directly
+Philosopher:  Husserl/Heidegger
+Example:      What is the structure of my experience of time or other people?
+
+============================================================
+  END OF VOLUME 0325
+============================================================

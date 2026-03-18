@@ -1,0 +1,209 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0040 of 1000
+  Topic Focus: World Geography
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - Animals
+  - History
+  - Elements
+  - Ai
+  - Economics
+  - Philosophy
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Biology
+Topic:   Photosynthesis
+Formula: 6CO₂+6H₂O+light→C₆H₁₂O₆+6O₂
+Note:    How plants produce energy from sunlight
+
+Domain:  Mathematics
+Topic:   Pi
+Formula: π ≈ 3.14159265358979...
+Note:    Ratio of circle circumference to diameter
+
+Domain:  Geology
+Topic:   Plate Tectonics
+Formula: ~15 major plates on mantle
+Note:    Explains earthquakes, volcanoes, mountain formation
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Snow Leopard
+Scientific:   Panthera uncia
+Class:        Mammalia
+Habitat:      Mountain
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       55 kg
+Status:       Vulnerable
+Fact:         Cannot roar; uses long tail as blanket; leaps 15 meters
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1945 AD
+Event:        Atomic bombs used in war
+Region:       Asia
+Key Figures:  Truman/Oppenheimer
+Significance: First nuclear weapons; ends WWII
+
+Year:         1957 AD
+Event:        Sputnik 1 launched
+Region:       Europe
+Key Figures:  Soviet Union
+Significance: First satellite; begins Space Age
+
+Year:         1994 AD
+Event:        World Wide Web goes public
+Region:       Global
+Key Figures:  Tim Berners-Lee
+Significance: Transforms communication and commerce
+
+Year:         2020 AD
+Event:        COVID-19 pandemic declared
+Region:       Global
+Key Figures:  WHO
+Significance: Worst pandemic since 1918; 6M+ dead
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Magnesium (Mg)
+Atomic Number: 12
+Category:      Alkaline earth
+Atomic Mass:   24.305 u
+Uses:          Alloys, fireworks, chlorophyll
+
+Element:       Lead (Pb)
+Atomic Number: 82
+Category:      Post-transition
+Atomic Mass:   207.2 u
+Uses:          Batteries, radiation shielding
+
+Element:       Argon (Ar)
+Atomic Number: 18
+Category:      Noble gas
+Atomic Mass:   39.948 u
+Uses:          Welding, incandescent bulbs
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Neural Scaling Laws
+Category:    Theory
+Definition:  Performance improves predictably with compute/data/parameters
+Year:        2020
+Researchers: Kaplan et al.
+Applications:LLM development, compute planning
+Related:     Chinchilla scaling, emergent abilities
+
+Concept:     Reinforcement Learning
+Category:    Paradigm
+Definition:  Agent learns from environment interaction to maximize reward
+Year:        1950
+Researchers: Bellman; Sutton/Barto
+Applications:Games, robotics, recommendations, LLM alignment
+Related:     Reward, policy, value function, Q-learning
+
+Concept:     Chain-of-Thought
+Category:    Prompting
+Definition:  Prompting LLM to show step-by-step reasoning before answer
+Year:        2022
+Researchers: Wei et al.
+Applications:Math, logic, coding, complex reasoning
+Related:     Scratchpad, few-shot prompting
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+============================================================
+  END OF VOLUME 0040
+============================================================

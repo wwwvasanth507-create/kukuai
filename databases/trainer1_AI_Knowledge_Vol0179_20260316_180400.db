@@ -1,0 +1,287 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0179 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Countries
+  - History
+  - Qa
+  - Inventions
+  - Diseases
+  - Animals
+  - Programming
+  - Ai
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+Concept:      Existentialism
+Branch:       Metaphysics
+Definition:   Existence precedes essence; radical freedom and responsibility
+Philosopher:  Jean-Paul Sartre
+Example:      You are not born kind or cruel; you become so through choices
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Iraq
+Capital:      Baghdad
+Continent:    Asia
+Population:   42.2M people
+Currency:     Iraqi dinar
+Language:     Arabic/Kurdish
+Government:   Federal Republic
+Independence: 1932
+GDP (USD B):  $264.2B
+
+Country:      Indonesia
+Capital:      Jakarta
+Continent:    Asia
+Population:   277.5M people
+Currency:     Indonesian rupiah
+Language:     Indonesian
+Government:   Presidential Republic
+Independence: 1945
+GDP (USD B):  $1319.1B
+
+Country:      Canada
+Capital:      Ottawa
+Continent:    North America
+Population:   38.2M people
+Currency:     Canadian dollar
+Language:     English/French
+Government:   Federal Parliamentary
+Independence: 1867
+GDP (USD B):  $2139.8B
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         570 AD
+Event:        Birth of Prophet Muhammad
+Region:       Middle East
+Key Figures:  Muhammad
+Significance: Founder of Islam; 1.9 billion followers
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the Pythagorean theorem?
+A1: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q2: What is quantum mechanics?
+A2: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+Q3: What is natural selection?
+A3: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q4: What is the periodic table?
+A4: The periodic table organizes 118 elements by atomic
+     number. Elements in the same column share chemical
+     properties. Rows are periods; columns are groups.
+
+Q5: What is photosynthesis?
+A5: Photosynthesis converts sunlight, CO2, and water into
+     glucose and oxygen: 6CO2 + 6H2O + light → C6H12O6 +
+     6O2. It occurs in plant chloroplasts.
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  World Wide Web
+Year:       1989
+Inventor:   Tim Berners-Lee
+Country:    UK/Switzerland
+Category:   Communication
+Description:Hyperlinked documents over internet
+Impact:     Democratized information; e-commerce; social media
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+Name:         Komodo Dragon
+Scientific:   Varanus komodoensis
+Class:        Reptilia
+Habitat:      Islands
+Diet:         Carnivore
+Lifespan:     30 years
+Weight:       90 kg
+Status:       Endangered
+Fact:         Largest living lizard; venomous; can reproduce asexually
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C++
+Created:   1985 by Bjarne Stroustrup
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, games, embedded, HPC
+Hello:     cout << "Hello, World!";
+
+Language:  R
+Created:   1993 by Ross Ihaka/Robert Gentleman
+Paradigm:  Functional
+Typing:    Dynamic
+Uses:      Statistical computing, data analysis
+Hello:     print("Hello, World!")
+
+Language:  Java
+Created:   1995 by James Gosling
+Paradigm:  Object-oriented
+Typing:    Static
+Uses:      Enterprise, Android, web back-end
+Hello:     System.out.println("Hello, World!");
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Neural Scaling Laws
+Category:    Theory
+Definition:  Performance improves predictably with compute/data/parameters
+Year:        2020
+Researchers: Kaplan et al.
+Applications:LLM development, compute planning
+Related:     Chinchilla scaling, emergent abilities
+
+Concept:     GAN
+Category:    Architecture
+Definition:  Generator vs discriminator adversarial training
+Year:        2014
+Researchers: Ian Goodfellow et al.
+Applications:Image synthesis, deepfakes, augmentation
+Related:     Mode collapse, discriminator, generator
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+============================================================
+  END OF VOLUME 0179
+============================================================

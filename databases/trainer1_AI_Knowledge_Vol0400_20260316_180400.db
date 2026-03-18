@@ -1,0 +1,194 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0400 of 1000
+  Topic Focus: World Geography
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Countries
+  - Diseases
+  - Math
+  - Programming
+  - Qa
+  - Science
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Ghana
+Capital:      Accra
+Continent:    Africa
+Population:   32.4M people
+Currency:     Ghanaian cedi
+Language:     English
+Government:   Presidential Republic
+Independence: 1957
+GDP (USD B):  $77.6B
+
+Country:      Brazil
+Capital:      Brasilia
+Continent:    South America
+Population:   215.3M people
+Currency:     Brazilian real
+Language:     Portuguese
+Government:   Federal Republic
+Independence: 1822
+GDP (USD B):  $1920.1B
+
+Country:      Turkey
+Capital:      Ankara
+Continent:    Europe/Asia
+Population:   85.3M people
+Currency:     Turkish lira
+Language:     Turkish
+Government:   Presidential Republic
+Independence: 1923
+GDP (USD B):  $905.5B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C
+Created:   1972 by Dennis Ritchie
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Systems, OS, embedded, kernels
+Hello:     printf("Hello, World!\n");
+
+Language:  Julia
+Created:   2012 by Bezanson et al.
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Scientific computing, ML
+Hello:     println("Hello, World!")
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is an algorithm?
+A1: An algorithm is a step-by-step procedure for solving a
+     problem. Algorithms have inputs, defined steps, and
+     outputs. Examples: sorting, searching, path-finding.
+
+Q2: What is evolution?
+A2: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q3: What is supply and demand?
+A3: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+Q4: What is gravity?
+A4: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q5: What is the speed of light?
+A5: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   1st Law of Thermodynamics
+Formula: ΔU = Q - W
+Note:    Energy conservation in thermodynamic systems
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Astronomy
+Topic:   Schwarzschild Radius
+Formula: r_s = 2GM/c²
+Note:    Event horizon radius of a black hole
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+============================================================
+  END OF VOLUME 0400
+============================================================

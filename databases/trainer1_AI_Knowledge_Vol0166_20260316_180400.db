@@ -1,0 +1,292 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0166 of 1000
+  Topic Focus: Mathematics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Animals
+  - Qa
+  - People
+  - Economics
+  - Countries
+  - Diseases
+  - Programming
+  - Inventions
+  - History
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Komodo Dragon
+Scientific:   Varanus komodoensis
+Class:        Reptilia
+Habitat:      Islands
+Diet:         Carnivore
+Lifespan:     30 years
+Weight:       90 kg
+Status:       Endangered
+Fact:         Largest living lizard; venomous; can reproduce asexually
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is a programming language?
+A1: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q2: What is metabolism?
+A2: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q3: What is osmosis?
+A3: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q4: What is evolution?
+A4: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q5: What is machine learning?
+A5: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Thailand
+Capital:      Bangkok
+Continent:    Asia
+Population:   71.8M people
+Currency:     Thai baht
+Language:     Thai
+Government:   Constitutional Monarchy
+Independence: 1238
+GDP (USD B):  $544.2B
+
+Country:      Denmark
+Capital:      Copenhagen
+Continent:    Europe
+Population:   5.9M people
+Currency:     Danish krone
+Language:     Danish
+Government:   Constitutional Monarchy
+Independence: 1849
+GDP (USD B):  $398.3B
+
+Country:      Vietnam
+Capital:      Hanoi
+Continent:    Asia
+Population:   97.5M people
+Currency:     Vietnamese dong
+Language:     Vietnamese
+Government:   Communist State
+Independence: 1945
+GDP (USD B):  $449.1B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C#
+Created:   2000 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Enterprise, Unity games, web
+Hello:     Console.WriteLine("Hello, World!");
+
+Language:  SQL
+Created:   1974 by Chamberlin/Boyce
+Paradigm:  Declarative
+Typing:    N/A
+Uses:      Relational databases
+Hello:     SELECT 'Hello, World!';
+
+Language:  Go
+Created:   2009 by Griesemer/Pike/Thompson
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Cloud services, CLI, systems
+Hello:     fmt.Println("Hello, World!")
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+Invention:  Photography
+Year:       1826
+Inventor:   Nicephore Niepce
+Country:    France
+Category:   Communication
+Description:Chemical capture of light images
+Impact:     Transformed art, journalism, science, identity
+
+Invention:  Internet
+Year:       1969
+Inventor:   DARPA/UCLA
+Country:    USA
+Category:   Communication
+Description:Packet-switched network connecting computers
+Impact:     Became internet; most transformative network ever
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         0 AD
+Event:        Estimated birth of Jesus Christ
+Region:       Middle East
+Key Figures:  Jesus of Nazareth
+Significance: Foundation of Christianity
+
+Year:         1905 AD
+Event:        Einstein's Special Relativity
+Region:       Europe
+Key Figures:  Albert Einstein
+Significance: E=mc2 revolutionizes physics
+
+Year:         1957 AD
+Event:        Sputnik 1 launched
+Region:       Europe
+Key Figures:  Soviet Union
+Significance: First satellite; begins Space Age
+
+Year:         2001 AD
+Event:        September 11 attacks
+Region:       Americas
+Key Figures:  Al-Qaeda
+Significance: 3,000 killed; transforms global security
+
+============================================================
+  END OF VOLUME 0166
+============================================================

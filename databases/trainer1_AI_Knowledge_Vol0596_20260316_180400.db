@@ -1,0 +1,186 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0596 of 1000
+  Topic Focus: Biology
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - Animals
+  - Inventions
+  - Economics
+  - History
+  - Math
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Astronomy
+Topic:   Schwarzschild Radius
+Formula: r_s = 2GM/c²
+Note:    Event horizon radius of a black hole
+
+Domain:  Chemistry
+Topic:   Conservation of Mass
+Formula: Reactants mass = Products mass
+Note:    Mass is conserved in all chemical reactions
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+Invention:  Internet
+Year:       1969
+Inventor:   DARPA/UCLA
+Country:    USA
+Category:   Communication
+Description:Packet-switched network connecting computers
+Impact:     Became internet; most transformative network ever
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         221 BC
+Event:        China unified by Qin Shi Huang
+Region:       Asia
+Key Figures:  Qin Shi Huang
+Significance: First Chinese emperor; Great Wall construction
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+Year:         1953 AD
+Event:        DNA double helix discovered
+Region:       Europe
+Key Figures:  Watson/Crick/Franklin
+Significance: Reveals mechanism of heredity
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+============================================================
+  END OF VOLUME 0596
+============================================================

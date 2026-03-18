@@ -1,0 +1,238 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0749 of 1000
+  Topic Focus: Medicine & Health
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Elements
+  - Philosophy
+  - History
+  - Economics
+  - Science
+  - Diseases
+  - Ai
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Iron (Fe)
+Atomic Number: 26
+Category:      Transition metal
+Atomic Mass:   55.845 u
+Uses:          Steel, cast iron, magnets, blood
+
+Element:       Sodium (Na)
+Atomic Number: 11
+Category:      Alkali metal
+Atomic Mass:   22.99 u
+Uses:          Salt, soap, street lights
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         1439 AD
+Event:        Gutenberg printing press
+Region:       Europe
+Key Figures:  Gutenberg
+Significance: Democratizes knowledge; enables Reformation
+
+Year:         1543 AD
+Event:        Heliocentric model published
+Region:       Europe
+Key Figures:  Copernicus
+Significance: Scientific Revolution begins
+
+Year:         1957 AD
+Event:        Sputnik 1 launched
+Region:       Europe
+Key Figures:  Soviet Union
+Significance: First satellite; begins Space Age
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Physics
+Topic:   E = mc²
+Formula: E = mc²
+Note:    Mass-energy equivalence; foundation of nuclear physics
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+Domain:  Physics
+Topic:   1st Law of Thermodynamics
+Formula: ΔU = Q - W
+Note:    Energy conservation in thermodynamic systems
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Malaria
+Type:        Parasitic
+Pathogen:    Plasmodium falciparum
+Transmission:Mosquito bite
+Symptoms:    Fever, chills, sweating cycles
+Treatment:   Artemisinin combination therapy
+Deaths/yr:   0.619M
+Vaccine:     Yes (RTS,S approved 2021)
+Discovered:  1880
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Attention Mechanism
+Category:    Mechanism
+Definition:  Learns to focus on relevant input parts for each output
+Year:        2015
+Researchers: Bahdanau et al.
+Applications:Machine translation, NLP, summarization
+Related:     Self-attention, multi-head, cross-attention
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+============================================================
+  END OF VOLUME 0749
+============================================================

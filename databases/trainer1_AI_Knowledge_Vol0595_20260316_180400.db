@@ -1,0 +1,269 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0595 of 1000
+  Topic Focus: Chemistry
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Math
+  - Programming
+  - Ai
+  - People
+  - Philosophy
+  - Elements
+  - Animals
+  - Diseases
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is an algorithm?
+A1: An algorithm is a step-by-step procedure for solving a
+     problem. Algorithms have inputs, defined steps, and
+     outputs. Examples: sorting, searching, path-finding.
+
+Q2: What is DNA?
+A2: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q3: What is natural selection?
+A3: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q4: What is relativity?
+A4: Einstein's relativity: Special (1905) — time dilates,
+     mass increases at high speeds; E=mc². General (1915) —
+     gravity is curved spacetime; explains black holes and
+     expanding universe.
+
+Q5: What is the water cycle?
+A5: Water evaporates from oceans/lakes, rises and condenses
+     into clouds, falls as precipitation, and flows back via
+     rivers and groundwater. Driven by solar energy.
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Central Limit Theorem
+Branch:       Statistics
+Formula:      Sample means approach normal distribution
+Applications: Polling, quality control, finance
+Discoverer:   Lyapunov (1901)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Julia
+Created:   2012 by Bezanson et al.
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Scientific computing, ML
+Hello:     println("Hello, World!")
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Word Embeddings
+Category:    Representation
+Definition:  Dense vectors where semantic similarity = vector proximity
+Year:        2013
+Researchers: Mikolov et al.
+Applications:NLP, recommendation, search
+Related:     Word2Vec, GloVe, BERT embeddings
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Existentialism
+Branch:       Metaphysics
+Definition:   Existence precedes essence; radical freedom and responsibility
+Philosopher:  Jean-Paul Sartre
+Example:      You are not born kind or cruel; you become so through choices
+
+Concept:      Stoicism
+Branch:       Ethics
+Definition:   Focus only on what is in your control; accept all else with equanimity
+Philosopher:  Marcus Aurelius/Epictetus
+Example:      Illness is not in your control; your response to it is
+
+Concept:      Nihilism
+Branch:       Ethics
+Definition:   Life has no inherent meaning; values are human inventions
+Philosopher:  Nietzsche (diagnosed)
+Example:      Without objective grounding, all moral frameworks are invented
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+Name:         Cheetah
+Scientific:   Acinonyx jubatus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     12 years
+Weight:       65 kg
+Status:       Vulnerable
+Fact:         Fastest land animal at 120 km/h; cannot roar; purrs instead
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+============================================================
+  END OF VOLUME 0595
+============================================================

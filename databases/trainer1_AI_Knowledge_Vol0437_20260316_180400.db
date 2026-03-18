@@ -1,0 +1,246 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0437 of 1000
+  Topic Focus: Space Exploration
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Animals
+  - Economics
+  - Countries
+  - Math
+  - Elements
+  - Diseases
+  - Programming
+  - People
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Octopus
+Scientific:   Octopus vulgaris
+Class:        Cephalopoda
+Habitat:      Ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       10 kg
+Status:       Least Concern
+Fact:         3 hearts, blue blood; changes color in 0.3 seconds; 9 brains
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      South Korea
+Capital:      Seoul
+Continent:    Asia
+Population:   51.7M people
+Currency:     South Korean won
+Language:     Korean
+Government:   Presidential Republic
+Independence: 1948
+GDP (USD B):  $1804.7B
+
+Country:      Pakistan
+Capital:      Islamabad
+Continent:    Asia
+Population:   231.4M people
+Currency:     Pakistani rupee
+Language:     Urdu/English
+Government:   Federal Republic
+Independence: 1947
+GDP (USD B):  $376.5B
+
+Country:      Spain
+Capital:      Madrid
+Continent:    Europe
+Population:   47.4M people
+Currency:     Euro
+Language:     Spanish
+Government:   Constitutional Monarchy
+Independence: 1479
+GDP (USD B):  $1492.4B
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+Element:       Magnesium (Mg)
+Atomic Number: 12
+Category:      Alkaline earth
+Atomic Mass:   24.305 u
+Uses:          Alloys, fireworks, chlorophyll
+
+Element:       Helium (He)
+Atomic Number: 2
+Category:      Noble gas
+Atomic Mass:   4.003 u
+Uses:          Balloons, cryogenics, MRI cooling
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Influenza
+Type:        Viral
+Pathogen:    Influenza viruses
+Transmission:Respiratory droplets
+Symptoms:    Fever, chills, muscle aches
+Treatment:   Oseltamivir, rest, fluids
+Deaths/yr:   0.65M
+Vaccine:     Yes (annual update)
+Discovered:  1933
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  C++
+Created:   1985 by Bjarne Stroustrup
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, games, embedded, HPC
+Hello:     cout << "Hello, World!";
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+============================================================
+  END OF VOLUME 0437
+============================================================

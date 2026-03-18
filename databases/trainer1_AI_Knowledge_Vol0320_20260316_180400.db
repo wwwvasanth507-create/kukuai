@@ -1,0 +1,209 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0320 of 1000
+  Topic Focus: World Geography
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Countries
+  - Animals
+  - History
+  - People
+  - Diseases
+  - Qa
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Turkey
+Capital:      Ankara
+Continent:    Europe/Asia
+Population:   85.3M people
+Currency:     Turkish lira
+Language:     Turkish
+Government:   Presidential Republic
+Independence: 1923
+GDP (USD B):  $905.5B
+
+Country:      Hungary
+Capital:      Budapest
+Continent:    Europe
+Population:   9.7M people
+Currency:     Hungarian forint
+Language:     Hungarian
+Government:   Parliamentary Republic
+Independence: 1000
+GDP (USD B):  $178.5B
+
+Country:      Malaysia
+Capital:      Kuala Lumpur
+Continent:    Asia
+Population:   33.0M people
+Currency:     Malaysian ringgit
+Language:     Malay
+Government:   Constitutional Monarchy
+Independence: 1957
+GDP (USD B):  $439.4B
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+Name:         Saltwater Crocodile
+Scientific:   Crocodylus porosus
+Class:        Reptilia
+Habitat:      Coastal
+Diet:         Carnivore
+Lifespan:     70 years
+Weight:       1000 kg
+Status:       Least Concern
+Fact:         Strongest bite force of any living animal; survived dinosaurs
+
+Name:         Mimic Octopus
+Scientific:   Thaumoctopus mimicus
+Class:        Cephalopoda
+Habitat:      Shallow sea
+Diet:         Carnivore
+Lifespan:     1 years
+Weight:       0.5 kg
+Status:       Least Concern
+Fact:         Can mimic 15+ different species including lionfish and flatfish
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1492 AD
+Event:        Columbus reaches Americas
+Region:       Americas
+Key Figures:  Columbus
+Significance: Opens colonization; Columbian Exchange
+
+Year:         1789 AD
+Event:        French Revolution begins
+Region:       Europe
+Key Figures:  Robespierre
+Significance: Spreads liberty, equality, fraternity
+
+Year:         1905 AD
+Event:        Einstein's Special Relativity
+Region:       Europe
+Key Figures:  Albert Einstein
+Significance: E=mc2 revolutionizes physics
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+Name:          Stephen Hawking
+Lived:         1942 - 2018
+Nationality:   English
+Field:         Physics
+Known For:     Black hole radiation
+Contribution:  Proved black holes emit radiation; A Brief History of Time; communicated science publicly
+Quote:         "Intelligence is the ability to adapt to change."
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Influenza
+Type:        Viral
+Pathogen:    Influenza viruses
+Transmission:Respiratory droplets
+Symptoms:    Fever, chills, muscle aches
+Treatment:   Oseltamivir, rest, fluids
+Deaths/yr:   0.65M
+Vaccine:     Yes (annual update)
+Discovered:  1933
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is DNA?
+A1: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q2: What is osmosis?
+A2: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q3: What is a programming language?
+A3: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q4: What is the Pythagorean theorem?
+A4: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q5: What is an algorithm?
+A5: An algorithm is a step-by-step procedure for solving a
+     problem. Algorithms have inputs, defined steps, and
+     outputs. Examples: sorting, searching, path-finding.
+
+============================================================
+  END OF VOLUME 0320
+============================================================

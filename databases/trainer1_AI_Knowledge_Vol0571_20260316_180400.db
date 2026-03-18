@@ -1,0 +1,209 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0571 of 1000
+  Topic Focus: World Cultures
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Math
+  - Diseases
+  - Elements
+  - Science
+  - Inventions
+  - People
+  - Economics
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Lithium (Li)
+Atomic Number: 3
+Category:      Alkali metal
+Atomic Mass:   6.941 u
+Uses:          Batteries, ceramics, psychiatric medicine
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+Element:       Zinc (Zn)
+Atomic Number: 30
+Category:      Transition metal
+Atomic Mass:   65.38 u
+Uses:          Galvanizing, alloys, sunscreen
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Chemistry
+Topic:   Ideal Gas Law
+Formula: PV = nRT
+Note:    Pressure, volume, temperature relationship for ideal gas
+
+Domain:  Astronomy
+Topic:   Schwarzschild Radius
+Formula: r_s = 2GM/c²
+Note:    Event horizon radius of a black hole
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Geology
+Topic:   Age of Earth
+Formula: 4.54 billion years
+Note:    Determined by radiometric dating of oldest rocks/meteorites
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+============================================================
+  END OF VOLUME 0571
+============================================================

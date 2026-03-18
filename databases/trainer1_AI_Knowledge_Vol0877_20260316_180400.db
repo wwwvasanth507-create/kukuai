@@ -1,0 +1,215 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0877 of 1000
+  Topic Focus: Space Exploration
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - Science
+  - Math
+  - Countries
+  - Economics
+  - People
+  - Ai
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Photography
+Year:       1826
+Inventor:   Nicephore Niepce
+Country:    France
+Category:   Communication
+Description:Chemical capture of light images
+Impact:     Transformed art, journalism, science, identity
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Nash Equilibrium
+Branch:       Game Theory
+Formula:      No player benefits from unilateral strategy change
+Applications: Economics, AI, political science
+Discoverer:   John Nash (1950)
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+Theorem/Law:  Pythagorean Theorem
+Branch:       Geometry
+Formula:      a² + b² = c²
+Applications: Navigation, construction, computer graphics
+Discoverer:   Pythagoras (500)
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Mexico
+Capital:      Mexico City
+Continent:    North America
+Population:   128.5M people
+Currency:     Mexican peso
+Language:     Spanish
+Government:   Federal Republic
+Independence: 1821
+GDP (USD B):  $1322.5B
+
+Country:      Israel
+Capital:      Jerusalem
+Continent:    Asia
+Population:   9.7M people
+Currency:     Israeli shekel
+Language:     Hebrew
+Government:   Parliamentary Democracy
+Independence: 1948
+GDP (USD B):  $564.2B
+
+Country:      Thailand
+Capital:      Bangkok
+Continent:    Asia
+Population:   71.8M people
+Currency:     Thai baht
+Language:     Thai
+Government:   Constitutional Monarchy
+Independence: 1238
+GDP (USD B):  $544.2B
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Neural Scaling Laws
+Category:    Theory
+Definition:  Performance improves predictably with compute/data/parameters
+Year:        2020
+Researchers: Kaplan et al.
+Applications:LLM development, compute planning
+Related:     Chinchilla scaling, emergent abilities
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+============================================================
+  END OF VOLUME 0877
+============================================================

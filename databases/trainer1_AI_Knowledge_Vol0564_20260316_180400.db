@@ -1,0 +1,277 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0564 of 1000
+  Topic Focus: Life Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Programming
+  - Inventions
+  - Diseases
+  - Qa
+  - Philosophy
+  - Science
+  - History
+  - Ai
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Malaria
+Type:        Parasitic
+Pathogen:    Plasmodium falciparum
+Transmission:Mosquito bite
+Symptoms:    Fever, chills, sweating cycles
+Treatment:   Artemisinin combination therapy
+Deaths/yr:   0.619M
+Vaccine:     Yes (RTS,S approved 2021)
+Discovered:  1880
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is entropy?
+A1: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q2: What is relativity?
+A2: Einstein's relativity: Special (1905) — time dilates,
+     mass increases at high speeds; E=mc². General (1915) —
+     gravity is curved spacetime; explains black holes and
+     expanding universe.
+
+Q3: What is the greenhouse effect?
+A3: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q4: What is supply and demand?
+A4: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+Q5: What is the internet?
+A5: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Categorical Imperative
+Branch:       Ethics
+Definition:   Act only on principles you could will to be universal laws
+Philosopher:  Immanuel Kant
+Example:      Don't lie; if universal lying existed, language would break down
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         490 BC
+Event:        Battle of Marathon
+Region:       Europe
+Key Figures:  Miltiades
+Significance: Greek victory saves Western civilization
+
+Year:         1066 AD
+Event:        Battle of Hastings
+Region:       Europe
+Key Figures:  William the Conqueror
+Significance: Norman conquest shapes English culture
+
+Year:         1789 AD
+Event:        French Revolution begins
+Region:       Europe
+Key Figures:  Robespierre
+Significance: Spreads liberty, equality, fraternity
+
+Year:         2022 AD
+Event:        Russia invades Ukraine
+Region:       Europe
+Key Figures:  Putin/Zelensky
+Significance: Largest European war since WWII
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Chain-of-Thought
+Category:    Prompting
+Definition:  Prompting LLM to show step-by-step reasoning before answer
+Year:        2022
+Researchers: Wei et al.
+Applications:Math, logic, coding, complex reasoning
+Related:     Scratchpad, few-shot prompting
+
+Concept:     GAN
+Category:    Architecture
+Definition:  Generator vs discriminator adversarial training
+Year:        2014
+Researchers: Ian Goodfellow et al.
+Applications:Image synthesis, deepfakes, augmentation
+Related:     Mode collapse, discriminator, generator
+
+Concept:     Attention Mechanism
+Category:    Mechanism
+Definition:  Learns to focus on relevant input parts for each output
+Year:        2015
+Researchers: Bahdanau et al.
+Applications:Machine translation, NLP, summarization
+Related:     Self-attention, multi-head, cross-attention
+
+============================================================
+  END OF VOLUME 0564
+============================================================

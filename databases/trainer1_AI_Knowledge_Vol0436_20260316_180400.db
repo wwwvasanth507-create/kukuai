@@ -1,0 +1,285 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0436 of 1000
+  Topic Focus: Biology
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Inventions
+  - Qa
+  - Philosophy
+  - Countries
+  - Animals
+  - History
+  - Elements
+  - Diseases
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Stephen Hawking
+Lived:         1942 - 2018
+Nationality:   English
+Field:         Physics
+Known For:     Black hole radiation
+Contribution:  Proved black holes emit radiation; A Brief History of Time; communicated science publicly
+Quote:         "Intelligence is the ability to adapt to change."
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  World Wide Web
+Year:       1989
+Inventor:   Tim Berners-Lee
+Country:    UK/Switzerland
+Category:   Communication
+Description:Hyperlinked documents over internet
+Impact:     Democratized information; e-commerce; social media
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is natural selection?
+A1: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q2: What is the Magna Carta?
+A2: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q3: What is the Renaissance?
+A3: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+Q4: What is photosynthesis?
+A4: Photosynthesis converts sunlight, CO2, and water into
+     glucose and oxygen: 6CO2 + 6H2O + light → C6H12O6 +
+     6O2. It occurs in plant chloroplasts.
+
+Q5: What is gravity?
+A5: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Nihilism
+Branch:       Ethics
+Definition:   Life has no inherent meaning; values are human inventions
+Philosopher:  Nietzsche (diagnosed)
+Example:      Without objective grounding, all moral frameworks are invented
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Thailand
+Capital:      Bangkok
+Continent:    Asia
+Population:   71.8M people
+Currency:     Thai baht
+Language:     Thai
+Government:   Constitutional Monarchy
+Independence: 1238
+GDP (USD B):  $544.2B
+
+Country:      Vietnam
+Capital:      Hanoi
+Continent:    Asia
+Population:   97.5M people
+Currency:     Vietnamese dong
+Language:     Vietnamese
+Government:   Communist State
+Independence: 1945
+GDP (USD B):  $449.1B
+
+Country:      South Korea
+Capital:      Seoul
+Continent:    Asia
+Population:   51.7M people
+Currency:     South Korean won
+Language:     Korean
+Government:   Presidential Republic
+Independence: 1948
+GDP (USD B):  $1804.7B
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Cheetah
+Scientific:   Acinonyx jubatus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     12 years
+Weight:       65 kg
+Status:       Vulnerable
+Fact:         Fastest land animal at 120 km/h; cannot roar; purrs instead
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3000 BC
+Event:        Invention of cuneiform writing
+Region:       Middle East
+Key Figures:  Sumerians
+Significance: First writing system enables record-keeping
+
+Year:         776 BC
+Event:        First Olympic Games
+Region:       Europe
+Key Figures:  Greeks
+Significance: Pan-Hellenic unity; birth of organized sports
+
+Year:         570 AD
+Event:        Birth of Prophet Muhammad
+Region:       Middle East
+Key Figures:  Muhammad
+Significance: Founder of Islam; 1.9 billion followers
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Nitrogen (N)
+Atomic Number: 7
+Category:      Nonmetal
+Atomic Mass:   14.007 u
+Uses:          Fertilizers, explosives, cryogenics
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+============================================================
+  END OF VOLUME 0436
+============================================================

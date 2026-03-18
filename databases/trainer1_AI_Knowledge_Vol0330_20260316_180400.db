@@ -1,0 +1,194 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0330 of 1000
+  Topic Focus: Artificial Intelligence
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - People
+  - Qa
+  - Countries
+  - Diseases
+  - Philosophy
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+Language:  C++
+Created:   1985 by Bjarne Stroustrup
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, games, embedded, HPC
+Hello:     cout << "Hello, World!";
+
+Language:  Lua
+Created:   1993 by PUC-Rio
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Game scripting, embedded
+Hello:     print("Hello, World!")
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Stephen Hawking
+Lived:         1942 - 2018
+Nationality:   English
+Field:         Physics
+Known For:     Black hole radiation
+Contribution:  Proved black holes emit radiation; A Brief History of Time; communicated science publicly
+Quote:         "Intelligence is the ability to adapt to change."
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the Pythagorean theorem?
+A1: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q2: What is the greenhouse effect?
+A2: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q3: What is a black hole?
+A3: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+Q4: What is quantum mechanics?
+A4: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+Q5: What is the Big Bang?
+A5: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Pakistan
+Capital:      Islamabad
+Continent:    Asia
+Population:   231.4M people
+Currency:     Pakistani rupee
+Language:     Urdu/English
+Government:   Federal Republic
+Independence: 1947
+GDP (USD B):  $376.5B
+
+Country:      Algeria
+Capital:      Algiers
+Continent:    Africa
+Population:   45.4M people
+Currency:     Algerian dinar
+Language:     Arabic
+Government:   Presidential Republic
+Independence: 1962
+GDP (USD B):  $166.9B
+
+Country:      Ghana
+Capital:      Accra
+Continent:    Africa
+Population:   32.4M people
+Currency:     Ghanaian cedi
+Language:     English
+Government:   Presidential Republic
+Independence: 1957
+GDP (USD B):  $77.6B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Existentialism
+Branch:       Metaphysics
+Definition:   Existence precedes essence; radical freedom and responsibility
+Philosopher:  Jean-Paul Sartre
+Example:      You are not born kind or cruel; you become so through choices
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+============================================================
+  END OF VOLUME 0330
+============================================================

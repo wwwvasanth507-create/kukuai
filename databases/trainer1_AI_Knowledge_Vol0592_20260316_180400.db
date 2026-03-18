@@ -1,0 +1,243 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0592 of 1000
+  Topic Focus: Environment & Nature
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Diseases
+  - Programming
+  - Elements
+  - Science
+  - Economics
+  - People
+  - Inventions
+  - Qa
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  Go
+Created:   2009 by Griesemer/Pike/Thompson
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Cloud services, CLI, systems
+Hello:     fmt.Println("Hello, World!")
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Lithium (Li)
+Atomic Number: 3
+Category:      Alkali metal
+Atomic Mass:   6.941 u
+Uses:          Batteries, ceramics, psychiatric medicine
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+Domain:  Mathematics
+Topic:   Pythagorean Theorem
+Formula: a² + b² = c²
+Note:    Right triangle relationship; foundation of geometry
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is metabolism?
+A1: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q2: What is quantum mechanics?
+A2: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+Q3: What is DNA?
+A3: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q4: What is the speed of light?
+A4: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+Q5: What is the periodic table?
+A5: The periodic table organizes 118 elements by atomic
+     number. Elements in the same column share chemical
+     properties. Rows are periods; columns are groups.
+
+============================================================
+  END OF VOLUME 0592
+============================================================

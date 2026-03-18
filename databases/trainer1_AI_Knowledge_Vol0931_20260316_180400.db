@@ -1,0 +1,191 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0931 of 1000
+  Topic Focus: World Cultures
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Elements
+  - Ai
+  - Diseases
+  - Inventions
+  - Animals
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Lithium (Li)
+Atomic Number: 3
+Category:      Alkali metal
+Atomic Mass:   6.941 u
+Uses:          Batteries, ceramics, psychiatric medicine
+
+Element:       Mercury (Hg)
+Atomic Number: 80
+Category:      Transition metal
+Atomic Mass:   200.592 u
+Uses:          Thermometers, fluorescent lamps
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Mixture of Experts
+Category:    Architecture
+Definition:  Sparse model activating different expert subsets per token
+Year:        2017
+Researchers: Shazeer et al.
+Applications:Large LLMs (Mixtral, rumored GPT-4)
+Related:     Sparse activation, routing, scaling efficiency
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+Concept:     CNN
+Category:    Architecture
+Definition:  Convolutional filters detect spatial features hierarchically
+Year:        1989
+Researchers: LeCun et al.
+Applications:Image classification, object detection
+Related:     Pooling, feature maps, ResNet
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Influenza
+Type:        Viral
+Pathogen:    Influenza viruses
+Transmission:Respiratory droplets
+Symptoms:    Fever, chills, muscle aches
+Treatment:   Oseltamivir, rest, fluids
+Deaths/yr:   0.65M
+Vaccine:     Yes (annual update)
+Discovered:  1933
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  Internet
+Year:       1969
+Inventor:   DARPA/UCLA
+Country:    USA
+Category:   Communication
+Description:Packet-switched network connecting computers
+Impact:     Became internet; most transformative network ever
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Mimic Octopus
+Scientific:   Thaumoctopus mimicus
+Class:        Cephalopoda
+Habitat:      Shallow sea
+Diet:         Carnivore
+Lifespan:     1 years
+Weight:       0.5 kg
+Status:       Least Concern
+Fact:         Can mimic 15+ different species including lionfish and flatfish
+
+Name:         Saltwater Crocodile
+Scientific:   Crocodylus porosus
+Class:        Reptilia
+Habitat:      Coastal
+Diet:         Carnivore
+Lifespan:     70 years
+Weight:       1000 kg
+Status:       Least Concern
+Fact:         Strongest bite force of any living animal; survived dinosaurs
+
+Name:         African Elephant
+Scientific:   Loxodonta africana
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Herbivore
+Lifespan:     70 years
+Weight:       6000 kg
+Status:       Vulnerable
+Fact:         Largest land animal; strongest sense of smell; mourns the dead
+
+============================================================
+  END OF VOLUME 0931
+============================================================

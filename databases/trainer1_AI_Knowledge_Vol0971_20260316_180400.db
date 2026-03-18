@@ -1,0 +1,191 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0971 of 1000
+  Topic Focus: World Cultures
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Elements
+  - History
+  - Animals
+  - Countries
+  - Economics
+  - Inventions
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Beryllium (Be)
+Atomic Number: 4
+Category:      Alkaline earth
+Atomic Mass:   9.012 u
+Uses:          Aerospace alloys, X-ray windows
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Helium (He)
+Atomic Number: 2
+Category:      Noble gas
+Atomic Mass:   4.003 u
+Uses:          Balloons, cryogenics, MRI cooling
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3100 BC
+Event:        Unification of Egypt
+Region:       Africa
+Key Figures:  Narmer
+Significance: First nation-state in history
+
+Year:         1914 AD
+Event:        World War I begins
+Region:       Europe
+Key Figures:  Multiple
+Significance: 17 million dead; empires collapse
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+Year:         1994 AD
+Event:        World Wide Web goes public
+Region:       Global
+Key Figures:  Tim Berners-Lee
+Significance: Transforms communication and commerce
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Cheetah
+Scientific:   Acinonyx jubatus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     12 years
+Weight:       65 kg
+Status:       Vulnerable
+Fact:         Fastest land animal at 120 km/h; cannot roar; purrs instead
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+Name:         Saltwater Crocodile
+Scientific:   Crocodylus porosus
+Class:        Reptilia
+Habitat:      Coastal
+Diet:         Carnivore
+Lifespan:     70 years
+Weight:       1000 kg
+Status:       Least Concern
+Fact:         Strongest bite force of any living animal; survived dinosaurs
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Nigeria
+Capital:      Abuja
+Continent:    Africa
+Population:   220.9M people
+Currency:     Nigerian naira
+Language:     English
+Government:   Federal Republic
+Independence: 1960
+GDP (USD B):  $440.8B
+
+Country:      Ethiopia
+Capital:      Addis Ababa
+Continent:    Africa
+Population:   123.4M people
+Currency:     Ethiopian birr
+Language:     Amharic
+Government:   Federal Republic
+Independence: 1270
+GDP (USD B):  $111.3B
+
+Country:      Turkey
+Capital:      Ankara
+Continent:    Europe/Asia
+Population:   85.3M people
+Currency:     Turkish lira
+Language:     Turkish
+Government:   Presidential Republic
+Independence: 1923
+GDP (USD B):  $905.5B
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Transistor
+Year:       1947
+Inventor:   Bardeen/Brattain/Shockley
+Country:    USA
+Category:   Electronics
+Description:Semiconductor switch replacing vacuum tubes
+Impact:     Foundation of all modern electronics; miniaturization
+
+Invention:  Writing
+Year:       3200
+Inventor:   Sumerians
+Country:    Mesopotamia
+Category:   Communication
+Description:Cuneiform marks in clay tablets
+Impact:     Enabled civilization-scale organization and history
+
+Invention:  Automobile
+Year:       1885
+Inventor:   Karl Benz
+Country:    Germany
+Category:   Transportation
+Description:Gasoline-powered self-propelled vehicle
+Impact:     Transformed cities, suburbs, economy; petroleum age
+
+============================================================
+  END OF VOLUME 0971
+============================================================

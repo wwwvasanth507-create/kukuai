@@ -1,0 +1,256 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0808 of 1000
+  Topic Focus: Philosophy & Ethics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Ai
+  - Economics
+  - Inventions
+  - People
+  - Countries
+  - Science
+  - History
+  - Animals
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+Concept:     RAG
+Category:    Architecture
+Definition:  Combines retrieval from knowledge base with generative model
+Year:        2020
+Researchers: Lewis et al.
+Applications:QA, chatbots, enterprise AI
+Related:     Vector database, semantic search, LLM
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+Invention:  Microprocessor
+Year:       1971
+Inventor:   Intel
+Country:    USA
+Category:   Computing
+Description:Complete CPU on silicon chip
+Impact:     Enabled personal computers; semiconductor industry
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      South Africa
+Capital:      Pretoria
+Continent:    Africa
+Population:   59.9M people
+Currency:     South African rand
+Language:     11 official langs
+Government:   Presidential Republic
+Independence: 1910
+GDP (USD B):  $418.0B
+
+Country:      Czech Republic
+Capital:      Prague
+Continent:    Europe
+Population:   10.8M people
+Currency:     Czech koruna
+Language:     Czech
+Government:   Parliamentary Republic
+Independence: 1993
+GDP (USD B):  $290.9B
+
+Country:      New Zealand
+Capital:      Wellington
+Continent:    Oceania
+Population:   5.1M people
+Currency:     New Zealand dollar
+Language:     English/Maori
+Government:   Parliamentary Democracy
+Independence: 1907
+GDP (USD B):  $249.9B
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Chemistry
+Topic:   Conservation of Mass
+Formula: Reactants mass = Products mass
+Note:    Mass is conserved in all chemical reactions
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1687 AD
+Event:        Newton's Principia Mathematica
+Region:       Europe
+Key Figures:  Isaac Newton
+Significance: Laws of motion and gravity
+
+Year:         1776 AD
+Event:        American Declaration of Independence
+Region:       Americas
+Key Figures:  Jefferson/Franklin
+Significance: First modern democracy
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+Year:         2023 AD
+Event:        AI large language models go mainstream
+Region:       Global
+Key Figures:  OpenAI/Anthropic
+Significance: ChatGPT transforms knowledge work
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Mantis Shrimp
+Scientific:   Stomatopoda
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     20 years
+Weight:       0.1 kg
+Status:       Least Concern
+Fact:         Fastest punch in animal kingdom; 16 types of color receptors
+
+Name:         Emperor Penguin
+Scientific:   Aptenodytes forsteri
+Class:        Aves
+Habitat:      Antarctic
+Diet:         Carnivore
+Lifespan:     25 years
+Weight:       45 kg
+Status:       Near Threatened
+Fact:         Deepest-diving bird at 565m; male incubates egg 65 days without eating
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+============================================================
+  END OF VOLUME 0808
+============================================================

@@ -1,0 +1,282 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0763 of 1000
+  Topic Focus: Technology & Computing
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Diseases
+  - Elements
+  - Ai
+  - Countries
+  - People
+  - Philosophy
+  - Science
+  - History
+  - Animals
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     COVID-19
+Type:        Viral
+Pathogen:    SARS-CoV-2
+Transmission:Respiratory droplets
+Symptoms:    Fever, cough, loss of smell
+Treatment:   Antivirals, supportive care
+Deaths/yr:   5.0M
+Vaccine:     Yes (mRNA vaccines)
+Discovered:  2019
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Gold (Au)
+Atomic Number: 79
+Category:      Transition metal
+Atomic Mass:   196.967 u
+Uses:          Jewelry, currency, electronics
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Fluorine (F)
+Atomic Number: 9
+Category:      Halogen
+Atomic Mass:   18.998 u
+Uses:          Toothpaste, Teflon, refrigerants
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Fine-tuning
+Category:    Training technique
+Definition:  Updates pre-trained model weights on task-specific data
+Year:        2018
+Researchers: Howard/Ruder (ULMFiT)
+Applications:Customizing LLMs, domain adaptation
+Related:     Supervised fine-tuning, PEFT, LoRA
+
+Concept:     Mixture of Experts
+Category:    Architecture
+Definition:  Sparse model activating different expert subsets per token
+Year:        2017
+Researchers: Shazeer et al.
+Applications:Large LLMs (Mixtral, rumored GPT-4)
+Related:     Sparse activation, routing, scaling efficiency
+
+Concept:     Reinforcement Learning
+Category:    Paradigm
+Definition:  Agent learns from environment interaction to maximize reward
+Year:        1950
+Researchers: Bellman; Sutton/Barto
+Applications:Games, robotics, recommendations, LLM alignment
+Related:     Reward, policy, value function, Q-learning
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Russia
+Capital:      Moscow
+Continent:    Europe/Asia
+Population:   144.7M people
+Currency:     Russian ruble
+Language:     Russian
+Government:   Federal Semi-Presidential
+Independence: 1991
+GDP (USD B):  $2244.3B
+
+Country:      Canada
+Capital:      Ottawa
+Continent:    North America
+Population:   38.2M people
+Currency:     Canadian dollar
+Language:     English/French
+Government:   Federal Parliamentary
+Independence: 1867
+GDP (USD B):  $2139.8B
+
+Country:      Malaysia
+Capital:      Kuala Lumpur
+Continent:    Asia
+Population:   33.0M people
+Currency:     Malaysian ringgit
+Language:     Malay
+Government:   Constitutional Monarchy
+Independence: 1957
+GDP (USD B):  $439.4B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         490 BC
+Event:        Battle of Marathon
+Region:       Europe
+Key Figures:  Miltiades
+Significance: Greek victory saves Western civilization
+
+Year:         221 BC
+Event:        China unified by Qin Shi Huang
+Region:       Asia
+Key Figures:  Qin Shi Huang
+Significance: First Chinese emperor; Great Wall construction
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1492 AD
+Event:        Columbus reaches Americas
+Region:       Americas
+Key Figures:  Columbus
+Significance: Opens colonization; Columbian Exchange
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Emperor Penguin
+Scientific:   Aptenodytes forsteri
+Class:        Aves
+Habitat:      Antarctic
+Diet:         Carnivore
+Lifespan:     25 years
+Weight:       45 kg
+Status:       Near Threatened
+Fact:         Deepest-diving bird at 565m; male incubates egg 65 days without eating
+
+Name:         Cheetah
+Scientific:   Acinonyx jubatus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     12 years
+Weight:       65 kg
+Status:       Vulnerable
+Fact:         Fastest land animal at 120 km/h; cannot roar; purrs instead
+
+============================================================
+  END OF VOLUME 0763
+============================================================

@@ -1,0 +1,275 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0026 of 1000
+  Topic Focus: Mathematics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Qa
+  - Countries
+  - Math
+  - Philosophy
+  - Inventions
+  - Ai
+  - History
+  - Diseases
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is supply and demand?
+A1: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+Q2: What is the speed of light?
+A2: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+Q3: What is a black hole?
+A3: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+Q4: What is metabolism?
+A4: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q5: What is the periodic table?
+A5: The periodic table organizes 118 elements by atomic
+     number. Elements in the same column share chemical
+     properties. Rows are periods; columns are groups.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Zimbabwe
+Capital:      Harare
+Continent:    Africa
+Population:   15.1M people
+Currency:     Zimbabwe dollar
+Language:     16 official langs
+Government:   Presidential Republic
+Independence: 1980
+GDP (USD B):  $26.1B
+
+Country:      Argentina
+Capital:      Buenos Aires
+Continent:    South America
+Population:   46.0M people
+Currency:     Argentine peso
+Language:     Spanish
+Government:   Federal Republic
+Independence: 1816
+GDP (USD B):  $487.2B
+
+Country:      Pakistan
+Capital:      Islamabad
+Continent:    Asia
+Population:   231.4M people
+Currency:     Pakistani rupee
+Language:     Urdu/English
+Government:   Federal Republic
+Independence: 1947
+GDP (USD B):  $376.5B
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Existentialism
+Branch:       Metaphysics
+Definition:   Existence precedes essence; radical freedom and responsibility
+Philosopher:  Jean-Paul Sartre
+Example:      You are not born kind or cruel; you become so through choices
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  Automobile
+Year:       1885
+Inventor:   Karl Benz
+Country:    Germany
+Category:   Transportation
+Description:Gasoline-powered self-propelled vehicle
+Impact:     Transformed cities, suburbs, economy; petroleum age
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     RLHF
+Category:    Training technique
+Definition:  Fine-tunes LLMs using human preference comparisons
+Year:        2017
+Researchers: Christiano et al.
+Applications:ChatGPT, Claude, Gemini alignment
+Related:     PPO, reward model, preference learning
+
+Concept:     Word Embeddings
+Category:    Representation
+Definition:  Dense vectors where semantic similarity = vector proximity
+Year:        2013
+Researchers: Mikolov et al.
+Applications:NLP, recommendation, search
+Related:     Word2Vec, GloVe, BERT embeddings
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1492 AD
+Event:        Columbus reaches Americas
+Region:       Americas
+Key Figures:  Columbus
+Significance: Opens colonization; Columbian Exchange
+
+Year:         1859 AD
+Event:        Darwin's Origin of Species
+Region:       Europe
+Key Figures:  Charles Darwin
+Significance: Theory of evolution by natural selection
+
+Year:         1928 AD
+Event:        Penicillin discovered
+Region:       Europe
+Key Figures:  Alexander Fleming
+Significance: First antibiotic; saves hundreds of millions
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+============================================================
+  END OF VOLUME 0026
+============================================================

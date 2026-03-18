@@ -1,0 +1,267 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0481 of 1000
+  Topic Focus: Natural Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Countries
+  - Ai
+  - Science
+  - Animals
+  - Diseases
+  - Inventions
+  - Economics
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the internet?
+A1: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q2: What is evolution?
+A2: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q3: What is a neuron?
+A3: A neuron is a nerve cell that processes and transmits
+     information through electrical and chemical signals.
+     Key parts: dendrites (receive signals), cell body, axon
+     (send signals).
+
+Q4: What is capitalism?
+A4: Capitalism is an economic system where private
+     individuals own the means of production and markets
+     determine prices and production through supply and
+     demand.
+
+Q5: What is the water cycle?
+A5: Water evaporates from oceans/lakes, rises and condenses
+     into clouds, falls as precipitation, and flows back via
+     rivers and groundwater. Driven by solar energy.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Russia
+Capital:      Moscow
+Continent:    Europe/Asia
+Population:   144.7M people
+Currency:     Russian ruble
+Language:     Russian
+Government:   Federal Semi-Presidential
+Independence: 1991
+GDP (USD B):  $2244.3B
+
+Country:      Malaysia
+Capital:      Kuala Lumpur
+Continent:    Asia
+Population:   33.0M people
+Currency:     Malaysian ringgit
+Language:     Malay
+Government:   Constitutional Monarchy
+Independence: 1957
+GDP (USD B):  $439.4B
+
+Country:      Cuba
+Capital:      Havana
+Continent:    North America
+Population:   11.2M people
+Currency:     Cuban peso
+Language:     Spanish
+Government:   Communist State
+Independence: 1898
+GDP (USD B):  $107.4B
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     RLHF
+Category:    Training technique
+Definition:  Fine-tunes LLMs using human preference comparisons
+Year:        2017
+Researchers: Christiano et al.
+Applications:ChatGPT, Claude, Gemini alignment
+Related:     PPO, reward model, preference learning
+
+Concept:     Reinforcement Learning
+Category:    Paradigm
+Definition:  Agent learns from environment interaction to maximize reward
+Year:        1950
+Researchers: Bellman; Sutton/Barto
+Applications:Games, robotics, recommendations, LLM alignment
+Related:     Reward, policy, value function, Q-learning
+
+Concept:     RAG
+Category:    Architecture
+Definition:  Combines retrieval from knowledge base with generative model
+Year:        2020
+Researchers: Lewis et al.
+Applications:QA, chatbots, enterprise AI
+Related:     Vector database, semantic search, LLM
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Planck's Constant
+Formula: h = 6.626×10⁻³⁴ J·s
+Note:    Quantum of action; E = hf for photon energy
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+Domain:  Geology
+Topic:   Plate Tectonics
+Formula: ~15 major plates on mantle
+Note:    Explains earthquakes, volcanoes, mountain formation
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Astronomy
+Topic:   Milky Way Size
+Formula: ~100,000 light-years diameter
+Note:    Our galaxy; contains 200-400 billion stars
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Mantis Shrimp
+Scientific:   Stomatopoda
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     20 years
+Weight:       0.1 kg
+Status:       Least Concern
+Fact:         Fastest punch in animal kingdom; 16 types of color receptors
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Photography
+Year:       1826
+Inventor:   Nicephore Niepce
+Country:    France
+Category:   Communication
+Description:Chemical capture of light images
+Impact:     Transformed art, journalism, science, identity
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+============================================================
+  END OF VOLUME 0481
+============================================================

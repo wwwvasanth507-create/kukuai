@@ -1,0 +1,205 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0938 of 1000
+  Topic Focus: Engineering
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - Inventions
+  - Math
+  - Elements
+  - Philosophy
+  - People
+  - Qa
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Chemistry
+Topic:   Conservation of Mass
+Formula: Reactants mass = Products mass
+Note:    Mass is conserved in all chemical reactions
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Physics
+Topic:   Planck's Constant
+Formula: h = 6.626×10⁻³⁴ J·s
+Note:    Quantum of action; E = hf for photon energy
+
+Domain:  Mathematics
+Topic:   Pi
+Formula: π ≈ 3.14159265358979...
+Note:    Ratio of circle circumference to diameter
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Photography
+Year:       1826
+Inventor:   Nicephore Niepce
+Country:    France
+Category:   Communication
+Description:Chemical capture of light images
+Impact:     Transformed art, journalism, science, identity
+
+Invention:  Computer
+Year:       1945
+Inventor:   Mauchly/Eckert
+Country:    USA
+Category:   Computing
+Description:ENIAC: first electronic computer
+Impact:     Digital revolution; led to all modern computing
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Nash Equilibrium
+Branch:       Game Theory
+Formula:      No player benefits from unilateral strategy change
+Applications: Economics, AI, political science
+Discoverer:   John Nash (1950)
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Beryllium (Be)
+Atomic Number: 4
+Category:      Alkaline earth
+Atomic Mass:   9.012 u
+Uses:          Aerospace alloys, X-ray windows
+
+Element:       Sulfur (S)
+Atomic Number: 16
+Category:      Nonmetal
+Atomic Mass:   32.065 u
+Uses:          Sulfuric acid, gunpowder, rubber
+
+Element:       Zinc (Zn)
+Atomic Number: 30
+Category:      Transition metal
+Atomic Mass:   65.38 u
+Uses:          Galvanizing, alloys, sunscreen
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is supply and demand?
+A1: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+Q2: What is capitalism?
+A2: Capitalism is an economic system where private
+     individuals own the means of production and markets
+     determine prices and production through supply and
+     demand.
+
+Q3: What is natural selection?
+A3: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q4: What is a black hole?
+A4: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+Q5: What is gravity?
+A5: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+============================================================
+  END OF VOLUME 0938
+============================================================

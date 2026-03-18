@@ -1,0 +1,278 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0539 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Qa
+  - Countries
+  - Diseases
+  - Science
+  - People
+  - History
+  - Math
+  - Elements
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the Big Bang?
+A1: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+Q2: What is a neuron?
+A2: A neuron is a nerve cell that processes and transmits
+     information through electrical and chemical signals.
+     Key parts: dendrites (receive signals), cell body, axon
+     (send signals).
+
+Q3: What is the Magna Carta?
+A3: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q4: What is quantum mechanics?
+A4: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+Q5: What is capitalism?
+A5: Capitalism is an economic system where private
+     individuals own the means of production and markets
+     determine prices and production through supply and
+     demand.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Finland
+Capital:      Helsinki
+Continent:    Europe
+Population:   5.6M people
+Currency:     Euro
+Language:     Finnish/Swedish
+Government:   Parliamentary Republic
+Independence: 1917
+GDP (USD B):  $297.3B
+
+Country:      Morocco
+Capital:      Rabat
+Continent:    Africa
+Population:   37.5M people
+Currency:     Moroccan dirham
+Language:     Arabic/Berber
+Government:   Constitutional Monarchy
+Independence: 1956
+GDP (USD B):  $142.9B
+
+Country:      Albania
+Capital:      Tirana
+Continent:    Europe
+Population:   2.8M people
+Currency:     Albanian lek
+Language:     Albanian
+Government:   Parliamentary Republic
+Independence: 1912
+GDP (USD B):  $18.3B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Newton's Second Law
+Formula: F = ma
+Note:    Force equals mass times acceleration; classical mechanics
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+Name:          Aristotle
+Lived:         384 - -322
+Nationality:   Greek
+Field:         Philosophy
+Known For:     Logic, ethics, biology
+Contribution:  Codified logic; wrote on biology, physics, ethics, politics; tutored Alexander
+Quote:         "The more you know, the more you know you don't know."
+
+Name:          Albert Einstein
+Lived:         1879 - 1955
+Nationality:   German-American
+Field:         Physics
+Known For:     Theory of Relativity
+Contribution:  E=mc2; photoelectric effect; special and general relativity
+Quote:         "Imagination is more important than knowledge."
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1903 AD
+Event:        First powered flight
+Region:       Americas
+Key Figures:  Wright Brothers
+Significance: Opens aviation age
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+============================================================
+  END OF VOLUME 0539
+============================================================

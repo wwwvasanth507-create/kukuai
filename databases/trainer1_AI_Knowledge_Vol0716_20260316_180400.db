@@ -1,0 +1,229 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0716 of 1000
+  Topic Focus: Biology
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Ai
+  - Diseases
+  - Animals
+  - Elements
+  - History
+  - Countries
+  - People
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Chain-of-Thought
+Category:    Prompting
+Definition:  Prompting LLM to show step-by-step reasoning before answer
+Year:        2022
+Researchers: Wei et al.
+Applications:Math, logic, coding, complex reasoning
+Related:     Scratchpad, few-shot prompting
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+Concept:     Fine-tuning
+Category:    Training technique
+Definition:  Updates pre-trained model weights on task-specific data
+Year:        2018
+Researchers: Howard/Ruder (ULMFiT)
+Applications:Customizing LLMs, domain adaptation
+Related:     Supervised fine-tuning, PEFT, LoRA
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     COVID-19
+Type:        Viral
+Pathogen:    SARS-CoV-2
+Transmission:Respiratory droplets
+Symptoms:    Fever, cough, loss of smell
+Treatment:   Antivirals, supportive care
+Deaths/yr:   5.0M
+Vaccine:     Yes (mRNA vaccines)
+Discovered:  2019
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Octopus
+Scientific:   Octopus vulgaris
+Class:        Cephalopoda
+Habitat:      Ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       10 kg
+Status:       Least Concern
+Fact:         3 hearts, blue blood; changes color in 0.3 seconds; 9 brains
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+Name:         Snow Leopard
+Scientific:   Panthera uncia
+Class:        Mammalia
+Habitat:      Mountain
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       55 kg
+Status:       Vulnerable
+Fact:         Cannot roar; uses long tail as blanket; leaps 15 meters
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Beryllium (Be)
+Atomic Number: 4
+Category:      Alkaline earth
+Atomic Mass:   9.012 u
+Uses:          Aerospace alloys, X-ray windows
+
+Element:       Silicon (Si)
+Atomic Number: 14
+Category:      Metalloid
+Atomic Mass:   28.086 u
+Uses:          Semiconductors, glass, solar cells
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         490 BC
+Event:        Battle of Marathon
+Region:       Europe
+Key Figures:  Miltiades
+Significance: Greek victory saves Western civilization
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         0 AD
+Event:        Estimated birth of Jesus Christ
+Region:       Middle East
+Key Figures:  Jesus of Nazareth
+Significance: Foundation of Christianity
+
+Year:         1879 AD
+Event:        Edison invents light bulb
+Region:       Americas
+Key Figures:  Thomas Edison
+Significance: Begins electric age
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Peru
+Capital:      Lima
+Continent:    South America
+Population:   33.4M people
+Currency:     Peruvian sol
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1821
+GDP (USD B):  $242.6B
+
+Country:      Denmark
+Capital:      Copenhagen
+Continent:    Europe
+Population:   5.9M people
+Currency:     Danish krone
+Language:     Danish
+Government:   Constitutional Monarchy
+Independence: 1849
+GDP (USD B):  $398.3B
+
+Country:      Turkey
+Capital:      Ankara
+Continent:    Europe/Asia
+Population:   85.3M people
+Currency:     Turkish lira
+Language:     Turkish
+Government:   Presidential Republic
+Independence: 1923
+GDP (USD B):  $905.5B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Name:          Tim Berners-Lee
+Lived:         1955 - present
+Nationality:   English
+Field:         Computing
+Known For:     World Wide Web
+Contribution:  Invented the Web in 1989; gave it to the world for free
+Quote:         "The web does not just connect machines, it connects people."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+============================================================
+  END OF VOLUME 0716
+============================================================

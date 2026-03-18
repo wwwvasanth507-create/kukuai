@@ -1,0 +1,220 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0350 of 1000
+  Topic Focus: Artificial Intelligence
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - Qa
+  - Countries
+  - Economics
+  - Elements
+  - Animals
+  - History
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  C#
+Created:   2000 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Enterprise, Unity games, web
+Hello:     Console.WriteLine("Hello, World!");
+
+Language:  SQL
+Created:   1974 by Chamberlin/Boyce
+Paradigm:  Declarative
+Typing:    N/A
+Uses:      Relational databases
+Hello:     SELECT 'Hello, World!';
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the internet?
+A1: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q2: What is the Big Bang?
+A2: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+Q3: What is metabolism?
+A3: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q4: What is entropy?
+A4: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q5: What is the greenhouse effect?
+A5: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Iran
+Capital:      Tehran
+Continent:    Asia
+Population:   87.9M people
+Currency:     Iranian rial
+Language:     Persian
+Government:   Islamic Republic
+Independence: 1979
+GDP (USD B):  $368.9B
+
+Country:      New Zealand
+Capital:      Wellington
+Continent:    Oceania
+Population:   5.1M people
+Currency:     New Zealand dollar
+Language:     English/Maori
+Government:   Parliamentary Democracy
+Independence: 1907
+GDP (USD B):  $249.9B
+
+Country:      Chile
+Capital:      Santiago
+Continent:    South America
+Population:   19.6M people
+Currency:     Chilean peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1818
+GDP (USD B):  $317.1B
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Sodium (Na)
+Atomic Number: 11
+Category:      Alkali metal
+Atomic Mass:   22.99 u
+Uses:          Salt, soap, street lights
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Monarch Butterfly
+Scientific:   Danaus plexippus
+Class:        Insecta
+Habitat:      Meadows
+Diet:         Herbivore
+Lifespan:     0.25 years
+Weight:       0.0005 kg
+Status:       Endangered
+Fact:         Migrates 4,800 km; uses Earth's magnetic field for navigation
+
+Name:         Saltwater Crocodile
+Scientific:   Crocodylus porosus
+Class:        Reptilia
+Habitat:      Coastal
+Diet:         Carnivore
+Lifespan:     70 years
+Weight:       1000 kg
+Status:       Least Concern
+Fact:         Strongest bite force of any living animal; survived dinosaurs
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         0 AD
+Event:        Estimated birth of Jesus Christ
+Region:       Middle East
+Key Figures:  Jesus of Nazareth
+Significance: Foundation of Christianity
+
+Year:         570 AD
+Event:        Birth of Prophet Muhammad
+Region:       Middle East
+Key Figures:  Muhammad
+Significance: Founder of Islam; 1.9 billion followers
+
+Year:         1215 AD
+Event:        Magna Carta signed
+Region:       Europe
+Key Figures:  King John/Barons
+Significance: Foundation of constitutional law
+
+Year:         1453 AD
+Event:        Fall of Constantinople
+Region:       Europe/Asia
+Key Figures:  Mehmed II
+Significance: Ends Byzantine Empire; drives exploration
+
+============================================================
+  END OF VOLUME 0350
+============================================================

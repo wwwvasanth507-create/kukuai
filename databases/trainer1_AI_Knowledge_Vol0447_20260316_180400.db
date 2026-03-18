@@ -1,0 +1,275 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0447 of 1000
+  Topic Focus: Economics & Finance
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - Animals
+  - Science
+  - Philosophy
+  - Economics
+  - Qa
+  - Countries
+  - Ai
+  - Elements
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+Invention:  Internet
+Year:       1969
+Inventor:   DARPA/UCLA
+Country:    USA
+Category:   Communication
+Description:Packet-switched network connecting computers
+Impact:     Became internet; most transformative network ever
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Cheetah
+Scientific:   Acinonyx jubatus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     12 years
+Weight:       65 kg
+Status:       Vulnerable
+Fact:         Fastest land animal at 120 km/h; cannot roar; purrs instead
+
+Name:         Mimic Octopus
+Scientific:   Thaumoctopus mimicus
+Class:        Cephalopoda
+Habitat:      Shallow sea
+Diet:         Carnivore
+Lifespan:     1 years
+Weight:       0.5 kg
+Status:       Least Concern
+Fact:         Can mimic 15+ different species including lionfish and flatfish
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Planck's Constant
+Formula: h = 6.626×10⁻³⁴ J·s
+Note:    Quantum of action; E = hf for photon energy
+
+Domain:  Biology
+Topic:   Cell Theory
+Formula: All life is made of cells arising from pre-existing cells
+Note:    Foundation of modern biology
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Nihilism
+Branch:       Ethics
+Definition:   Life has no inherent meaning; values are human inventions
+Philosopher:  Nietzsche (diagnosed)
+Example:      Without objective grounding, all moral frameworks are invented
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is an algorithm?
+A1: An algorithm is a step-by-step procedure for solving a
+     problem. Algorithms have inputs, defined steps, and
+     outputs. Examples: sorting, searching, path-finding.
+
+Q2: What is the Big Bang?
+A2: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+Q3: What is gravity?
+A3: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q4: What is a programming language?
+A4: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q5: What is machine learning?
+A5: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Turkey
+Capital:      Ankara
+Continent:    Europe/Asia
+Population:   85.3M people
+Currency:     Turkish lira
+Language:     Turkish
+Government:   Presidential Republic
+Independence: 1923
+GDP (USD B):  $905.5B
+
+Country:      Albania
+Capital:      Tirana
+Continent:    Europe
+Population:   2.8M people
+Currency:     Albanian lek
+Language:     Albanian
+Government:   Parliamentary Republic
+Independence: 1912
+GDP (USD B):  $18.3B
+
+Country:      Australia
+Capital:      Canberra
+Continent:    Oceania
+Population:   26.5M people
+Currency:     Australian dollar
+Language:     English
+Government:   Federal Parliamentary
+Independence: 1901
+GDP (USD B):  $1675.4B
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Backpropagation
+Category:    Training
+Definition:  Computes gradients via chain rule through network layers
+Year:        1986
+Researchers: Rumelhart/Hinton
+Applications:Training all neural networks
+Related:     Gradient descent, automatic differentiation
+
+Concept:     Transfer Learning
+Category:    Technique
+Definition:  Reuses pre-trained model weights for new related tasks
+Year:        2009
+Researchers: Pan and Yang survey
+Applications:Fine-tuning LLMs, computer vision
+Related:     Pre-training, fine-tuning, domain adaptation
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+============================================================
+  END OF VOLUME 0447
+============================================================

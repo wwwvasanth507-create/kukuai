@@ -1,0 +1,249 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0103 of 1000
+  Topic Focus: Technology & Computing
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - Math
+  - Diseases
+  - Animals
+  - Philosophy
+  - Ai
+  - Qa
+  - Programming
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Biology
+Topic:   Cell Theory
+Formula: All life is made of cells arising from pre-existing cells
+Note:    Foundation of modern biology
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Pythagorean Theorem
+Branch:       Geometry
+Formula:      a² + b² = c²
+Applications: Navigation, construction, computer graphics
+Discoverer:   Pythagoras (500)
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Mantis Shrimp
+Scientific:   Stomatopoda
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     20 years
+Weight:       0.1 kg
+Status:       Least Concern
+Fact:         Fastest punch in animal kingdom; 16 types of color receptors
+
+Name:         Mimic Octopus
+Scientific:   Thaumoctopus mimicus
+Class:        Cephalopoda
+Habitat:      Shallow sea
+Diet:         Carnivore
+Lifespan:     1 years
+Weight:       0.5 kg
+Status:       Least Concern
+Fact:         Can mimic 15+ different species including lionfish and flatfish
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Dialectical Materialism
+Branch:       Metaphysics
+Definition:   History driven by material economic forces through thesis-antithesis-synthesis
+Philosopher:  Karl Marx/Hegel
+Example:      Class struggle between bourgeoisie and proletariat drives history
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Categorical Imperative
+Branch:       Ethics
+Definition:   Act only on principles you could will to be universal laws
+Philosopher:  Immanuel Kant
+Example:      Don't lie; if universal lying existed, language would break down
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Diffusion Model
+Category:    Architecture
+Definition:  Learns to reverse a noise-adding process for generation
+Year:        2020
+Researchers: Ho et al.
+Applications:Image/video/audio generation (Stable Diffusion)
+Related:     DDPM, score matching, noise schedule
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is supply and demand?
+A1: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+Q2: What is gravity?
+A2: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q3: What is relativity?
+A3: Einstein's relativity: Special (1905) — time dilates,
+     mass increases at high speeds; E=mc². General (1915) —
+     gravity is curved spacetime; explains black holes and
+     expanding universe.
+
+Q4: What is osmosis?
+A4: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q5: What is the internet?
+A5: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+Language:  Ruby
+Created:   1995 by Yukihiro Matsumoto
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web (Rails), scripting
+Hello:     puts "Hello, World!"
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+============================================================
+  END OF VOLUME 0103
+============================================================

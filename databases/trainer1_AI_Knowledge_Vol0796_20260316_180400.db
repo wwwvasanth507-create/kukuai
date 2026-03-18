@@ -1,0 +1,192 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0796 of 1000
+  Topic Focus: Biology
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Diseases
+  - Programming
+  - Elements
+  - Science
+  - Countries
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+Language:  C++
+Created:   1985 by Bjarne Stroustrup
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, games, embedded, HPC
+Hello:     cout << "Hello, World!";
+
+Language:  Rust
+Created:   2010 by Graydon Hoare
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, WebAssembly, embedded
+Hello:     println!("Hello, World!");
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Lithium (Li)
+Atomic Number: 3
+Category:      Alkali metal
+Atomic Mass:   6.941 u
+Uses:          Batteries, ceramics, psychiatric medicine
+
+Element:       Helium (He)
+Atomic Number: 2
+Category:      Noble gas
+Atomic Mass:   4.003 u
+Uses:          Balloons, cryogenics, MRI cooling
+
+Element:       Calcium (Ca)
+Atomic Number: 20
+Category:      Alkaline earth
+Atomic Mass:   40.078 u
+Uses:          Bones, teeth, concrete, steel
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Astronomy
+Topic:   Schwarzschild Radius
+Formula: r_s = 2GM/c²
+Note:    Event horizon radius of a black hole
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+Domain:  Medicine
+Topic:   Blood Types
+Formula: ABO system + Rh factor
+Note:    Determines blood transfusion compatibility
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Colombia
+Capital:      Bogota
+Continent:    South America
+Population:   51.8M people
+Currency:     Colombian peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1810
+GDP (USD B):  $343.6B
+
+Country:      Hungary
+Capital:      Budapest
+Continent:    Europe
+Population:   9.7M people
+Currency:     Hungarian forint
+Language:     Hungarian
+Government:   Parliamentary Republic
+Independence: 1000
+GDP (USD B):  $178.5B
+
+Country:      Ukraine
+Capital:      Kyiv
+Continent:    Europe
+Population:   43.5M people
+Currency:     Ukrainian hryvnia
+Language:     Ukrainian
+Government:   Semi-Presidential Republic
+Independence: 1991
+GDP (USD B):  $160.5B
+
+============================================================
+  END OF VOLUME 0796
+============================================================

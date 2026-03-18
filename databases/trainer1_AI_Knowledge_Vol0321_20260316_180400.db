@@ -1,0 +1,191 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0321 of 1000
+  Topic Focus: Natural Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Math
+  - Ai
+  - Diseases
+  - Countries
+  - Economics
+  - Inventions
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     CNN
+Category:    Architecture
+Definition:  Convolutional filters detect spatial features hierarchically
+Year:        1989
+Researchers: LeCun et al.
+Applications:Image classification, object detection
+Related:     Pooling, feature maps, ResNet
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Ghana
+Capital:      Accra
+Continent:    Africa
+Population:   32.4M people
+Currency:     Ghanaian cedi
+Language:     English
+Government:   Presidential Republic
+Independence: 1957
+GDP (USD B):  $77.6B
+
+Country:      Malaysia
+Capital:      Kuala Lumpur
+Continent:    Asia
+Population:   33.0M people
+Currency:     Malaysian ringgit
+Language:     Malay
+Government:   Constitutional Monarchy
+Independence: 1957
+GDP (USD B):  $439.4B
+
+Country:      Norway
+Capital:      Oslo
+Continent:    Europe
+Population:   5.5M people
+Currency:     Norwegian krone
+Language:     Norwegian
+Government:   Constitutional Monarchy
+Independence: 1814
+GDP (USD B):  $579.2B
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  Steam Engine
+Year:       1769
+Inventor:   James Watt
+Country:    Scotland
+Category:   Energy
+Description:Steam pressure to mechanical motion
+Impact:     Powered the Industrial Revolution
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+============================================================
+  END OF VOLUME 0321
+============================================================

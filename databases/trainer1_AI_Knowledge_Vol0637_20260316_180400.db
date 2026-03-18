@@ -1,0 +1,224 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0637 of 1000
+  Topic Focus: Space Exploration
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - History
+  - Diseases
+  - Economics
+  - Qa
+  - Elements
+  - People
+  - Animals
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1492 AD
+Event:        Columbus reaches Americas
+Region:       Americas
+Key Figures:  Columbus
+Significance: Opens colonization; Columbian Exchange
+
+Year:         1789 AD
+Event:        French Revolution begins
+Region:       Europe
+Key Figures:  Robespierre
+Significance: Spreads liberty, equality, fraternity
+
+Year:         1917 AD
+Event:        Russian Revolution
+Region:       Europe
+Key Figures:  Lenin/Trotsky
+Significance: Communism seizes power; USSR formed
+
+Year:         2022 AD
+Event:        Russia invades Ukraine
+Region:       Europe
+Key Figures:  Putin/Zelensky
+Significance: Largest European war since WWII
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is osmosis?
+A1: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q2: What is gravity?
+A2: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q3: What is democracy?
+A3: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q4: What is entropy?
+A4: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q5: What is a programming language?
+A5: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Sodium (Na)
+Atomic Number: 11
+Category:      Alkali metal
+Atomic Mass:   22.99 u
+Uses:          Salt, soap, street lights
+
+Element:       Sulfur (S)
+Atomic Number: 16
+Category:      Nonmetal
+Atomic Mass:   32.065 u
+Uses:          Sulfuric acid, gunpowder, rubber
+
+Element:       Iron (Fe)
+Atomic Number: 26
+Category:      Transition metal
+Atomic Mass:   55.845 u
+Uses:          Steel, cast iron, magnets, blood
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+============================================================
+  END OF VOLUME 0637
+============================================================

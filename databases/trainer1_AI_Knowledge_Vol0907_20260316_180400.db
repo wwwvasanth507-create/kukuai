@@ -1,0 +1,279 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0907 of 1000
+  Topic Focus: Economics & Finance
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Countries
+  - People
+  - Economics
+  - Animals
+  - Science
+  - Math
+  - Diseases
+  - Inventions
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+Concept:      Categorical Imperative
+Branch:       Ethics
+Definition:   Act only on principles you could will to be universal laws
+Philosopher:  Immanuel Kant
+Example:      Don't lie; if universal lying existed, language would break down
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Germany
+Capital:      Berlin
+Continent:    Europe
+Population:   84.4M people
+Currency:     Euro
+Language:     German
+Government:   Federal Republic
+Independence: 1871
+GDP (USD B):  $4259.9B
+
+Country:      Australia
+Capital:      Canberra
+Continent:    Oceania
+Population:   26.5M people
+Currency:     Australian dollar
+Language:     English
+Government:   Federal Parliamentary
+Independence: 1901
+GDP (USD B):  $1675.4B
+
+Country:      Bangladesh
+Capital:      Dhaka
+Continent:    Asia
+Population:   170.0M people
+Currency:     Bangladeshi taka
+Language:     Bengali
+Government:   Parliamentary Republic
+Independence: 1971
+GDP (USD B):  $460.2B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Snow Leopard
+Scientific:   Panthera uncia
+Class:        Mammalia
+Habitat:      Mountain
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       55 kg
+Status:       Vulnerable
+Fact:         Cannot roar; uses long tail as blanket; leaps 15 meters
+
+Name:         Octopus
+Scientific:   Octopus vulgaris
+Class:        Cephalopoda
+Habitat:      Ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       10 kg
+Status:       Least Concern
+Fact:         3 hearts, blue blood; changes color in 0.3 seconds; 9 brains
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Physics
+Topic:   Newton's Second Law
+Formula: F = ma
+Note:    Force equals mass times acceleration; classical mechanics
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     COVID-19
+Type:        Viral
+Pathogen:    SARS-CoV-2
+Transmission:Respiratory droplets
+Symptoms:    Fever, cough, loss of smell
+Treatment:   Antivirals, supportive care
+Deaths/yr:   5.0M
+Vaccine:     Yes (mRNA vaccines)
+Discovered:  2019
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Telegraph
+Year:       1837
+Inventor:   Samuel Morse
+Country:    USA
+Category:   Communication
+Description:Electrical coded message transmission
+Impact:     First rapid long-distance communication
+
+Invention:  Wheel
+Year:       3500
+Inventor:   Unknown
+Country:    Mesopotamia
+Category:   Transportation
+Description:Rolling cylinder for moving loads
+Impact:     Foundation of all land vehicles and machinery
+
+============================================================
+  END OF VOLUME 0907
+============================================================

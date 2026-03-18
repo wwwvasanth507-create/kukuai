@@ -1,0 +1,285 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0119 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - History
+  - Ai
+  - Animals
+  - Diseases
+  - Programming
+  - Countries
+  - People
+  - Science
+  - Math
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3000 BC
+Event:        Invention of cuneiform writing
+Region:       Middle East
+Key Figures:  Sumerians
+Significance: First writing system enables record-keeping
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         1215 AD
+Event:        Magna Carta signed
+Region:       Europe
+Key Figures:  King John/Barons
+Significance: Foundation of constitutional law
+
+Year:         2020 AD
+Event:        COVID-19 pandemic declared
+Region:       Global
+Key Figures:  WHO
+Significance: Worst pandemic since 1918; 6M+ dead
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+Concept:     Word Embeddings
+Category:    Representation
+Definition:  Dense vectors where semantic similarity = vector proximity
+Year:        2013
+Researchers: Mikolov et al.
+Applications:NLP, recommendation, search
+Related:     Word2Vec, GloVe, BERT embeddings
+
+Concept:     Reinforcement Learning
+Category:    Paradigm
+Definition:  Agent learns from environment interaction to maximize reward
+Year:        1950
+Researchers: Bellman; Sutton/Barto
+Applications:Games, robotics, recommendations, LLM alignment
+Related:     Reward, policy, value function, Q-learning
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+Name:         Arctic Fox
+Scientific:   Vulpes lagopus
+Class:        Mammalia
+Habitat:      Arctic tundra
+Diet:         Omnivore
+Lifespan:     3 years
+Weight:       3.5 kg
+Status:       Least Concern
+Fact:         Fur changes color seasonally; survives -70 degrees Celsius
+
+Name:         Emperor Penguin
+Scientific:   Aptenodytes forsteri
+Class:        Aves
+Habitat:      Antarctic
+Diet:         Carnivore
+Lifespan:     25 years
+Weight:       45 kg
+Status:       Near Threatened
+Fact:         Deepest-diving bird at 565m; male incubates egg 65 days without eating
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Malaria
+Type:        Parasitic
+Pathogen:    Plasmodium falciparum
+Transmission:Mosquito bite
+Symptoms:    Fever, chills, sweating cycles
+Treatment:   Artemisinin combination therapy
+Deaths/yr:   0.619M
+Vaccine:     Yes (RTS,S approved 2021)
+Discovered:  1880
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  Haskell
+Created:   1990 by Committee
+Paradigm:  Purely functional
+Typing:    Static
+Uses:      Academia, finance, type-safe systems
+Hello:     main = putStrLn "Hello, World!"
+
+Language:  Kotlin
+Created:   2011 by JetBrains
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Android, JVM, web back-end
+Hello:     println("Hello, World!")
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Spain
+Capital:      Madrid
+Continent:    Europe
+Population:   47.4M people
+Currency:     Euro
+Language:     Spanish
+Government:   Constitutional Monarchy
+Independence: 1479
+GDP (USD B):  $1492.4B
+
+Country:      Egypt
+Capital:      Cairo
+Continent:    Africa
+Population:   104.2M people
+Currency:     Egyptian pound
+Language:     Arabic
+Government:   Presidential Republic
+Independence: 1922
+GDP (USD B):  $476.8B
+
+Country:      Greece
+Capital:      Athens
+Continent:    Europe
+Population:   10.7M people
+Currency:     Euro
+Language:     Greek
+Government:   Parliamentary Republic
+Independence: 1821
+GDP (USD B):  $218.0B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Geology
+Topic:   Age of Earth
+Formula: 4.54 billion years
+Note:    Determined by radiometric dating of oldest rocks/meteorites
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+Domain:  Physics
+Topic:   2nd Law of Thermodynamics
+Formula: ΔS ≥ 0
+Note:    Entropy always increases in isolated systems
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Nash Equilibrium
+Branch:       Game Theory
+Formula:      No player benefits from unilateral strategy change
+Applications: Economics, AI, political science
+Discoverer:   John Nash (1950)
+
+============================================================
+  END OF VOLUME 0119
+============================================================

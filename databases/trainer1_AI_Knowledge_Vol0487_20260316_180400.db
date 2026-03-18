@@ -1,0 +1,196 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0487 of 1000
+  Topic Focus: Economics & Finance
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Math
+  - Programming
+  - Qa
+  - Countries
+  - Diseases
+  - Science
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Fundamental Theorem of Calculus
+Branch:       Calculus
+Formula:      ∫[a,b] f'(x)dx = f(b) - f(a)
+Applications: Physics, engineering, economics
+Discoverer:   Newton/Leibniz (1670)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Rust
+Created:   2010 by Graydon Hoare
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, WebAssembly, embedded
+Hello:     println!("Hello, World!");
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is machine learning?
+A1: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+Q2: What is the Pythagorean theorem?
+A2: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q3: What is artificial intelligence?
+A3: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q4: What is the Renaissance?
+A4: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+Q5: What is metabolism?
+A5: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      United States
+Capital:      Washington D.C.
+Continent:    North America
+Population:   335.9M people
+Currency:     US dollar
+Language:     English
+Government:   Federal Republic
+Independence: 1776
+GDP (USD B):  $27360.9B
+
+Country:      Finland
+Capital:      Helsinki
+Continent:    Europe
+Population:   5.6M people
+Currency:     Euro
+Language:     Finnish/Swedish
+Government:   Parliamentary Republic
+Independence: 1917
+GDP (USD B):  $297.3B
+
+Country:      Switzerland
+Capital:      Bern
+Continent:    Europe
+Population:   8.8M people
+Currency:     Swiss franc
+Language:     German/French/Italian
+Government:   Federal Republic
+Independence: 1291
+GDP (USD B):  $869.6B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+Domain:  Physics
+Topic:   2nd Law of Thermodynamics
+Formula: ΔS ≥ 0
+Note:    Entropy always increases in isolated systems
+
+Domain:  Physics
+Topic:   1st Law of Thermodynamics
+Formula: ΔU = Q - W
+Note:    Energy conservation in thermodynamic systems
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+============================================================
+  END OF VOLUME 0487
+============================================================

@@ -1,0 +1,247 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0855 of 1000
+  Topic Focus: Chemistry
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - History
+  - People
+  - Ai
+  - Science
+  - Economics
+  - Inventions
+  - Diseases
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  Java
+Created:   1995 by James Gosling
+Paradigm:  Object-oriented
+Typing:    Static
+Uses:      Enterprise, Android, web back-end
+Hello:     System.out.println("Hello, World!");
+
+Language:  Rust
+Created:   2010 by Graydon Hoare
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, WebAssembly, embedded
+Hello:     println!("Hello, World!");
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3100 BC
+Event:        Unification of Egypt
+Region:       Africa
+Key Figures:  Narmer
+Significance: First nation-state in history
+
+Year:         1439 AD
+Event:        Gutenberg printing press
+Region:       Europe
+Key Figures:  Gutenberg
+Significance: Democratizes knowledge; enables Reformation
+
+Year:         1914 AD
+Event:        World War I begins
+Region:       Europe
+Key Figures:  Multiple
+Significance: 17 million dead; empires collapse
+
+Year:         1953 AD
+Event:        DNA double helix discovered
+Region:       Europe
+Key Figures:  Watson/Crick/Franklin
+Significance: Reveals mechanism of heredity
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+Name:          Nelson Mandela
+Lived:         1918 - 2013
+Nationality:   South African
+Field:         Politics
+Known For:     End of apartheid
+Contribution:  First democratically elected SA president; 27 years in prison; Nobel Peace Prize
+Quote:         "Education is the most powerful weapon you can use to change the world."
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Diffusion Model
+Category:    Architecture
+Definition:  Learns to reverse a noise-adding process for generation
+Year:        2020
+Researchers: Ho et al.
+Applications:Image/video/audio generation (Stable Diffusion)
+Related:     DDPM, score matching, noise schedule
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Mathematics
+Topic:   Pi
+Formula: π ≈ 3.14159265358979...
+Note:    Ratio of circle circumference to diameter
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Biology
+Topic:   Cell Theory
+Formula: All life is made of cells arising from pre-existing cells
+Note:    Foundation of modern biology
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Vaccine
+Year:       1796
+Inventor:   Edward Jenner
+Country:    England
+Category:   Medicine
+Description:Cowpox inoculation against smallpox
+Impact:     Saved billions; smallpox eradicated; immunology foundation
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+============================================================
+  END OF VOLUME 0855
+============================================================

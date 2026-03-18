@@ -1,0 +1,221 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0641 of 1000
+  Topic Focus: Natural Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Math
+  - Diseases
+  - People
+  - History
+  - Animals
+  - Philosophy
+  - Qa
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+Theorem/Law:  Nash Equilibrium
+Branch:       Game Theory
+Formula:      No player benefits from unilateral strategy change
+Applications: Economics, AI, political science
+Discoverer:   John Nash (1950)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+Name:          Stephen Hawking
+Lived:         1942 - 2018
+Nationality:   English
+Field:         Physics
+Known For:     Black hole radiation
+Contribution:  Proved black holes emit radiation; A Brief History of Time; communicated science publicly
+Quote:         "Intelligence is the ability to adapt to change."
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         1215 AD
+Event:        Magna Carta signed
+Region:       Europe
+Key Figures:  King John/Barons
+Significance: Foundation of constitutional law
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Emperor Penguin
+Scientific:   Aptenodytes forsteri
+Class:        Aves
+Habitat:      Antarctic
+Diet:         Carnivore
+Lifespan:     25 years
+Weight:       45 kg
+Status:       Near Threatened
+Fact:         Deepest-diving bird at 565m; male incubates egg 65 days without eating
+
+Name:         Monarch Butterfly
+Scientific:   Danaus plexippus
+Class:        Insecta
+Habitat:      Meadows
+Diet:         Herbivore
+Lifespan:     0.25 years
+Weight:       0.0005 kg
+Status:       Endangered
+Fact:         Migrates 4,800 km; uses Earth's magnetic field for navigation
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Stoicism
+Branch:       Ethics
+Definition:   Focus only on what is in your control; accept all else with equanimity
+Philosopher:  Marcus Aurelius/Epictetus
+Example:      Illness is not in your control; your response to it is
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the Big Bang?
+A1: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+Q2: What is democracy?
+A2: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q3: What is osmosis?
+A3: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q4: What is the Magna Carta?
+A4: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q5: What is the greenhouse effect?
+A5: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+============================================================
+  END OF VOLUME 0641
+============================================================

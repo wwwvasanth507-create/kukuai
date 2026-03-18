@@ -1,0 +1,203 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0238 of 1000
+  Topic Focus: Engineering
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Economics
+  - Inventions
+  - Science
+  - Math
+  - Animals
+  - Elements
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+Concept:      Categorical Imperative
+Branch:       Ethics
+Definition:   Act only on principles you could will to be universal laws
+Philosopher:  Immanuel Kant
+Example:      Don't lie; if universal lying existed, language would break down
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Internet
+Year:       1969
+Inventor:   DARPA/UCLA
+Country:    USA
+Category:   Communication
+Description:Packet-switched network connecting computers
+Impact:     Became internet; most transformative network ever
+
+Invention:  Wheel
+Year:       3500
+Inventor:   Unknown
+Country:    Mesopotamia
+Category:   Transportation
+Description:Rolling cylinder for moving loads
+Impact:     Foundation of all land vehicles and machinery
+
+Invention:  Microprocessor
+Year:       1971
+Inventor:   Intel
+Country:    USA
+Category:   Computing
+Description:Complete CPU on silicon chip
+Impact:     Enabled personal computers; semiconductor industry
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+Domain:  Physics
+Topic:   Gravitational Force
+Formula: F = Gm1m2/r²
+Note:    Universal gravitation between all masses
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+Theorem/Law:  Pythagorean Theorem
+Branch:       Geometry
+Formula:      a² + b² = c²
+Applications: Navigation, construction, computer graphics
+Discoverer:   Pythagoras (500)
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Iron (Fe)
+Atomic Number: 26
+Category:      Transition metal
+Atomic Mass:   55.845 u
+Uses:          Steel, cast iron, magnets, blood
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+Element:       Argon (Ar)
+Atomic Number: 18
+Category:      Noble gas
+Atomic Mass:   39.948 u
+Uses:          Welding, incandescent bulbs
+
+============================================================
+  END OF VOLUME 0238
+============================================================

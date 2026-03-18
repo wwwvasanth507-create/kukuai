@@ -1,0 +1,217 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0701 of 1000
+  Topic Focus: Natural Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Diseases
+  - Elements
+  - People
+  - Inventions
+  - History
+  - Math
+  - Countries
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Fluorine (F)
+Atomic Number: 9
+Category:      Halogen
+Atomic Mass:   18.998 u
+Uses:          Toothpaste, Teflon, refrigerants
+
+Element:       Sulfur (S)
+Atomic Number: 16
+Category:      Nonmetal
+Atomic Mass:   32.065 u
+Uses:          Sulfuric acid, gunpowder, rubber
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Albert Einstein
+Lived:         1879 - 1955
+Nationality:   German-American
+Field:         Physics
+Known For:     Theory of Relativity
+Contribution:  E=mc2; photoelectric effect; special and general relativity
+Quote:         "Imagination is more important than knowledge."
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  Microprocessor
+Year:       1971
+Inventor:   Intel
+Country:    USA
+Category:   Computing
+Description:Complete CPU on silicon chip
+Impact:     Enabled personal computers; semiconductor industry
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         570 AD
+Event:        Birth of Prophet Muhammad
+Region:       Middle East
+Key Figures:  Muhammad
+Significance: Founder of Islam; 1.9 billion followers
+
+Year:         1859 AD
+Event:        Darwin's Origin of Species
+Region:       Europe
+Key Figures:  Charles Darwin
+Significance: Theory of evolution by natural selection
+
+Year:         1905 AD
+Event:        Einstein's Special Relativity
+Region:       Europe
+Key Figures:  Albert Einstein
+Significance: E=mc2 revolutionizes physics
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Israel
+Capital:      Jerusalem
+Continent:    Asia
+Population:   9.7M people
+Currency:     Israeli shekel
+Language:     Hebrew
+Government:   Parliamentary Democracy
+Independence: 1948
+GDP (USD B):  $564.2B
+
+Country:      Czech Republic
+Capital:      Prague
+Continent:    Europe
+Population:   10.8M people
+Currency:     Czech koruna
+Language:     Czech
+Government:   Parliamentary Republic
+Independence: 1993
+GDP (USD B):  $290.9B
+
+Country:      Zimbabwe
+Capital:      Harare
+Continent:    Africa
+Population:   15.1M people
+Currency:     Zimbabwe dollar
+Language:     16 official langs
+Government:   Presidential Republic
+Independence: 1980
+GDP (USD B):  $26.1B
+
+============================================================
+  END OF VOLUME 0701
+============================================================

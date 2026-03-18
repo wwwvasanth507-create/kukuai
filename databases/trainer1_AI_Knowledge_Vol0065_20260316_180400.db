@@ -1,0 +1,218 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0065 of 1000
+  Topic Focus: Physics & Astronomy
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Diseases
+  - Programming
+  - Qa
+  - Animals
+  - Ai
+  - Math
+  - Elements
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C#
+Created:   2000 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Enterprise, Unity games, web
+Hello:     Console.WriteLine("Hello, World!");
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  SQL
+Created:   1974 by Chamberlin/Boyce
+Paradigm:  Declarative
+Typing:    N/A
+Uses:      Relational databases
+Hello:     SELECT 'Hello, World!';
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is a programming language?
+A1: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q2: What is the Pythagorean theorem?
+A2: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q3: What is the greenhouse effect?
+A3: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q4: What is a black hole?
+A4: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+Q5: What is natural selection?
+A5: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Snow Leopard
+Scientific:   Panthera uncia
+Class:        Mammalia
+Habitat:      Mountain
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       55 kg
+Status:       Vulnerable
+Fact:         Cannot roar; uses long tail as blanket; leaps 15 meters
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+Name:         African Wild Dog
+Scientific:   Lycaon pictus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     11 years
+Weight:       30 kg
+Status:       Endangered
+Fact:         80% hunting success rate; votes on hunts by sneezing democratically
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     RAG
+Category:    Architecture
+Definition:  Combines retrieval from knowledge base with generative model
+Year:        2020
+Researchers: Lewis et al.
+Applications:QA, chatbots, enterprise AI
+Related:     Vector database, semantic search, LLM
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Calcium (Ca)
+Atomic Number: 20
+Category:      Alkaline earth
+Atomic Mass:   40.078 u
+Uses:          Bones, teeth, concrete, steel
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+Element:       Silver (Ag)
+Atomic Number: 47
+Category:      Transition metal
+Atomic Mass:   107.868 u
+Uses:          Jewelry, photography, electronics
+
+============================================================
+  END OF VOLUME 0065
+============================================================

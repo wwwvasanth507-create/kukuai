@@ -1,0 +1,275 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0298 of 1000
+  Topic Focus: Engineering
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - Math
+  - Economics
+  - Elements
+  - Qa
+  - People
+  - Science
+  - Animals
+  - Countries
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Haskell
+Created:   1990 by Committee
+Paradigm:  Purely functional
+Typing:    Static
+Uses:      Academia, finance, type-safe systems
+Hello:     main = putStrLn "Hello, World!"
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  Rust
+Created:   2010 by Graydon Hoare
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, WebAssembly, embedded
+Hello:     println!("Hello, World!");
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Magnesium (Mg)
+Atomic Number: 12
+Category:      Alkaline earth
+Atomic Mass:   24.305 u
+Uses:          Alloys, fireworks, chlorophyll
+
+Element:       Zinc (Zn)
+Atomic Number: 30
+Category:      Transition metal
+Atomic Mass:   65.38 u
+Uses:          Galvanizing, alloys, sunscreen
+
+Element:       Sulfur (S)
+Atomic Number: 16
+Category:      Nonmetal
+Atomic Mass:   32.065 u
+Uses:          Sulfuric acid, gunpowder, rubber
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is democracy?
+A1: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q2: What is entropy?
+A2: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q3: What is a programming language?
+A3: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+Q4: What is plate tectonics?
+A4: Earth's crust is divided into tectonic plates that move
+     on the mantle. Their interactions create earthquakes,
+     volcanoes, mountains, and ocean trenches over millions
+     of years.
+
+Q5: What is natural selection?
+A5: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Stephen Hawking
+Lived:         1942 - 2018
+Nationality:   English
+Field:         Physics
+Known For:     Black hole radiation
+Contribution:  Proved black holes emit radiation; A Brief History of Time; communicated science publicly
+Quote:         "Intelligence is the ability to adapt to change."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Pythagorean Theorem
+Formula: a² + b² = c²
+Note:    Right triangle relationship; foundation of geometry
+
+Domain:  Astronomy
+Topic:   Milky Way Size
+Formula: ~100,000 light-years diameter
+Note:    Our galaxy; contains 200-400 billion stars
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Saltwater Crocodile
+Scientific:   Crocodylus porosus
+Class:        Reptilia
+Habitat:      Coastal
+Diet:         Carnivore
+Lifespan:     70 years
+Weight:       1000 kg
+Status:       Least Concern
+Fact:         Strongest bite force of any living animal; survived dinosaurs
+
+Name:         Pistol Shrimp
+Scientific:   Alpheidae
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       0.001 kg
+Status:       Least Concern
+Fact:         Snapping claw creates bubble briefly hotter than the sun's surface
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Vietnam
+Capital:      Hanoi
+Continent:    Asia
+Population:   97.5M people
+Currency:     Vietnamese dong
+Language:     Vietnamese
+Government:   Communist State
+Independence: 1945
+GDP (USD B):  $449.1B
+
+Country:      Bangladesh
+Capital:      Dhaka
+Continent:    Asia
+Population:   170.0M people
+Currency:     Bangladeshi taka
+Language:     Bengali
+Government:   Parliamentary Republic
+Independence: 1971
+GDP (USD B):  $460.2B
+
+Country:      Ireland
+Capital:      Dublin
+Continent:    Europe
+Population:   5.1M people
+Currency:     Euro
+Language:     Irish/English
+Government:   Parliamentary Republic
+Independence: 1922
+GDP (USD B):  $594.1B
+
+============================================================
+  END OF VOLUME 0298
+============================================================

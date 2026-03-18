@@ -1,0 +1,225 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0214 of 1000
+  Topic Focus: Politics & Government
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Diseases
+  - Inventions
+  - History
+  - Qa
+  - Countries
+  - Programming
+  - Elements
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  Battery
+Year:       1800
+Inventor:   Alessandro Volta
+Country:    Italy
+Category:   Energy
+Description:Chemical reaction producing electricity
+Impact:     Enabled portable electricity; electronics foundation
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         336 BC
+Event:        Alexander the Great begins conquests
+Region:       Asia
+Key Figures:  Alexander III
+Significance: Spreads Hellenistic culture from Greece to India
+
+Year:         1439 AD
+Event:        Gutenberg printing press
+Region:       Europe
+Key Figures:  Gutenberg
+Significance: Democratizes knowledge; enables Reformation
+
+Year:         1945 AD
+Event:        Atomic bombs used in war
+Region:       Asia
+Key Figures:  Truman/Oppenheimer
+Significance: First nuclear weapons; ends WWII
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is metabolism?
+A1: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q2: What is gravity?
+A2: Gravity is an attractive force between all masses.
+     Newton described it as F = Gm1m2/r². Einstein refined
+     it as spacetime curvature in general relativity.
+
+Q3: What is a black hole?
+A3: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+Q4: What is natural selection?
+A4: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q5: What is osmosis?
+A5: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Malaysia
+Capital:      Kuala Lumpur
+Continent:    Asia
+Population:   33.0M people
+Currency:     Malaysian ringgit
+Language:     Malay
+Government:   Constitutional Monarchy
+Independence: 1957
+GDP (USD B):  $439.4B
+
+Country:      United States
+Capital:      Washington D.C.
+Continent:    North America
+Population:   335.9M people
+Currency:     US dollar
+Language:     English
+Government:   Federal Republic
+Independence: 1776
+GDP (USD B):  $27360.9B
+
+Country:      Bangladesh
+Capital:      Dhaka
+Continent:    Asia
+Population:   170.0M people
+Currency:     Bangladeshi taka
+Language:     Bengali
+Government:   Parliamentary Republic
+Independence: 1971
+GDP (USD B):  $460.2B
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  JavaScript
+Created:   1995 by Brendan Eich
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web front-end and back-end (Node.js)
+Hello:     console.log("Hello, World!");
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  R
+Created:   1993 by Ross Ihaka/Robert Gentleman
+Paradigm:  Functional
+Typing:    Dynamic
+Uses:      Statistical computing, data analysis
+Hello:     print("Hello, World!")
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+Element:       Fluorine (F)
+Atomic Number: 9
+Category:      Halogen
+Atomic Mass:   18.998 u
+Uses:          Toothpaste, Teflon, refrigerants
+
+============================================================
+  END OF VOLUME 0214
+============================================================

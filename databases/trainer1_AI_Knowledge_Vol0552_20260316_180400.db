@@ -1,0 +1,273 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0552 of 1000
+  Topic Focus: Environment & Nature
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Science
+  - Economics
+  - Ai
+  - Elements
+  - People
+  - Inventions
+  - Diseases
+  - Programming
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is photosynthesis?
+A1: Photosynthesis converts sunlight, CO2, and water into
+     glucose and oxygen: 6CO2 + 6H2O + light → C6H12O6 +
+     6O2. It occurs in plant chloroplasts.
+
+Q2: What is evolution?
+A2: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q3: What is artificial intelligence?
+A3: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q4: What is the speed of light?
+A4: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+Q5: What is supply and demand?
+A5: Supply and demand determines prices: higher demand or
+     lower supply raises prices; lower demand or higher
+     supply lowers prices. Equilibrium is where both curves
+     intersect.
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Chemistry
+Topic:   pH Definition
+Formula: pH = -log[H+]
+Note:    Measure of hydrogen ion concentration; 7 is neutral
+
+Domain:  Geology
+Topic:   Plate Tectonics
+Formula: ~15 major plates on mantle
+Note:    Explains earthquakes, volcanoes, mountain formation
+
+Domain:  Chemistry
+Topic:   Ideal Gas Law
+Formula: PV = nRT
+Note:    Pressure, volume, temperature relationship for ideal gas
+
+Domain:  Astronomy
+Topic:   Milky Way Size
+Formula: ~100,000 light-years diameter
+Note:    Our galaxy; contains 200-400 billion stars
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Reinforcement Learning
+Category:    Paradigm
+Definition:  Agent learns from environment interaction to maximize reward
+Year:        1950
+Researchers: Bellman; Sutton/Barto
+Applications:Games, robotics, recommendations, LLM alignment
+Related:     Reward, policy, value function, Q-learning
+
+Concept:     Gradient Descent
+Category:    Optimization
+Definition:  Iteratively adjusts parameters to minimize loss function
+Year:        1847
+Researchers: Cauchy; ML by many
+Applications:Training all ML models
+Related:     SGD, Adam, momentum, learning rate
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Aluminium (Al)
+Atomic Number: 13
+Category:      Post-transition
+Atomic Mass:   26.982 u
+Uses:          Aircraft, packaging, construction
+
+Element:       Oxygen (O)
+Atomic Number: 8
+Category:      Nonmetal
+Atomic Mass:   15.999 u
+Uses:          Respiration, combustion, steel
+
+Element:       Fluorine (F)
+Atomic Number: 9
+Category:      Halogen
+Atomic Mass:   18.998 u
+Uses:          Toothpaste, Teflon, refrigerants
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  Battery
+Year:       1800
+Inventor:   Alessandro Volta
+Country:    Italy
+Category:   Energy
+Description:Chemical reaction producing electricity
+Impact:     Enabled portable electricity; electronics foundation
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Python
+Created:   1991 by Guido van Rossum
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      AI/ML, web, scripting, data science
+Hello:     print("Hello, World!")
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  Julia
+Created:   2012 by Bezanson et al.
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Scientific computing, ML
+Hello:     println("Hello, World!")
+
+============================================================
+  END OF VOLUME 0552
+============================================================

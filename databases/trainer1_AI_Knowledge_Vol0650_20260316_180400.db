@@ -1,0 +1,192 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0650 of 1000
+  Topic Focus: Artificial Intelligence
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Economics
+  - Countries
+  - Ai
+  - Inventions
+  - Science
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Tim Berners-Lee
+Lived:         1955 - present
+Nationality:   English
+Field:         Computing
+Known For:     World Wide Web
+Contribution:  Invented the Web in 1989; gave it to the world for free
+Quote:         "The web does not just connect machines, it connects people."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Mexico
+Capital:      Mexico City
+Continent:    North America
+Population:   128.5M people
+Currency:     Mexican peso
+Language:     Spanish
+Government:   Federal Republic
+Independence: 1821
+GDP (USD B):  $1322.5B
+
+Country:      Philippines
+Capital:      Manila
+Continent:    Asia
+Population:   114.2M people
+Currency:     Philippine peso
+Language:     Filipino/English
+Government:   Presidential Republic
+Independence: 1898
+GDP (USD B):  $404.3B
+
+Country:      Ethiopia
+Capital:      Addis Ababa
+Continent:    Africa
+Population:   123.4M people
+Currency:     Ethiopian birr
+Language:     Amharic
+Government:   Federal Republic
+Independence: 1270
+GDP (USD B):  $111.3B
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+Concept:     Mixture of Experts
+Category:    Architecture
+Definition:  Sparse model activating different expert subsets per token
+Year:        2017
+Researchers: Shazeer et al.
+Applications:Large LLMs (Mixtral, rumored GPT-4)
+Related:     Sparse activation, routing, scaling efficiency
+
+Concept:     Attention Mechanism
+Category:    Mechanism
+Definition:  Learns to focus on relevant input parts for each output
+Year:        2015
+Researchers: Bahdanau et al.
+Applications:Machine translation, NLP, summarization
+Related:     Self-attention, multi-head, cross-attention
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Computer
+Year:       1945
+Inventor:   Mauchly/Eckert
+Country:    USA
+Category:   Computing
+Description:ENIAC: first electronic computer
+Impact:     Digital revolution; led to all modern computing
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+Invention:  Writing
+Year:       3200
+Inventor:   Sumerians
+Country:    Mesopotamia
+Category:   Communication
+Description:Cuneiform marks in clay tablets
+Impact:     Enabled civilization-scale organization and history
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Mathematics
+Topic:   Euler's Number
+Formula: e ≈ 2.71828182845...
+Note:    Base of natural logarithm; fundamental to calculus
+
+Domain:  Physics
+Topic:   Gravitational Force
+Formula: F = Gm1m2/r²
+Note:    Universal gravitation between all masses
+
+============================================================
+  END OF VOLUME 0650
+============================================================

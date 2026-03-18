@@ -1,0 +1,215 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0386 of 1000
+  Topic Focus: Mathematics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - History
+  - Inventions
+  - Economics
+  - Qa
+  - Animals
+  - Elements
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Julia
+Created:   2012 by Bezanson et al.
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Scientific computing, ML
+Hello:     println("Hello, World!")
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+Language:  Lua
+Created:   1993 by PUC-Rio
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Game scripting, embedded
+Hello:     print("Hello, World!")
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1453 AD
+Event:        Fall of Constantinople
+Region:       Europe/Asia
+Key Figures:  Mehmed II
+Significance: Ends Byzantine Empire; drives exploration
+
+Year:         1917 AD
+Event:        Russian Revolution
+Region:       Europe
+Key Figures:  Lenin/Trotsky
+Significance: Communism seizes power; USSR formed
+
+Year:         1969 AD
+Event:        Moon landing Apollo 11
+Region:       Global
+Key Figures:  Armstrong/Aldrin
+Significance: First humans on the Moon
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Battery
+Year:       1800
+Inventor:   Alessandro Volta
+Country:    Italy
+Category:   Energy
+Description:Chemical reaction producing electricity
+Impact:     Enabled portable electricity; electronics foundation
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is capitalism?
+A1: Capitalism is an economic system where private
+     individuals own the means of production and markets
+     determine prices and production through supply and
+     demand.
+
+Q2: What is the Pythagorean theorem?
+A2: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q3: What is evolution?
+A3: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q4: What is the greenhouse effect?
+A4: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+Q5: What is relativity?
+A5: Einstein's relativity: Special (1905) — time dilates,
+     mass increases at high speeds; E=mc². General (1915) —
+     gravity is curved spacetime; explains black holes and
+     expanding universe.
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Arctic Fox
+Scientific:   Vulpes lagopus
+Class:        Mammalia
+Habitat:      Arctic tundra
+Diet:         Omnivore
+Lifespan:     3 years
+Weight:       3.5 kg
+Status:       Least Concern
+Fact:         Fur changes color seasonally; survives -70 degrees Celsius
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Axolotl
+Scientific:   Ambystoma mexicanum
+Class:        Amphibia
+Habitat:      Lakes
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       0.3 kg
+Status:       Critically Endangered
+Fact:         Can regenerate entire limbs, spine, heart, and brain tissue
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+Element:       Sodium (Na)
+Atomic Number: 11
+Category:      Alkali metal
+Atomic Mass:   22.99 u
+Uses:          Salt, soap, street lights
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+============================================================
+  END OF VOLUME 0386
+============================================================

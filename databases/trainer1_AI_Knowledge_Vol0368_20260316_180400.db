@@ -1,0 +1,180 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0368 of 1000
+  Topic Focus: Philosophy & Ethics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Inventions
+  - Ai
+  - Qa
+  - Math
+  - People
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Stoicism
+Branch:       Ethics
+Definition:   Focus only on what is in your control; accept all else with equanimity
+Philosopher:  Marcus Aurelius/Epictetus
+Example:      Illness is not in your control; your response to it is
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Steam Engine
+Year:       1769
+Inventor:   James Watt
+Country:    Scotland
+Category:   Energy
+Description:Steam pressure to mechanical motion
+Impact:     Powered the Industrial Revolution
+
+Invention:  Penicillin
+Year:       1928
+Inventor:   Alexander Fleming
+Country:    Scotland
+Category:   Medicine
+Description:First antibiotic from mold
+Impact:     Saved estimated 200 million lives
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     GAN
+Category:    Architecture
+Definition:  Generator vs discriminator adversarial training
+Year:        2014
+Researchers: Ian Goodfellow et al.
+Applications:Image synthesis, deepfakes, augmentation
+Related:     Mode collapse, discriminator, generator
+
+Concept:     Chain-of-Thought
+Category:    Prompting
+Definition:  Prompting LLM to show step-by-step reasoning before answer
+Year:        2022
+Researchers: Wei et al.
+Applications:Math, logic, coding, complex reasoning
+Related:     Scratchpad, few-shot prompting
+
+Concept:     Transfer Learning
+Category:    Technique
+Definition:  Reuses pre-trained model weights for new related tasks
+Year:        2009
+Researchers: Pan and Yang survey
+Applications:Fine-tuning LLMs, computer vision
+Related:     Pre-training, fine-tuning, domain adaptation
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is natural selection?
+A1: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q2: What is the Renaissance?
+A2: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+Q3: What is the internet?
+A3: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q4: What is the Big Bang?
+A4: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+Q5: What is the greenhouse effect?
+A5: Greenhouse gases (CO2, methane) trap heat radiated from
+     Earth's surface. Natural effect warms Earth; human
+     emissions intensify it causing climate change.
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Socrates
+Lived:         470 - -399
+Nationality:   Greek
+Field:         Philosophy
+Known For:     Socratic method
+Contribution:  Father of Western philosophy; sentenced to death; documented by Plato
+Quote:         "The only true wisdom is knowing you know nothing."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+============================================================
+  END OF VOLUME 0368
+============================================================

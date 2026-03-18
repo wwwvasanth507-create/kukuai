@@ -1,0 +1,241 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0789 of 1000
+  Topic Focus: Medicine & Health
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - Economics
+  - Philosophy
+  - Countries
+  - Elements
+  - Programming
+  - History
+  - Diseases
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Categorical Imperative
+Branch:       Ethics
+Definition:   Act only on principles you could will to be universal laws
+Philosopher:  Immanuel Kant
+Example:      Don't lie; if universal lying existed, language would break down
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Israel
+Capital:      Jerusalem
+Continent:    Asia
+Population:   9.7M people
+Currency:     Israeli shekel
+Language:     Hebrew
+Government:   Parliamentary Democracy
+Independence: 1948
+GDP (USD B):  $564.2B
+
+Country:      Indonesia
+Capital:      Jakarta
+Continent:    Asia
+Population:   277.5M people
+Currency:     Indonesian rupiah
+Language:     Indonesian
+Government:   Presidential Republic
+Independence: 1945
+GDP (USD B):  $1319.1B
+
+Country:      Russia
+Capital:      Moscow
+Continent:    Europe/Asia
+Population:   144.7M people
+Currency:     Russian ruble
+Language:     Russian
+Government:   Federal Semi-Presidential
+Independence: 1991
+GDP (USD B):  $2244.3B
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Neon (Ne)
+Atomic Number: 10
+Category:      Noble gas
+Atomic Mass:   20.18 u
+Uses:          Neon signs, lasers, cryogenic refrigerant
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  R
+Created:   1993 by Ross Ihaka/Robert Gentleman
+Paradigm:  Functional
+Typing:    Dynamic
+Uses:      Statistical computing, data analysis
+Hello:     print("Hello, World!")
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1066 AD
+Event:        Battle of Hastings
+Region:       Europe
+Key Figures:  William the Conqueror
+Significance: Norman conquest shapes English culture
+
+Year:         1859 AD
+Event:        Darwin's Origin of Species
+Region:       Europe
+Key Figures:  Charles Darwin
+Significance: Theory of evolution by natural selection
+
+Year:         1905 AD
+Event:        Einstein's Special Relativity
+Region:       Europe
+Key Figures:  Albert Einstein
+Significance: E=mc2 revolutionizes physics
+
+Year:         1917 AD
+Event:        Russian Revolution
+Region:       Europe
+Key Figures:  Lenin/Trotsky
+Significance: Communism seizes power; USSR formed
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  END OF VOLUME 0789
+============================================================

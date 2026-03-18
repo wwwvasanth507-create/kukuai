@@ -1,0 +1,179 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0514 of 1000
+  Topic Focus: Politics & Government
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - Philosophy
+  - Elements
+  - Inventions
+  - Ai
+  - Diseases
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C
+Created:   1972 by Dennis Ritchie
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Systems, OS, embedded, kernels
+Hello:     printf("Hello, World!\n");
+
+Language:  Java
+Created:   1995 by James Gosling
+Paradigm:  Object-oriented
+Typing:    Static
+Uses:      Enterprise, Android, web back-end
+Hello:     System.out.println("Hello, World!");
+
+Language:  Haskell
+Created:   1990 by Committee
+Paradigm:  Purely functional
+Typing:    Static
+Uses:      Academia, finance, type-safe systems
+Hello:     main = putStrLn "Hello, World!"
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Categorical Imperative
+Branch:       Ethics
+Definition:   Act only on principles you could will to be universal laws
+Philosopher:  Immanuel Kant
+Example:      Don't lie; if universal lying existed, language would break down
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Carbon (C)
+Atomic Number: 6
+Category:      Nonmetal
+Atomic Mass:   12.011 u
+Uses:          Life basis, steel, diamonds, fuel
+
+Element:       Mercury (Hg)
+Atomic Number: 80
+Category:      Transition metal
+Atomic Mass:   200.592 u
+Uses:          Thermometers, fluorescent lamps
+
+Element:       Lithium (Li)
+Atomic Number: 3
+Category:      Alkali metal
+Atomic Mass:   6.941 u
+Uses:          Batteries, ceramics, psychiatric medicine
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+Invention:  Penicillin
+Year:       1928
+Inventor:   Alexander Fleming
+Country:    Scotland
+Category:   Medicine
+Description:First antibiotic from mold
+Impact:     Saved estimated 200 million lives
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Transfer Learning
+Category:    Technique
+Definition:  Reuses pre-trained model weights for new related tasks
+Year:        2009
+Researchers: Pan and Yang survey
+Applications:Fine-tuning LLMs, computer vision
+Related:     Pre-training, fine-tuning, domain adaptation
+
+Concept:     Vector Database
+Category:    Infrastructure
+Definition:  Stores high-dimensional embeddings for similarity search
+Year:        2019
+Researchers: Pinecone/Weaviate/Faiss
+Applications:RAG, semantic search, recommendation
+Related:     ANN search, HNSW, cosine similarity
+
+Concept:     Chain-of-Thought
+Category:    Prompting
+Definition:  Prompting LLM to show step-by-step reasoning before answer
+Year:        2022
+Researchers: Wei et al.
+Applications:Math, logic, coding, complex reasoning
+Related:     Scratchpad, few-shot prompting
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+============================================================
+  END OF VOLUME 0514
+============================================================

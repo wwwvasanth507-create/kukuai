@@ -1,0 +1,212 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0377 of 1000
+  Topic Focus: Space Exploration
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Programming
+  - Inventions
+  - People
+  - Economics
+  - Science
+  - Animals
+  - Math
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  PHP
+Created:   1994 by Rasmus Lerdorf
+Paradigm:  Scripting
+Typing:    Dynamic
+Uses:      Web back-end, CMS
+Hello:     echo "Hello, World!";
+
+Language:  Java
+Created:   1995 by James Gosling
+Paradigm:  Object-oriented
+Typing:    Static
+Uses:      Enterprise, Android, web back-end
+Hello:     System.out.println("Hello, World!");
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+Name:          Aristotle
+Lived:         384 - -322
+Nationality:   Greek
+Field:         Philosophy
+Known For:     Logic, ethics, biology
+Contribution:  Codified logic; wrote on biology, physics, ethics, politics; tutored Alexander
+Quote:         "The more you know, the more you know you don't know."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   1st Law of Thermodynamics
+Formula: ΔU = Q - W
+Note:    Energy conservation in thermodynamic systems
+
+Domain:  Mathematics
+Topic:   Bayes Theorem
+Formula: P(A|B) = P(B|A)P(A)/P(B)
+Note:    Updating probability based on new evidence
+
+Domain:  Physics
+Topic:   Ohm's Law
+Formula: V = IR
+Note:    Voltage, current, resistance relationship in circuits
+
+Domain:  Physics
+Topic:   Gravitational Force
+Formula: F = Gm1m2/r²
+Note:    Universal gravitation between all masses
+
+Domain:  Medicine
+Topic:   Human Genome
+Formula: ~3 billion base pairs; ~20,000 genes
+Note:    Completed Human Genome Project 2003
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+Name:         Octopus
+Scientific:   Octopus vulgaris
+Class:        Cephalopoda
+Habitat:      Ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       10 kg
+Status:       Least Concern
+Fact:         3 hearts, blue blood; changes color in 0.3 seconds; 9 brains
+
+Name:         Mantis Shrimp
+Scientific:   Stomatopoda
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     20 years
+Weight:       0.1 kg
+Status:       Least Concern
+Fact:         Fastest punch in animal kingdom; 16 types of color receptors
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+Theorem/Law:  Fundamental Theorem of Calculus
+Branch:       Calculus
+Formula:      ∫[a,b] f'(x)dx = f(b) - f(a)
+Applications: Physics, engineering, economics
+Discoverer:   Newton/Leibniz (1670)
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+============================================================
+  END OF VOLUME 0377
+============================================================

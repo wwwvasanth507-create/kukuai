@@ -1,0 +1,191 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0280 of 1000
+  Topic Focus: World Geography
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - History
+  - Countries
+  - Economics
+  - People
+  - Philosophy
+  - Diseases
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1453 AD
+Event:        Fall of Constantinople
+Region:       Europe/Asia
+Key Figures:  Mehmed II
+Significance: Ends Byzantine Empire; drives exploration
+
+Year:         1879 AD
+Event:        Edison invents light bulb
+Region:       Americas
+Key Figures:  Thomas Edison
+Significance: Begins electric age
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+Year:         2023 AD
+Event:        AI large language models go mainstream
+Region:       Global
+Key Figures:  OpenAI/Anthropic
+Significance: ChatGPT transforms knowledge work
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Iran
+Capital:      Tehran
+Continent:    Asia
+Population:   87.9M people
+Currency:     Iranian rial
+Language:     Persian
+Government:   Islamic Republic
+Independence: 1979
+GDP (USD B):  $368.9B
+
+Country:      Saudi Arabia
+Capital:      Riyadh
+Continent:    Asia
+Population:   36.4M people
+Currency:     Saudi riyal
+Language:     Arabic
+Government:   Absolute Monarchy
+Independence: 1932
+GDP (USD B):  $1108.2B
+
+Country:      Zimbabwe
+Capital:      Harare
+Continent:    Africa
+Population:   15.1M people
+Currency:     Zimbabwe dollar
+Language:     16 official langs
+Government:   Presidential Republic
+Independence: 1980
+GDP (USD B):  $26.1B
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Stephen Hawking
+Lived:         1942 - 2018
+Nationality:   English
+Field:         Physics
+Known For:     Black hole radiation
+Contribution:  Proved black holes emit radiation; A Brief History of Time; communicated science publicly
+Quote:         "Intelligence is the ability to adapt to change."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+============================================================
+  END OF VOLUME 0280
+============================================================

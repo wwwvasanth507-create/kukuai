@@ -1,0 +1,258 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0986 of 1000
+  Topic Focus: Mathematics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Science
+  - Diseases
+  - Philosophy
+  - Inventions
+  - Elements
+  - Programming
+  - History
+  - Math
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Milky Way Size
+Formula: ~100,000 light-years diameter
+Note:    Our galaxy; contains 200-400 billion stars
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+Domain:  Mathematics
+Topic:   Euler's Number
+Formula: e ≈ 2.71828182845...
+Note:    Base of natural logarithm; fundamental to calculus
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+Domain:  Chemistry
+Topic:   Ideal Gas Law
+Formula: PV = nRT
+Note:    Pressure, volume, temperature relationship for ideal gas
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Influenza
+Type:        Viral
+Pathogen:    Influenza viruses
+Transmission:Respiratory droplets
+Symptoms:    Fever, chills, muscle aches
+Treatment:   Oseltamivir, rest, fluids
+Deaths/yr:   0.65M
+Vaccine:     Yes (annual update)
+Discovered:  1933
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  Writing
+Year:       3200
+Inventor:   Sumerians
+Country:    Mesopotamia
+Category:   Communication
+Description:Cuneiform marks in clay tablets
+Impact:     Enabled civilization-scale organization and history
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Sulfur (S)
+Atomic Number: 16
+Category:      Nonmetal
+Atomic Mass:   32.065 u
+Uses:          Sulfuric acid, gunpowder, rubber
+
+Element:       Argon (Ar)
+Atomic Number: 18
+Category:      Noble gas
+Atomic Mass:   39.948 u
+Uses:          Welding, incandescent bulbs
+
+Element:       Sodium (Na)
+Atomic Number: 11
+Category:      Alkali metal
+Atomic Mass:   22.99 u
+Uses:          Salt, soap, street lights
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Lua
+Created:   1993 by PUC-Rio
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Game scripting, embedded
+Hello:     print("Hello, World!")
+
+Language:  Kotlin
+Created:   2011 by JetBrains
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Android, JVM, web back-end
+Hello:     println("Hello, World!")
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         490 BC
+Event:        Battle of Marathon
+Region:       Europe
+Key Figures:  Miltiades
+Significance: Greek victory saves Western civilization
+
+Year:         1066 AD
+Event:        Battle of Hastings
+Region:       Europe
+Key Figures:  William the Conqueror
+Significance: Norman conquest shapes English culture
+
+Year:         1903 AD
+Event:        First powered flight
+Region:       Americas
+Key Figures:  Wright Brothers
+Significance: Opens aviation age
+
+Year:         2023 AD
+Event:        AI large language models go mainstream
+Region:       Global
+Key Figures:  OpenAI/Anthropic
+Significance: ChatGPT transforms knowledge work
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Pythagorean Theorem
+Branch:       Geometry
+Formula:      a² + b² = c²
+Applications: Navigation, construction, computer graphics
+Discoverer:   Pythagoras (500)
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Nash Equilibrium
+Branch:       Game Theory
+Formula:      No player benefits from unilateral strategy change
+Applications: Economics, AI, political science
+Discoverer:   John Nash (1950)
+
+============================================================
+  END OF VOLUME 0986
+============================================================

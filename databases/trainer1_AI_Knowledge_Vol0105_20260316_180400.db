@@ -1,0 +1,217 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0105 of 1000
+  Topic Focus: Physics & Astronomy
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - Economics
+  - Animals
+  - Programming
+  - Countries
+  - Elements
+  - People
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Automobile
+Year:       1885
+Inventor:   Karl Benz
+Country:    Germany
+Category:   Transportation
+Description:Gasoline-powered self-propelled vehicle
+Impact:     Transformed cities, suburbs, economy; petroleum age
+
+Invention:  Penicillin
+Year:       1928
+Inventor:   Alexander Fleming
+Country:    Scotland
+Category:   Medicine
+Description:First antibiotic from mold
+Impact:     Saved estimated 200 million lives
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+Name:         Tardigrade
+Scientific:   Ramazzottius varieornatus
+Class:        Tardigrada
+Habitat:      Everywhere
+Diet:         Omnivore
+Lifespan:     2.5 years
+Weight:       1e-07 kg
+Status:       Least Concern
+Fact:         Nearly indestructible; survives space vacuum, radiation, extreme temps
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+Language:  C
+Created:   1972 by Dennis Ritchie
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Systems, OS, embedded, kernels
+Hello:     printf("Hello, World!\n");
+
+Language:  C#
+Created:   2000 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Enterprise, Unity games, web
+Hello:     Console.WriteLine("Hello, World!");
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Peru
+Capital:      Lima
+Continent:    South America
+Population:   33.4M people
+Currency:     Peruvian sol
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1821
+GDP (USD B):  $242.6B
+
+Country:      Russia
+Capital:      Moscow
+Continent:    Europe/Asia
+Population:   144.7M people
+Currency:     Russian ruble
+Language:     Russian
+Government:   Federal Semi-Presidential
+Independence: 1991
+GDP (USD B):  $2244.3B
+
+Country:      Italy
+Capital:      Rome
+Continent:    Europe
+Population:   59.0M people
+Currency:     Euro
+Language:     Italian
+Government:   Parliamentary Republic
+Independence: 1861
+GDP (USD B):  $2169.7B
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Helium (He)
+Atomic Number: 2
+Category:      Noble gas
+Atomic Mass:   4.003 u
+Uses:          Balloons, cryogenics, MRI cooling
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Hydrogen (H)
+Atomic Number: 1
+Category:      Nonmetal
+Atomic Mass:   1.008 u
+Uses:          Fuel cells, ammonia, petroleum refining
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+Name:          Tim Berners-Lee
+Lived:         1955 - present
+Nationality:   English
+Field:         Computing
+Known For:     World Wide Web
+Contribution:  Invented the Web in 1989; gave it to the world for free
+Quote:         "The web does not just connect machines, it connects people."
+
+Name:          Alan Turing
+Lived:         1912 - 1954
+Nationality:   English
+Field:         Computing
+Known For:     Turing machine, codebreaking
+Contribution:  Father of computer science; broke Enigma; Turing test for AI
+Quote:         "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+
+============================================================
+  END OF VOLUME 0105
+============================================================

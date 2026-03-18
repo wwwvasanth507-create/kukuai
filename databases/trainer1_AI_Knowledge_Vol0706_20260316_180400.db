@@ -1,0 +1,246 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0706 of 1000
+  Topic Focus: Mathematics
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Ai
+  - Math
+  - History
+  - Diseases
+  - Inventions
+  - People
+  - Countries
+  - Elements
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     CNN
+Category:    Architecture
+Definition:  Convolutional filters detect spatial features hierarchically
+Year:        1989
+Researchers: LeCun et al.
+Applications:Image classification, object detection
+Related:     Pooling, feature maps, ResNet
+
+Concept:     GAN
+Category:    Architecture
+Definition:  Generator vs discriminator adversarial training
+Year:        2014
+Researchers: Ian Goodfellow et al.
+Applications:Image synthesis, deepfakes, augmentation
+Related:     Mode collapse, discriminator, generator
+
+Concept:     Mixture of Experts
+Category:    Architecture
+Definition:  Sparse model activating different expert subsets per token
+Year:        2017
+Researchers: Shazeer et al.
+Applications:Large LLMs (Mixtral, rumored GPT-4)
+Related:     Sparse activation, routing, scaling efficiency
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+Theorem/Law:  Central Limit Theorem
+Branch:       Statistics
+Formula:      Sample means approach normal distribution
+Applications: Polling, quality control, finance
+Discoverer:   Lyapunov (1901)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         221 BC
+Event:        China unified by Qin Shi Huang
+Region:       Asia
+Key Figures:  Qin Shi Huang
+Significance: First Chinese emperor; Great Wall construction
+
+Year:         1215 AD
+Event:        Magna Carta signed
+Region:       Europe
+Key Figures:  King John/Barons
+Significance: Foundation of constitutional law
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1879 AD
+Event:        Edison invents light bulb
+Region:       Americas
+Key Figures:  Thomas Edison
+Significance: Begins electric age
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Tuberculosis
+Type:        Bacterial
+Pathogen:    M. tuberculosis
+Transmission:Airborne droplets
+Symptoms:    Persistent cough, night sweats
+Treatment:   6-9 month antibiotics
+Deaths/yr:   1.6M
+Vaccine:     Yes (BCG, partial)
+Discovered:  1882
+
+Disease:     Cholera
+Type:        Bacterial
+Pathogen:    Vibrio cholerae
+Transmission:Contaminated water
+Symptoms:    Profuse watery diarrhea, vomiting
+Treatment:   Oral rehydration, antibiotics
+Deaths/yr:   0.095M
+Vaccine:     Yes
+Discovered:  1854
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Computer
+Year:       1945
+Inventor:   Mauchly/Eckert
+Country:    USA
+Category:   Computing
+Description:ENIAC: first electronic computer
+Impact:     Digital revolution; led to all modern computing
+
+Invention:  Steam Engine
+Year:       1769
+Inventor:   James Watt
+Country:    Scotland
+Category:   Energy
+Description:Steam pressure to mechanical motion
+Impact:     Powered the Industrial Revolution
+
+Invention:  mRNA Vaccine
+Year:       2020
+Inventor:   BioNTech/Moderna
+Country:    Germany/USA
+Category:   Medicine
+Description:mRNA instructs cells to produce antigen
+Impact:     COVID vaccines; platform for cancer, flu, HIV vaccines
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Mahatma Gandhi
+Lived:         1869 - 1948
+Nationality:   Indian
+Field:         Politics
+Known For:     Non-violent independence movement
+Contribution:  Led India to independence; satyagraha philosophy; influenced MLK and Mandela
+Quote:         "Be the change you wish to see in the world."
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Chile
+Capital:      Santiago
+Continent:    South America
+Population:   19.6M people
+Currency:     Chilean peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1818
+GDP (USD B):  $317.1B
+
+Country:      Czech Republic
+Capital:      Prague
+Continent:    Europe
+Population:   10.8M people
+Currency:     Czech koruna
+Language:     Czech
+Government:   Parliamentary Republic
+Independence: 1993
+GDP (USD B):  $290.9B
+
+Country:      Netherlands
+Capital:      Amsterdam
+Continent:    Europe
+Population:   17.9M people
+Currency:     Euro
+Language:     Dutch
+Government:   Constitutional Monarchy
+Independence: 1581
+GDP (USD B):  $1012.9B
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Lithium (Li)
+Atomic Number: 3
+Category:      Alkali metal
+Atomic Mass:   6.941 u
+Uses:          Batteries, ceramics, psychiatric medicine
+
+Element:       Aluminium (Al)
+Atomic Number: 13
+Category:      Post-transition
+Atomic Mass:   26.982 u
+Uses:          Aircraft, packaging, construction
+
+Element:       Potassium (K)
+Atomic Number: 19
+Category:      Alkali metal
+Atomic Mass:   39.098 u
+Uses:          Fertilizers, food, nerve signals
+
+============================================================
+  END OF VOLUME 0706
+============================================================

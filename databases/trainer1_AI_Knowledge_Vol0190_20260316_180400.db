@@ -1,0 +1,201 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0190 of 1000
+  Topic Focus: Artificial Intelligence
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Countries
+  - Science
+  - Diseases
+  - People
+  - Ai
+  - Inventions
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Pakistan
+Capital:      Islamabad
+Continent:    Asia
+Population:   231.4M people
+Currency:     Pakistani rupee
+Language:     Urdu/English
+Government:   Federal Republic
+Independence: 1947
+GDP (USD B):  $376.5B
+
+Country:      Ethiopia
+Capital:      Addis Ababa
+Continent:    Africa
+Population:   123.4M people
+Currency:     Ethiopian birr
+Language:     Amharic
+Government:   Federal Republic
+Independence: 1270
+GDP (USD B):  $111.3B
+
+Country:      New Zealand
+Capital:      Wellington
+Continent:    Oceania
+Population:   5.1M people
+Currency:     New Zealand dollar
+Language:     English/Maori
+Government:   Parliamentary Democracy
+Independence: 1907
+GDP (USD B):  $249.9B
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Biology
+Topic:   ATP
+Formula: ADP + Pi → ATP
+Note:    Universal energy currency of all living cells
+
+Domain:  Physics
+Topic:   Gravitational Force
+Formula: F = Gm1m2/r²
+Note:    Universal gravitation between all masses
+
+Domain:  Chemistry
+Topic:   Ideal Gas Law
+Formula: PV = nRT
+Note:    Pressure, volume, temperature relationship for ideal gas
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+Domain:  Biology
+Topic:   Cell Theory
+Formula: All life is made of cells arising from pre-existing cells
+Note:    Foundation of modern biology
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Dengue
+Type:        Viral
+Pathogen:    Dengue virus
+Transmission:Aedes mosquito
+Symptoms:    Fever, severe joint pain, rash
+Treatment:   Supportive care, fluids
+Deaths/yr:   0.04M
+Vaccine:     Yes (for previously infected)
+Discovered:  1779
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Confucius
+Lived:         551 - -479
+Nationality:   Chinese
+Field:         Philosophy
+Known For:     Confucianism
+Contribution:  Ren, li, filial piety; still shapes East Asian society 2,500 years later
+Quote:         "It does not matter how slowly you go as long as you do not stop."
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Diffusion Model
+Category:    Architecture
+Definition:  Learns to reverse a noise-adding process for generation
+Year:        2020
+Researchers: Ho et al.
+Applications:Image/video/audio generation (Stable Diffusion)
+Related:     DDPM, score matching, noise schedule
+
+Concept:     RAG
+Category:    Architecture
+Definition:  Combines retrieval from knowledge base with generative model
+Year:        2020
+Researchers: Lewis et al.
+Applications:QA, chatbots, enterprise AI
+Related:     Vector database, semantic search, LLM
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Steam Engine
+Year:       1769
+Inventor:   James Watt
+Country:    Scotland
+Category:   Energy
+Description:Steam pressure to mechanical motion
+Impact:     Powered the Industrial Revolution
+
+Invention:  mRNA Vaccine
+Year:       2020
+Inventor:   BioNTech/Moderna
+Country:    Germany/USA
+Category:   Medicine
+Description:mRNA instructs cells to produce antigen
+Impact:     COVID vaccines; platform for cancer, flu, HIV vaccines
+
+============================================================
+  END OF VOLUME 0190
+============================================================

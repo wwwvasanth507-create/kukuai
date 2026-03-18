@@ -1,0 +1,218 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0732 of 1000
+  Topic Focus: Environment & Nature
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - Elements
+  - History
+  - Countries
+  - Diseases
+  - Science
+  - Math
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Transistor
+Year:       1947
+Inventor:   Bardeen/Brattain/Shockley
+Country:    USA
+Category:   Electronics
+Description:Semiconductor switch replacing vacuum tubes
+Impact:     Foundation of all modern electronics; miniaturization
+
+Invention:  Penicillin
+Year:       1928
+Inventor:   Alexander Fleming
+Country:    Scotland
+Category:   Medicine
+Description:First antibiotic from mold
+Impact:     Saved estimated 200 million lives
+
+Invention:  Telegraph
+Year:       1837
+Inventor:   Samuel Morse
+Country:    USA
+Category:   Communication
+Description:Electrical coded message transmission
+Impact:     First rapid long-distance communication
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Aluminium (Al)
+Atomic Number: 13
+Category:      Post-transition
+Atomic Mass:   26.982 u
+Uses:          Aircraft, packaging, construction
+
+Element:       Iron (Fe)
+Atomic Number: 26
+Category:      Transition metal
+Atomic Mass:   55.845 u
+Uses:          Steel, cast iron, magnets, blood
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         776 BC
+Event:        First Olympic Games
+Region:       Europe
+Key Figures:  Greeks
+Significance: Pan-Hellenic unity; birth of organized sports
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+Year:         2001 AD
+Event:        September 11 attacks
+Region:       Americas
+Key Figures:  Al-Qaeda
+Significance: 3,000 killed; transforms global security
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      South Korea
+Capital:      Seoul
+Continent:    Asia
+Population:   51.7M people
+Currency:     South Korean won
+Language:     Korean
+Government:   Presidential Republic
+Independence: 1948
+GDP (USD B):  $1804.7B
+
+Country:      Finland
+Capital:      Helsinki
+Continent:    Europe
+Population:   5.6M people
+Currency:     Euro
+Language:     Finnish/Swedish
+Government:   Parliamentary Republic
+Independence: 1917
+GDP (USD B):  $297.3B
+
+Country:      Hungary
+Capital:      Budapest
+Continent:    Europe
+Population:   9.7M people
+Currency:     Hungarian forint
+Language:     Hungarian
+Government:   Parliamentary Republic
+Independence: 1000
+GDP (USD B):  $178.5B
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Diabetes Type 2
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Lifestyle
+Symptoms:    Thirst, frequent urination, fatigue
+Treatment:   Metformin, lifestyle, insulin
+Deaths/yr:   1.5M
+Vaccine:     No
+Discovered:  1922
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Astronomy
+Topic:   Milky Way Size
+Formula: ~100,000 light-years diameter
+Note:    Our galaxy; contains 200-400 billion stars
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Physics
+Topic:   E = mc²
+Formula: E = mc²
+Note:    Mass-energy equivalence; foundation of nuclear physics
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Pythagorean Theorem
+Branch:       Geometry
+Formula:      a² + b² = c²
+Applications: Navigation, construction, computer graphics
+Discoverer:   Pythagoras (500)
+
+============================================================
+  END OF VOLUME 0732
+============================================================

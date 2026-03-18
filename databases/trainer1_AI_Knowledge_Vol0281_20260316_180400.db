@@ -1,0 +1,272 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0281 of 1000
+  Topic Focus: Natural Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Animals
+  - Philosophy
+  - Countries
+  - History
+  - Diseases
+  - People
+  - Elements
+  - Economics
+  - Math
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Blue Whale
+Scientific:   Balaenoptera musculus
+Class:        Mammalia
+Habitat:      Ocean
+Diet:         Carnivore (krill)
+Lifespan:     80 years
+Weight:       150000 kg
+Status:       Endangered
+Fact:         Largest animal ever known; heart is size of a small car
+
+Name:         Monarch Butterfly
+Scientific:   Danaus plexippus
+Class:        Insecta
+Habitat:      Meadows
+Diet:         Herbivore
+Lifespan:     0.25 years
+Weight:       0.0005 kg
+Status:       Endangered
+Fact:         Migrates 4,800 km; uses Earth's magnetic field for navigation
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      South Korea
+Capital:      Seoul
+Continent:    Asia
+Population:   51.7M people
+Currency:     South Korean won
+Language:     Korean
+Government:   Presidential Republic
+Independence: 1948
+GDP (USD B):  $1804.7B
+
+Country:      Canada
+Capital:      Ottawa
+Continent:    North America
+Population:   38.2M people
+Currency:     Canadian dollar
+Language:     English/French
+Government:   Federal Parliamentary
+Independence: 1867
+GDP (USD B):  $2139.8B
+
+Country:      India
+Capital:      New Delhi
+Continent:    Asia
+Population:   1428.6M people
+Currency:     Indian rupee
+Language:     Hindi/English
+Government:   Federal Parliamentary
+Independence: 1947
+GDP (USD B):  $3732.2B
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3000 BC
+Event:        Invention of cuneiform writing
+Region:       Middle East
+Key Figures:  Sumerians
+Significance: First writing system enables record-keeping
+
+Year:         1347 AD
+Event:        Black Death reaches Europe
+Region:       Europe
+Key Figures:  None
+Significance: Kills 30-60% of European population
+
+Year:         1543 AD
+Event:        Heliocentric model published
+Region:       Europe
+Key Figures:  Copernicus
+Significance: Scientific Revolution begins
+
+Year:         1776 AD
+Event:        American Declaration of Independence
+Region:       Americas
+Key Figures:  Jefferson/Franklin
+Significance: First modern democracy
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Alzheimer's
+Type:        Neurological
+Pathogen:    Non-communicable
+Transmission:Aging/genetics
+Symptoms:    Memory loss, confusion
+Treatment:   No cure; slowing medications
+Deaths/yr:   0.12M
+Vaccine:     No
+Discovered:  1906
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Aristotle
+Lived:         384 - -322
+Nationality:   Greek
+Field:         Philosophy
+Known For:     Logic, ethics, biology
+Contribution:  Codified logic; wrote on biology, physics, ethics, politics; tutored Alexander
+Quote:         "The more you know, the more you know you don't know."
+
+Name:          Cleopatra VII
+Lived:         69 - -30
+Nationality:   Egyptian
+Field:         Politics
+Known For:     Last pharaoh of Egypt
+Contribution:  Spoke 9 languages; allied with Caesar and Mark Antony; end of pharaonic era
+Quote:         "I will not be triumphed over."
+
+Name:          Ada Lovelace
+Lived:         1815 - 1852
+Nationality:   English
+Field:         Computing
+Known For:     First computer algorithm
+Contribution:  Wrote first algorithm for Babbage's machine; recognized computing potential
+Quote:         "The Analytical Engine weaves algebraic patterns."
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Chlorine (Cl)
+Atomic Number: 17
+Category:      Halogen
+Atomic Mass:   35.453 u
+Uses:          Water purification, PVC, bleach
+
+Element:       Helium (He)
+Atomic Number: 2
+Category:      Noble gas
+Atomic Mass:   4.003 u
+Uses:          Balloons, cryogenics, MRI cooling
+
+Element:       Oxygen (O)
+Atomic Number: 8
+Category:      Nonmetal
+Atomic Mass:   15.999 u
+Uses:          Respiration, combustion, steel
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Compound Interest
+Category:   Finance
+Definition: Interest calculated on initial principal and accumulated interest
+Formula:    A = P(1 + r/n)^(nt)
+Economist:  Various
+Example:    Einstein allegedly called it the 8th wonder of the world
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Golden Ratio
+Branch:       Geometry
+Formula:      phi = (1+sqrt(5))/2 = 1.618...
+Applications: Art, architecture, nature, design
+Discoverer:   Ancient Greeks (500)
+
+Theorem/Law:  Law of Large Numbers
+Branch:       Probability
+Formula:      Sample mean converges to expected value
+Applications: Insurance, gambling, statistics
+Discoverer:   Jacob Bernoulli (1713)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  END OF VOLUME 0281
+============================================================

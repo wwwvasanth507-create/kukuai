@@ -1,0 +1,226 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0551 of 1000
+  Topic Focus: World Cultures
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Countries
+  - Math
+  - Diseases
+  - History
+  - Qa
+  - Inventions
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Philippines
+Capital:      Manila
+Continent:    Asia
+Population:   114.2M people
+Currency:     Philippine peso
+Language:     Filipino/English
+Government:   Presidential Republic
+Independence: 1898
+GDP (USD B):  $404.3B
+
+Country:      Italy
+Capital:      Rome
+Continent:    Europe
+Population:   59.0M people
+Currency:     Euro
+Language:     Italian
+Government:   Parliamentary Republic
+Independence: 1861
+GDP (USD B):  $2169.7B
+
+Country:      Portugal
+Capital:      Lisbon
+Continent:    Europe
+Population:   10.3M people
+Currency:     Euro
+Language:     Portuguese
+Government:   Semi-Presidential Republic
+Independence: 1143
+GDP (USD B):  $251.9B
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3100 BC
+Event:        Unification of Egypt
+Region:       Africa
+Key Figures:  Narmer
+Significance: First nation-state in history
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         1543 AD
+Event:        Heliocentric model published
+Region:       Europe
+Key Figures:  Copernicus
+Significance: Scientific Revolution begins
+
+Year:         1969 AD
+Event:        Moon landing Apollo 11
+Region:       Global
+Key Figures:  Armstrong/Aldrin
+Significance: First humans on the Moon
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is plate tectonics?
+A1: Earth's crust is divided into tectonic plates that move
+     on the mantle. Their interactions create earthquakes,
+     volcanoes, mountains, and ocean trenches over millions
+     of years.
+
+Q2: What is artificial intelligence?
+A2: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q3: What is inflation?
+A3: Inflation is the general rise in price levels over
+     time, reducing purchasing power. Caused by excess money
+     supply, high demand, or supply shocks. Measured by the
+     Consumer Price Index.
+
+Q4: What is a black hole?
+A4: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+Q5: What is democracy?
+A5: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  Automobile
+Year:       1885
+Inventor:   Karl Benz
+Country:    Germany
+Category:   Transportation
+Description:Gasoline-powered self-propelled vehicle
+Impact:     Transformed cities, suburbs, economy; petroleum age
+
+Invention:  Airplane
+Year:       1903
+Inventor:   Wright Brothers
+Country:    USA
+Category:   Transportation
+Description:Powered heavier-than-air flight
+Impact:     Shrank world to days; aviation industry; air warfare
+
+============================================================
+  END OF VOLUME 0551
+============================================================

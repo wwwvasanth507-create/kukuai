@@ -1,0 +1,245 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0859 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - People
+  - Countries
+  - Animals
+  - Qa
+  - Math
+  - History
+  - Elements
+  - Economics
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+Name:          William Shakespeare
+Lived:         1564 - 1616
+Nationality:   English
+Field:         Literature
+Known For:     Hamlet, Romeo and Juliet
+Contribution:  38 plays; 154 sonnets; invented 1,700+ English words
+Quote:         "All the world's a stage."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Belgium
+Capital:      Brussels
+Continent:    Europe
+Population:   11.6M people
+Currency:     Euro
+Language:     Dutch/French/German
+Government:   Federal Parliamentary
+Independence: 1830
+GDP (USD B):  $599.9B
+
+Country:      Peru
+Capital:      Lima
+Continent:    South America
+Population:   33.4M people
+Currency:     Peruvian sol
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1821
+GDP (USD B):  $242.6B
+
+Country:      Czech Republic
+Capital:      Prague
+Continent:    Europe
+Population:   10.8M people
+Currency:     Czech koruna
+Language:     Czech
+Government:   Parliamentary Republic
+Independence: 1993
+GDP (USD B):  $290.9B
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Monarch Butterfly
+Scientific:   Danaus plexippus
+Class:        Insecta
+Habitat:      Meadows
+Diet:         Herbivore
+Lifespan:     0.25 years
+Weight:       0.0005 kg
+Status:       Endangered
+Fact:         Migrates 4,800 km; uses Earth's magnetic field for navigation
+
+Name:         Komodo Dragon
+Scientific:   Varanus komodoensis
+Class:        Reptilia
+Habitat:      Islands
+Diet:         Carnivore
+Lifespan:     30 years
+Weight:       90 kg
+Status:       Endangered
+Fact:         Largest living lizard; venomous; can reproduce asexually
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the speed of light?
+A1: The speed of light in a vacuum is 299,792,458 meters
+     per second (approximately 300,000 km/s), denoted as c.
+
+Q2: What is the Pythagorean theorem?
+A2: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q3: What is the internet?
+A3: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q4: What is entropy?
+A4: Entropy measures disorder or randomness in a system.
+     The Second Law of Thermodynamics states it always
+     increases in isolated systems — the arrow of time.
+
+Q5: What is a programming language?
+A5: A programming language is a formal set of instructions
+     for computers. High-level languages (Python, Java) are
+     human-readable; low-level (Assembly) are closer to
+     machine code.
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Four Color Theorem
+Branch:       Topology
+Formula:      Any planar map needs at most 4 colors
+Applications: Cartography, graph coloring
+Discoverer:   Appel and Haken (1976)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         0 AD
+Event:        Estimated birth of Jesus Christ
+Region:       Middle East
+Key Figures:  Jesus of Nazareth
+Significance: Foundation of Christianity
+
+Year:         1453 AD
+Event:        Fall of Constantinople
+Region:       Europe/Asia
+Key Figures:  Mehmed II
+Significance: Ends Byzantine Empire; drives exploration
+
+Year:         1865 AD
+Event:        US Civil War ends
+Region:       Americas
+Key Figures:  Lincoln/Grant
+Significance: Slavery abolished; USA reunified
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Aluminium (Al)
+Atomic Number: 13
+Category:      Post-transition
+Atomic Mass:   26.982 u
+Uses:          Aircraft, packaging, construction
+
+Element:       Silver (Ag)
+Atomic Number: 47
+Category:      Transition metal
+Atomic Mass:   107.868 u
+Uses:          Jewelry, photography, electronics
+
+Element:       Boron (B)
+Atomic Number: 5
+Category:      Metalloid
+Atomic Mass:   10.811 u
+Uses:          Glass, ceramics, detergents, semiconductors
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+============================================================
+  END OF VOLUME 0859
+============================================================

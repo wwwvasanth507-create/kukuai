@@ -1,0 +1,186 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0909 of 1000
+  Topic Focus: Medicine & Health
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Philosophy
+  - Ai
+  - Economics
+  - Science
+  - Animals
+  - People
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Stoicism
+Branch:       Ethics
+Definition:   Focus only on what is in your control; accept all else with equanimity
+Philosopher:  Marcus Aurelius/Epictetus
+Example:      Illness is not in your control; your response to it is
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Attention Mechanism
+Category:    Mechanism
+Definition:  Learns to focus on relevant input parts for each output
+Year:        2015
+Researchers: Bahdanau et al.
+Applications:Machine translation, NLP, summarization
+Related:     Self-attention, multi-head, cross-attention
+
+Concept:     Constitutional AI
+Category:    Alignment
+Definition:  AI trained on principles via self-critique to reduce harm
+Year:        2022
+Researchers: Anthropic/Bai et al.
+Applications:Claude safety and alignment
+Related:     RLHF, harmlessness, helpfulness, honesty
+
+Concept:     Hallucination
+Category:    Problem
+Definition:  LLM confidently generates plausible but incorrect information
+Year:        2020
+Researchers: Many researchers
+Applications:AI reliability, factual QA systems
+Related:     Retrieval augmentation, grounding, calibration
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+Concept:    Inflation
+Category:   Macroeconomics
+Definition: General rise in price levels eroding purchasing power
+Formula:    Inflation = (CPI_t - CPI_t-1)/CPI_t-1 x 100
+Economist:  Irving Fisher
+Example:    2022 US inflation hit 9.1%; Fed raised rates to combat it
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Geology
+Topic:   Plate Tectonics
+Formula: ~15 major plates on mantle
+Note:    Explains earthquakes, volcanoes, mountain formation
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Octopus
+Scientific:   Octopus vulgaris
+Class:        Cephalopoda
+Habitat:      Ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       10 kg
+Status:       Least Concern
+Fact:         3 hearts, blue blood; changes color in 0.3 seconds; 9 brains
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+Name:         Emperor Penguin
+Scientific:   Aptenodytes forsteri
+Class:        Aves
+Habitat:      Antarctic
+Diet:         Carnivore
+Lifespan:     25 years
+Weight:       45 kg
+Status:       Near Threatened
+Fact:         Deepest-diving bird at 565m; male incubates egg 65 days without eating
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Abraham Lincoln
+Lived:         1809 - 1865
+Nationality:   American
+Field:         Politics
+Known For:     Emancipation Proclamation
+Contribution:  16th US President; preserved Union; abolished slavery; Gettysburg Address
+Quote:         "Government of the people, by the people, for the people."
+
+Name:          Galileo Galilei
+Lived:         1564 - 1642
+Nationality:   Italian
+Field:         Astronomy
+Known For:     Heliocentrism, telescope
+Contribution:  Confirmed Copernican model; law of falling bodies; faced Inquisition
+Quote:         "And yet it moves."
+
+Name:          Charles Darwin
+Lived:         1809 - 1882
+Nationality:   English
+Field:         Biology
+Known For:     Evolution by Natural Selection
+Contribution:  On the Origin of Species; explained diversity of life on Earth
+Quote:         "It is not the strongest that survives, but the most adaptable."
+
+============================================================
+  END OF VOLUME 0909
+============================================================

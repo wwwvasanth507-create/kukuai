@@ -1,0 +1,243 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0979 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Inventions
+  - History
+  - Math
+  - Programming
+  - Countries
+  - People
+  - Diseases
+  - Philosophy
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Writing
+Year:       3200
+Inventor:   Sumerians
+Country:    Mesopotamia
+Category:   Communication
+Description:Cuneiform marks in clay tablets
+Impact:     Enabled civilization-scale organization and history
+
+Invention:  Light Bulb
+Year:       1879
+Inventor:   Thomas Edison
+Country:    USA
+Category:   Energy
+Description:Long-lasting incandescent light
+Impact:     Transformed productivity; enabled modern cities
+
+Invention:  CRISPR-Cas9
+Year:       2012
+Inventor:   Doudna/Charpentier
+Country:    USA/France
+Category:   Biology
+Description:Precise genome editing tool
+Impact:     Gene therapy; Nobel Prize 2020; transforms medicine
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1543 AD
+Event:        Heliocentric model published
+Region:       Europe
+Key Figures:  Copernicus
+Significance: Scientific Revolution begins
+
+Year:         1789 AD
+Event:        French Revolution begins
+Region:       Europe
+Key Figures:  Robespierre
+Significance: Spreads liberty, equality, fraternity
+
+Year:         1859 AD
+Event:        Darwin's Origin of Species
+Region:       Europe
+Key Figures:  Charles Darwin
+Significance: Theory of evolution by natural selection
+
+Year:         1994 AD
+Event:        World Wide Web goes public
+Region:       Global
+Key Figures:  Tim Berners-Lee
+Significance: Transforms communication and commerce
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+Language:  SQL
+Created:   1974 by Chamberlin/Boyce
+Paradigm:  Declarative
+Typing:    N/A
+Uses:      Relational databases
+Hello:     SELECT 'Hello, World!';
+
+Language:  Lua
+Created:   1993 by PUC-Rio
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Game scripting, embedded
+Hello:     print("Hello, World!")
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Chile
+Capital:      Santiago
+Continent:    South America
+Population:   19.6M people
+Currency:     Chilean peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1818
+GDP (USD B):  $317.1B
+
+Country:      Switzerland
+Capital:      Bern
+Continent:    Europe
+Population:   8.8M people
+Currency:     Swiss franc
+Language:     German/French/Italian
+Government:   Federal Republic
+Independence: 1291
+GDP (USD B):  $869.6B
+
+Country:      Japan
+Capital:      Tokyo
+Continent:    Asia
+Population:   124.5M people
+Currency:     Japanese yen
+Language:     Japanese
+Government:   Constitutional Monarchy
+Independence: 660
+GDP (USD B):  $4409.7B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+Name:          Leonardo da Vinci
+Lived:         1452 - 1519
+Nationality:   Italian
+Field:         Art/Science
+Known For:     Mona Lisa, anatomy
+Contribution:  Renaissance polymath; Mona Lisa; anatomical drawings; flying machine designs
+Quote:         "Learning never exhausts the mind."
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Cardiovascular Disease
+Type:        Metabolic
+Pathogen:    Non-communicable
+Transmission:Non-communicable
+Symptoms:    Chest pain, shortness of breath
+Treatment:   Statins, surgery, stents
+Deaths/yr:   17.9M
+Vaccine:     No (for most types)
+Discovered:  Ancient
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Cancer
+Type:        Cellular
+Pathogen:    Various causes
+Transmission:Non-communicable
+Symptoms:    Lumps, weight loss, fatigue
+Treatment:   Chemo, surgery, immunotherapy
+Deaths/yr:   10.0M
+Vaccine:     Some (HPV, Hep B vaccines)
+Discovered:  Ancient
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Stoicism
+Branch:       Ethics
+Definition:   Focus only on what is in your control; accept all else with equanimity
+Philosopher:  Marcus Aurelius/Epictetus
+Example:      Illness is not in your control; your response to it is
+
+============================================================
+  END OF VOLUME 0979
+============================================================

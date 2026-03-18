@@ -1,0 +1,242 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0239 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Elements
+  - Inventions
+  - Science
+  - Animals
+  - Economics
+  - History
+  - Math
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is machine learning?
+A1: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+Q2: What is photosynthesis?
+A2: Photosynthesis converts sunlight, CO2, and water into
+     glucose and oxygen: 6CO2 + 6H2O + light → C6H12O6 +
+     6O2. It occurs in plant chloroplasts.
+
+Q3: What is osmosis?
+A3: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q4: What is capitalism?
+A4: Capitalism is an economic system where private
+     individuals own the means of production and markets
+     determine prices and production through supply and
+     demand.
+
+Q5: What is evolution?
+A5: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Zinc (Zn)
+Atomic Number: 30
+Category:      Transition metal
+Atomic Mass:   65.38 u
+Uses:          Galvanizing, alloys, sunscreen
+
+Element:       Copper (Cu)
+Atomic Number: 29
+Category:      Transition metal
+Atomic Mass:   63.546 u
+Uses:          Wiring, plumbing, coinage, electronics
+
+Element:       Mercury (Hg)
+Atomic Number: 80
+Category:      Transition metal
+Atomic Mass:   200.592 u
+Uses:          Thermometers, fluorescent lamps
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Smartphone
+Year:       2007
+Inventor:   Apple
+Country:    USA
+Category:   Communication
+Description:Touch-screen mobile computer + phone
+Impact:     Computer in every pocket; transforms daily life
+
+Invention:  Telephone
+Year:       1876
+Inventor:   Alexander Bell
+Country:    USA
+Category:   Communication
+Description:Voice over electrical wire
+Impact:     Transformed personal and business communication
+
+Invention:  Photography
+Year:       1826
+Inventor:   Nicephore Niepce
+Country:    France
+Category:   Communication
+Description:Chemical capture of light images
+Impact:     Transformed art, journalism, science, identity
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Mathematics
+Topic:   Euler's Identity
+Formula: e^(iπ) + 1 = 0
+Note:    Relates five fundamental constants; called most beautiful equation
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+Domain:  Physics
+Topic:   E = mc²
+Formula: E = mc²
+Note:    Mass-energy equivalence; foundation of nuclear physics
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+Domain:  Physics
+Topic:   Wave Equation
+Formula: v = fλ
+Note:    Speed of wave = frequency × wavelength
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+Name:         Octopus
+Scientific:   Octopus vulgaris
+Class:        Cephalopoda
+Habitat:      Ocean
+Diet:         Carnivore
+Lifespan:     3 years
+Weight:       10 kg
+Status:       Least Concern
+Fact:         3 hearts, blue blood; changes color in 0.3 seconds; 9 brains
+
+Name:         Giant Panda
+Scientific:   Ailuropoda melanoleuca
+Class:        Mammalia
+Habitat:      Temperate forest
+Diet:         Herbivore
+Lifespan:     20 years
+Weight:       100 kg
+Status:       Vulnerable
+Fact:         Eats 12-38 kg bamboo daily; has a sixth finger (pseudo-thumb)
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3100 BC
+Event:        Unification of Egypt
+Region:       Africa
+Key Figures:  Narmer
+Significance: First nation-state in history
+
+Year:         776 BC
+Event:        First Olympic Games
+Region:       Europe
+Key Figures:  Greeks
+Significance: Pan-Hellenic unity; birth of organized sports
+
+Year:         336 BC
+Event:        Alexander the Great begins conquests
+Region:       Asia
+Key Figures:  Alexander III
+Significance: Spreads Hellenistic culture from Greece to India
+
+Year:         1776 AD
+Event:        American Declaration of Independence
+Region:       Americas
+Key Figures:  Jefferson/Franklin
+Significance: First modern democracy
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Quadratic Formula
+Branch:       Algebra
+Formula:      x = (-b ± sqrt(b²-4ac))/2a
+Applications: Engineering, physics
+Discoverer:   Ancient Babylonians (2000)
+
+Theorem/Law:  Godel's Incompleteness
+Branch:       Logic
+Formula:      Every consistent system has unprovable true statements
+Applications: AI limits, foundations of math
+Discoverer:   Kurt Godel (1931)
+
+Theorem/Law:  Taylor Series
+Branch:       Calculus
+Formula:      f(x) = sum of f^n(a)/n! * (x-a)^n
+Applications: Numerical computation, signal processing
+Discoverer:   Brook Taylor (1715)
+
+============================================================
+  END OF VOLUME 0239
+============================================================

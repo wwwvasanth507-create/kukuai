@@ -1,0 +1,196 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0094 of 1000
+  Topic Focus: Politics & Government
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Philosophy
+  - Countries
+  - Animals
+  - Ai
+  - Economics
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is metabolism?
+A1: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q2: What is machine learning?
+A2: Machine learning enables systems to learn from
+     experience without being explicitly programmed, using
+     data to improve performance automatically.
+
+Q3: What is artificial intelligence?
+A3: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q4: What is relativity?
+A4: Einstein's relativity: Special (1905) — time dilates,
+     mass increases at high speeds; E=mc². General (1915) —
+     gravity is curved spacetime; explains black holes and
+     expanding universe.
+
+Q5: What is the Renaissance?
+A5: The Renaissance (14th-17th century) was a cultural
+     rebirth in Europe featuring renewed interest in Greco-
+     Roman art, humanism, and early science. Began in Italy;
+     spread across Europe.
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Iran
+Capital:      Tehran
+Continent:    Asia
+Population:   87.9M people
+Currency:     Iranian rial
+Language:     Persian
+Government:   Islamic Republic
+Independence: 1979
+GDP (USD B):  $368.9B
+
+Country:      Nigeria
+Capital:      Abuja
+Continent:    Africa
+Population:   220.9M people
+Currency:     Nigerian naira
+Language:     English
+Government:   Federal Republic
+Independence: 1960
+GDP (USD B):  $440.8B
+
+Country:      Sweden
+Capital:      Stockholm
+Continent:    Europe
+Population:   10.5M people
+Currency:     Swedish krona
+Language:     Swedish
+Government:   Constitutional Monarchy
+Independence: 1523
+GDP (USD B):  $636.0B
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         African Wild Dog
+Scientific:   Lycaon pictus
+Class:        Mammalia
+Habitat:      Savanna
+Diet:         Carnivore
+Lifespan:     11 years
+Weight:       30 kg
+Status:       Endangered
+Fact:         80% hunting success rate; votes on hunts by sneezing democratically
+
+Name:         Peregrine Falcon
+Scientific:   Falco peregrinus
+Class:        Aves
+Habitat:      Cliffs/Cities
+Diet:         Carnivore
+Lifespan:     15 years
+Weight:       1 kg
+Status:       Least Concern
+Fact:         Fastest animal on Earth at 389 km/h in a dive
+
+Name:         Hummingbird
+Scientific:   Trochilidae
+Class:        Aves
+Habitat:      Forest
+Diet:         Omnivore
+Lifespan:     5 years
+Weight:       0.003 kg
+Status:       Varies
+Fact:         Only bird that can fly backwards; heart beats 1,260 times per minute
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+Concept:     CNN
+Category:    Architecture
+Definition:  Convolutional filters detect spatial features hierarchically
+Year:        1989
+Researchers: LeCun et al.
+Applications:Image classification, object detection
+Related:     Pooling, feature maps, ResNet
+
+Concept:     Word Embeddings
+Category:    Representation
+Definition:  Dense vectors where semantic similarity = vector proximity
+Year:        2013
+Researchers: Mikolov et al.
+Applications:NLP, recommendation, search
+Related:     Word2Vec, GloVe, BERT embeddings
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Market Failure
+Category:   Microeconomics
+Definition: Free markets fail to allocate resources efficiently
+Formula:    Social cost = private + external cost
+Economist:  Arthur Pigou
+Example:    Carbon emissions: negative externality requiring government intervention
+
+Concept:    Keynesian Economics
+Category:   Macroeconomics
+Definition: Government fiscal policy stabilizes economy in recessions
+Formula:    AD = C + I + G + NX
+Economist:  John Maynard Keynes
+Example:    2009 US stimulus; 2020-2021 COVID relief spending
+
+Concept:    Supply and Demand
+Category:   Microeconomics
+Definition: Price determined where quantity supplied equals demanded
+Formula:    P* where Qd=Qs
+Economist:  Alfred Marshall
+Example:    Housing prices rise when population grows but supply stays fixed
+
+============================================================
+  END OF VOLUME 0094
+============================================================

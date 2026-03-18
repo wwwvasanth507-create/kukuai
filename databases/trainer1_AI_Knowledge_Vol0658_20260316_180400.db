@@ -1,0 +1,189 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0658 of 1000
+  Topic Focus: Engineering
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Qa
+  - Philosophy
+  - History
+  - Countries
+  - Programming
+  - Inventions
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is democracy?
+A1: Democracy is government where power derives from the
+     people through free elections, rule of law, and
+     protection of minority rights. Types include direct and
+     representative democracy.
+
+Q2: What is DNA?
+A2: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q3: What is photosynthesis?
+A3: Photosynthesis converts sunlight, CO2, and water into
+     glucose and oxygen: 6CO2 + 6H2O + light → C6H12O6 +
+     6O2. It occurs in plant chloroplasts.
+
+Q4: What is osmosis?
+A4: Osmosis is the movement of water across a semi-
+     permeable membrane from high water concentration to low
+     water concentration (high solute to low solute) until
+     equilibrium.
+
+Q5: What is a black hole?
+A5: A black hole is a region where gravity is so strong
+     that nothing, not even light, can escape. Formed from
+     collapsed massive stars. Event horizon is the point of
+     no return.
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Nihilism
+Branch:       Ethics
+Definition:   Life has no inherent meaning; values are human inventions
+Philosopher:  Nietzsche (diagnosed)
+Example:      Without objective grounding, all moral frameworks are invented
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         490 BC
+Event:        Battle of Marathon
+Region:       Europe
+Key Figures:  Miltiades
+Significance: Greek victory saves Western civilization
+
+Year:         44 BC
+Event:        Assassination of Julius Caesar
+Region:       Europe
+Key Figures:  Brutus/Cassius
+Significance: Ends Roman Republic; leads to Roman Empire
+
+Year:         1776 AD
+Event:        American Declaration of Independence
+Region:       Americas
+Key Figures:  Jefferson/Franklin
+Significance: First modern democracy
+
+Year:         2022 AD
+Event:        Russia invades Ukraine
+Region:       Europe
+Key Figures:  Putin/Zelensky
+Significance: Largest European war since WWII
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Spain
+Capital:      Madrid
+Continent:    Europe
+Population:   47.4M people
+Currency:     Euro
+Language:     Spanish
+Government:   Constitutional Monarchy
+Independence: 1479
+GDP (USD B):  $1492.4B
+
+Country:      Bangladesh
+Capital:      Dhaka
+Continent:    Asia
+Population:   170.0M people
+Currency:     Bangladeshi taka
+Language:     Bengali
+Government:   Parliamentary Republic
+Independence: 1971
+GDP (USD B):  $460.2B
+
+Country:      Peru
+Capital:      Lima
+Continent:    South America
+Population:   33.4M people
+Currency:     Peruvian sol
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1821
+GDP (USD B):  $242.6B
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  C
+Created:   1972 by Dennis Ritchie
+Paradigm:  Procedural
+Typing:    Static
+Uses:      Systems, OS, embedded, kernels
+Hello:     printf("Hello, World!\n");
+
+Language:  Python
+Created:   1991 by Guido van Rossum
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      AI/ML, web, scripting, data science
+Hello:     print("Hello, World!")
+
+Language:  Scala
+Created:   2004 by Martin Odersky
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Big data, Spark, functional
+Hello:     println("Hello, World!")
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+Invention:  Radio
+Year:       1895
+Inventor:   Guglielmo Marconi
+Country:    Italy
+Category:   Communication
+Description:Wireless electromagnetic transmission
+Impact:     Enabled broadcasting; news, entertainment, military
+
+Invention:  Steam Engine
+Year:       1769
+Inventor:   James Watt
+Country:    Scotland
+Category:   Energy
+Description:Steam pressure to mechanical motion
+Impact:     Powered the Industrial Revolution
+
+============================================================
+  END OF VOLUME 0658
+============================================================

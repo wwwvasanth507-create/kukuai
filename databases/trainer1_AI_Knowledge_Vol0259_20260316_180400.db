@@ -1,0 +1,263 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0259 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Economics
+  - Math
+  - Science
+  - History
+  - Elements
+  - Countries
+  - Programming
+  - Qa
+  - Philosophy
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Opportunity Cost
+Category:   Microeconomics
+Definition: Value of next-best alternative foregone when choosing
+Formula:    OC = forgone alternative value
+Economist:  Bastiat
+Example:    Studying means forgoing wages you could have earned working
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+Theorem/Law:  Fermat's Last Theorem
+Branch:       Number Theory
+Formula:      aⁿ + bⁿ ≠ cⁿ for n>2
+Applications: Advanced number theory, elliptic curves
+Discoverer:   Fermat (conjecture); Wiles (proof) (1637)
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Gravitational Force
+Formula: F = Gm1m2/r²
+Note:    Universal gravitation between all masses
+
+Domain:  Medicine
+Topic:   Germ Theory
+Formula: Microorganisms cause disease
+Note:    Pasteur/Koch; foundation of modern medicine
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Physics
+Topic:   Newton's Second Law
+Formula: F = ma
+Note:    Force equals mass times acceleration; classical mechanics
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         1789 AD
+Event:        French Revolution begins
+Region:       Europe
+Key Figures:  Robespierre
+Significance: Spreads liberty, equality, fraternity
+
+Year:         1859 AD
+Event:        Darwin's Origin of Species
+Region:       Europe
+Key Figures:  Charles Darwin
+Significance: Theory of evolution by natural selection
+
+Year:         1917 AD
+Event:        Russian Revolution
+Region:       Europe
+Key Figures:  Lenin/Trotsky
+Significance: Communism seizes power; USSR formed
+
+Year:         1989 AD
+Event:        Berlin Wall falls
+Region:       Europe
+Key Figures:  Gorbachev/Kohl
+Significance: Cold War ends; Germany reunifies
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Uranium (U)
+Atomic Number: 92
+Category:      Actinide
+Atomic Mass:   238.029 u
+Uses:          Nuclear fuel, weapons, radiation dating
+
+Element:       Beryllium (Be)
+Atomic Number: 4
+Category:      Alkaline earth
+Atomic Mass:   9.012 u
+Uses:          Aerospace alloys, X-ray windows
+
+Element:       Fluorine (F)
+Atomic Number: 9
+Category:      Halogen
+Atomic Mass:   18.998 u
+Uses:          Toothpaste, Teflon, refrigerants
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Algeria
+Capital:      Algiers
+Continent:    Africa
+Population:   45.4M people
+Currency:     Algerian dinar
+Language:     Arabic
+Government:   Presidential Republic
+Independence: 1962
+GDP (USD B):  $166.9B
+
+Country:      India
+Capital:      New Delhi
+Continent:    Asia
+Population:   1428.6M people
+Currency:     Indian rupee
+Language:     Hindi/English
+Government:   Federal Parliamentary
+Independence: 1947
+GDP (USD B):  $3732.2B
+
+Country:      Egypt
+Capital:      Cairo
+Continent:    Africa
+Population:   104.2M people
+Currency:     Egyptian pound
+Language:     Arabic
+Government:   Presidential Republic
+Independence: 1922
+GDP (USD B):  $476.8B
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  Dart
+Created:   2011 by Lars Bak/Kasper Lund
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Flutter apps, web
+Hello:     print("Hello World!");
+
+Language:  Ruby
+Created:   1995 by Yukihiro Matsumoto
+Paradigm:  Multi-paradigm
+Typing:    Dynamic
+Uses:      Web (Rails), scripting
+Hello:     puts "Hello, World!"
+
+Language:  TypeScript
+Created:   2012 by Anders Hejlsberg
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Large-scale web, Node.js
+Hello:     console.log("Hello, World!");
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is natural selection?
+A1: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q2: What is the internet?
+A2: The internet is a global network of interconnected
+     computers using TCP/IP protocols. It began as ARPANET
+     in 1969 and became public with the World Wide Web in
+     1994.
+
+Q3: What is evolution?
+A3: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+Q4: What is the periodic table?
+A4: The periodic table organizes 118 elements by atomic
+     number. Elements in the same column share chemical
+     properties. Rows are periods; columns are groups.
+
+Q5: What is quantum mechanics?
+A5: Quantum mechanics describes physics at atomic and
+     subatomic scales. Key principles: wave-particle
+     duality, uncertainty principle, superposition, and
+     quantum entanglement.
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Plato's Theory of Forms
+Branch:       Metaphysics
+Definition:   Physical objects are imperfect copies of eternal abstract Forms
+Philosopher:  Plato
+Example:      The perfect circle exists only as a Form; drawn circles approximate it
+
+Concept:      Existentialism
+Branch:       Metaphysics
+Definition:   Existence precedes essence; radical freedom and responsibility
+Philosopher:  Jean-Paul Sartre
+Example:      You are not born kind or cruel; you become so through choices
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+============================================================
+  END OF VOLUME 0259
+============================================================

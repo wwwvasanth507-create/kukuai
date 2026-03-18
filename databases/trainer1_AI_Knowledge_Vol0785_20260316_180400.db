@@ -1,0 +1,276 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0785 of 1000
+  Topic Focus: Physics & Astronomy
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Countries
+  - People
+  - History
+  - Diseases
+  - Programming
+  - Science
+  - Economics
+  - Philosophy
+  - Inventions
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Peru
+Capital:      Lima
+Continent:    South America
+Population:   33.4M people
+Currency:     Peruvian sol
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1821
+GDP (USD B):  $242.6B
+
+Country:      Colombia
+Capital:      Bogota
+Continent:    South America
+Population:   51.8M people
+Currency:     Colombian peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1810
+GDP (USD B):  $343.6B
+
+Country:      Spain
+Capital:      Madrid
+Continent:    Europe
+Population:   47.4M people
+Currency:     Euro
+Language:     Spanish
+Government:   Constitutional Monarchy
+Independence: 1479
+GDP (USD B):  $1492.4B
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Albert Einstein
+Lived:         1879 - 1955
+Nationality:   German-American
+Field:         Physics
+Known For:     Theory of Relativity
+Contribution:  E=mc2; photoelectric effect; special and general relativity
+Quote:         "Imagination is more important than knowledge."
+
+Name:          Florence Nightingale
+Lived:         1820 - 1910
+Nationality:   English
+Field:         Medicine
+Known For:     Modern nursing
+Contribution:  Founded modern nursing; used statistics; reduced Crimean War mortality 40% to 2%
+Quote:         "I attribute my success to this: I never gave or took any excuse."
+
+Name:          Marie Curie
+Lived:         1867 - 1934
+Nationality:   Polish-French
+Field:         Chemistry/Physics
+Known For:     Radioactivity
+Contribution:  First woman Nobel laureate; Nobel in two sciences; discovered radium and polonium
+Quote:         "Nothing in life is to be feared, only to be understood."
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         509 BC
+Event:        Roman Republic founded
+Region:       Europe
+Key Figures:  Brutus
+Significance: Republican government model
+
+Year:         2001 AD
+Event:        September 11 attacks
+Region:       Americas
+Key Figures:  Al-Qaeda
+Significance: 3,000 killed; transforms global security
+
+Year:         2020 AD
+Event:        COVID-19 pandemic declared
+Region:       Global
+Key Figures:  WHO
+Significance: Worst pandemic since 1918; 6M+ dead
+
+Year:         2023 AD
+Event:        AI large language models go mainstream
+Region:       Global
+Key Figures:  OpenAI/Anthropic
+Significance: ChatGPT transforms knowledge work
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     Ebola
+Type:        Viral
+Pathogen:    Ebola virus
+Transmission:Bodily fluids contact
+Symptoms:    Fever, bleeding, organ failure
+Treatment:   Monoclonal antibodies, supportive
+Deaths/yr:   0.001M
+Vaccine:     Yes (Ervebo for Zaire strain)
+Discovered:  1976
+
+Disease:     Polio
+Type:        Viral
+Pathogen:    Poliovirus
+Transmission:Fecal-oral
+Symptoms:    Paralysis in severe cases
+Treatment:   No cure; supportive care
+Deaths/yr:   0M
+Vaccine:     Yes (near-eradicated)
+Discovered:  1840
+
+Disease:     Hepatitis B
+Type:        Viral
+Pathogen:    HBV
+Transmission:Blood, sexual contact
+Symptoms:    Often asymptomatic; jaundice
+Treatment:   Antivirals (tenofovir)
+Deaths/yr:   0.82M
+Vaccine:     Yes (highly effective)
+Discovered:  1965
+
+============================================================
+  PROGRAMMING LANGUAGES
+============================================================
+
+Language:  SQL
+Created:   1974 by Chamberlin/Boyce
+Paradigm:  Declarative
+Typing:    N/A
+Uses:      Relational databases
+Hello:     SELECT 'Hello, World!';
+
+Language:  Swift
+Created:   2014 by Chris Lattner/Apple
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      iOS, macOS, watchOS apps
+Hello:     print("Hello, World!")
+
+Language:  C++
+Created:   1985 by Bjarne Stroustrup
+Paradigm:  Multi-paradigm
+Typing:    Static
+Uses:      Systems, games, embedded, HPC
+Hello:     cout << "Hello, World!";
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Gravitational Force
+Formula: F = Gm1m2/r²
+Note:    Universal gravitation between all masses
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Biology
+Topic:   Central Dogma
+Formula: DNA → RNA → Protein
+Note:    Information flow in all living organisms
+
+Domain:  Mathematics
+Topic:   Pi
+Formula: π ≈ 3.14159265358979...
+Note:    Ratio of circle circumference to diameter
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Comparative Advantage
+Category:   International Trade
+Definition: Countries gain by specializing in what they produce most efficiently
+Formula:    Compare opportunity cost ratios
+Economist:  David Ricardo
+Example:    China makes electronics cheaply; USA makes pharma cheaply; both gain trading
+
+Concept:    Monetarism
+Category:   Macroeconomics
+Definition: Inflation caused primarily by excessive money supply growth
+Formula:    MV = PQ
+Economist:  Milton Friedman
+Example:    Fed raising interest rates to control money supply and inflation
+
+Concept:    Game Theory
+Category:   Economics
+Definition: Study of strategic interactions between rational agents
+Formula:    Nash equilibrium
+Economist:  John Nash
+Example:    OPEC cartel coordination; nuclear deterrence strategy
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   The right action maximizes total happiness for greatest number
+Philosopher:  Bentham/Mill
+Example:      Sacrifice one to save five if it maximizes total utility
+
+Concept:      Empiricism
+Branch:       Epistemology
+Definition:   All knowledge comes from sensory experience; mind is blank slate
+Philosopher:  Locke/Hume
+Example:      We know fire burns because we felt it, not through pure reason
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Internet
+Year:       1969
+Inventor:   DARPA/UCLA
+Country:    USA
+Category:   Communication
+Description:Packet-switched network connecting computers
+Impact:     Became internet; most transformative network ever
+
+Invention:  Wheel
+Year:       3500
+Inventor:   Unknown
+Country:    Mesopotamia
+Category:   Transportation
+Description:Rolling cylinder for moving loads
+Impact:     Foundation of all land vehicles and machinery
+
+Invention:  Steam Engine
+Year:       1769
+Inventor:   James Watt
+Country:    Scotland
+Category:   Energy
+Description:Steam pressure to mechanical motion
+Impact:     Powered the Industrial Revolution
+
+============================================================
+  END OF VOLUME 0785
+============================================================

@@ -1,0 +1,213 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0391 of 1000
+  Topic Focus: World Cultures
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Math
+  - Countries
+  - Ai
+  - Economics
+  - Philosophy
+  - Science
+  - Qa
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Euler's Identity
+Branch:       Complex Analysis
+Formula:      e^(iπ) + 1 = 0
+Applications: Signal processing, quantum mechanics
+Discoverer:   Leonhard Euler (1748)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Binomial Theorem
+Branch:       Algebra
+Formula:      (a+b)^n = sum of C(n,k) a^k b^(n-k)
+Applications: Probability, statistics, polynomial algebra
+Discoverer:   Newton/Pascal (1665)
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      China
+Capital:      Beijing
+Continent:    Asia
+Population:   1412.0M people
+Currency:     Chinese yuan
+Language:     Mandarin
+Government:   Communist State
+Independence: 1949
+GDP (USD B):  $17963.2B
+
+Country:      Denmark
+Capital:      Copenhagen
+Continent:    Europe
+Population:   5.9M people
+Currency:     Danish krone
+Language:     Danish
+Government:   Constitutional Monarchy
+Independence: 1849
+GDP (USD B):  $398.3B
+
+Country:      Zimbabwe
+Capital:      Harare
+Continent:    Africa
+Population:   15.1M people
+Currency:     Zimbabwe dollar
+Language:     16 official langs
+Government:   Presidential Republic
+Independence: 1980
+GDP (USD B):  $26.1B
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     Transformer
+Category:    Architecture
+Definition:  Attention-based model processing sequences in parallel
+Year:        2017
+Researchers: Vaswani et al.
+Applications:LLMs, vision models, protein folding
+Related:     GPT, BERT, attention mechanism
+
+Concept:     Diffusion Model
+Category:    Architecture
+Definition:  Learns to reverse a noise-adding process for generation
+Year:        2020
+Researchers: Ho et al.
+Applications:Image/video/audio generation (Stable Diffusion)
+Related:     DDPM, score matching, noise schedule
+
+Concept:     Backpropagation
+Category:    Training
+Definition:  Computes gradients via chain rule through network layers
+Year:        1986
+Researchers: Rumelhart/Hinton
+Applications:Training all neural networks
+Related:     Gradient descent, automatic differentiation
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    Diminishing Returns
+Category:   Microeconomics
+Definition: More of one input eventually yields smaller output increases
+Formula:    Marginal product falls
+Economist:  Turgot/Marshall
+Example:    More workers in fixed factory eventually get in each other's way
+
+Concept:    Central Bank
+Category:   Macroeconomics
+Definition: Government institution managing currency, money supply, interest rates
+Formula:    Taylor Rule for interest rates
+Economist:  John Taylor
+Example:    US Federal Reserve raised rates to 5.25% in 2023 to fight inflation
+
+Concept:    Gini Coefficient
+Category:   Statistics
+Definition: Measures income inequality from 0 (equal) to 1 (one person has all)
+Formula:    G = 1 - 2∫L(x)dx
+Economist:  Corrado Gini
+Example:    USA Gini ~0.41; Denmark ~0.29; South Africa ~0.63
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+Concept:      Determinism
+Branch:       Metaphysics
+Definition:   All events are causally determined by prior events and natural laws
+Philosopher:  Laplace/Spinoza
+Example:      If universe were rewound exactly, every event would repeat identically
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Hubble's Law
+Formula: v = H₀ × d
+Note:    Universe is expanding; galaxies recede from us
+
+Domain:  Biology
+Topic:   Natural Selection
+Formula: Favorable traits lead to greater reproduction
+Note:    Mechanism of evolution; Darwin 1859
+
+Domain:  Biology
+Topic:   Photosynthesis
+Formula: 6CO₂+6H₂O+light→C₆H₁₂O₆+6O₂
+Note:    How plants produce energy from sunlight
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+Domain:  Biology
+Topic:   DNA Structure
+Formula: Double helix; A-T and G-C base pairs
+Note:    Stores and transmits genetic information
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is the Pythagorean theorem?
+A1: In a right triangle: a² + b² = c², where c is the
+     hypotenuse. If a=3 and b=4, then c=5. Used in
+     navigation, construction, and computer graphics.
+
+Q2: What is plate tectonics?
+A2: Earth's crust is divided into tectonic plates that move
+     on the mantle. Their interactions create earthquakes,
+     volcanoes, mountains, and ocean trenches over millions
+     of years.
+
+Q3: What is metabolism?
+A3: Metabolism is all chemical reactions in an organism
+     that maintain life: catabolism (breaking molecules for
+     energy) and anabolism (building complex molecules from
+     simple ones).
+
+Q4: What is DNA?
+A4: DNA (deoxyribonucleic acid) is a double helix molecule
+     that carries genetic information. It consists of base
+     pairs: adenine-thymine and guanine-cytosine.
+
+Q5: What is natural selection?
+A5: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+============================================================
+  END OF VOLUME 0391
+============================================================

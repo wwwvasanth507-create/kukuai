@@ -1,0 +1,186 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0159 of 1000
+  Topic Focus: Social Sciences
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Science
+  - Philosophy
+  - Countries
+  - History
+  - Economics
+  - Inventions
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Astronomy
+Topic:   Milky Way Size
+Formula: ~100,000 light-years diameter
+Note:    Our galaxy; contains 200-400 billion stars
+
+Domain:  Astronomy
+Topic:   Age of Universe
+Formula: 13.8 billion years
+Note:    Determined by CMB and Hubble constant measurement
+
+Domain:  Physics
+Topic:   1st Law of Thermodynamics
+Formula: ΔU = Q - W
+Note:    Energy conservation in thermodynamic systems
+
+Domain:  Chemistry
+Topic:   Avogadro's Number
+Formula: N_A = 6.022×10²³ mol⁻¹
+Note:    Number of atoms/molecules in one mole
+
+Domain:  Physics
+Topic:   Boyle's Law
+Formula: P₁V₁ = P₂V₂
+Note:    Pressure and volume inversely proportional at constant T
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Chile
+Capital:      Santiago
+Continent:    South America
+Population:   19.6M people
+Currency:     Chilean peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1818
+GDP (USD B):  $317.1B
+
+Country:      Sweden
+Capital:      Stockholm
+Continent:    Europe
+Population:   10.5M people
+Currency:     Swedish krona
+Language:     Swedish
+Government:   Constitutional Monarchy
+Independence: 1523
+GDP (USD B):  $636.0B
+
+Country:      Nigeria
+Capital:      Abuja
+Continent:    Africa
+Population:   220.9M people
+Currency:     Nigerian naira
+Language:     English
+Government:   Federal Republic
+Independence: 1960
+GDP (USD B):  $440.8B
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         776 BC
+Event:        First Olympic Games
+Region:       Europe
+Key Figures:  Greeks
+Significance: Pan-Hellenic unity; birth of organized sports
+
+Year:         1687 AD
+Event:        Newton's Principia Mathematica
+Region:       Europe
+Key Figures:  Isaac Newton
+Significance: Laws of motion and gravity
+
+Year:         1914 AD
+Event:        World War I begins
+Region:       Europe
+Key Figures:  Multiple
+Significance: 17 million dead; empires collapse
+
+Year:         2020 AD
+Event:        COVID-19 pandemic declared
+Region:       Global
+Key Figures:  WHO
+Significance: Worst pandemic since 1918; 6M+ dead
+
+============================================================
+  ECONOMICS
+============================================================
+
+Concept:    GDP
+Category:   Macroeconomics
+Definition: Total value of all goods and services produced in a country annually
+Formula:    GDP = C + I + G + (X-M)
+Economist:  Simon Kuznets
+Example:    USA GDP 2023: $27.4 trillion; China: $17.9 trillion
+
+Concept:    Elasticity
+Category:   Microeconomics
+Definition: Responsiveness of demand to price change
+Formula:    PED = %dQd / %dP
+Economist:  Alfred Marshall
+Example:    Gasoline demand inelastic; luxury goods elastic
+
+Concept:    Moral Hazard
+Category:   Microeconomics
+Definition: Entity takes more risk when not bearing full consequences
+Formula:    Conceptual
+Economist:  Adam Smith/Pauly
+Example:    Banks took excessive risks knowing government would bail them out 2008
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Photography
+Year:       1826
+Inventor:   Nicephore Niepce
+Country:    France
+Category:   Communication
+Description:Chemical capture of light images
+Impact:     Transformed art, journalism, science, identity
+
+Invention:  Telegraph
+Year:       1837
+Inventor:   Samuel Morse
+Country:    USA
+Category:   Communication
+Description:Electrical coded message transmission
+Impact:     First rapid long-distance communication
+
+Invention:  Writing
+Year:       3200
+Inventor:   Sumerians
+Country:    Mesopotamia
+Category:   Communication
+Description:Cuneiform marks in clay tablets
+Impact:     Enabled civilization-scale organization and history
+
+============================================================
+  END OF VOLUME 0159
+============================================================

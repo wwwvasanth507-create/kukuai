@@ -1,0 +1,235 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0020 of 1000
+  Topic Focus: World Geography
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Elements
+  - People
+  - Math
+  - History
+  - Countries
+  - Inventions
+  - Philosophy
+  - Science
+
+============================================================
+  PERIODIC TABLE OF ELEMENTS
+============================================================
+
+Element:       Silicon (Si)
+Atomic Number: 14
+Category:      Metalloid
+Atomic Mass:   28.086 u
+Uses:          Semiconductors, glass, solar cells
+
+Element:       Phosphorus (P)
+Atomic Number: 15
+Category:      Nonmetal
+Atomic Mass:   30.974 u
+Uses:          Fertilizers, matches, detergents, DNA
+
+Element:       Fluorine (F)
+Atomic Number: 9
+Category:      Halogen
+Atomic Mass:   18.998 u
+Uses:          Toothpaste, Teflon, refrigerants
+
+============================================================
+  FAMOUS PEOPLE
+============================================================
+
+Name:          Albert Einstein
+Lived:         1879 - 1955
+Nationality:   German-American
+Field:         Physics
+Known For:     Theory of Relativity
+Contribution:  E=mc2; photoelectric effect; special and general relativity
+Quote:         "Imagination is more important than knowledge."
+
+Name:          Isaac Newton
+Lived:         1643 - 1727
+Nationality:   English
+Field:         Physics/Math
+Known For:     Laws of Motion, Gravity
+Contribution:  Principia Mathematica; invented calculus; explained planetary motion
+Quote:         "If I have seen further, it is by standing on the shoulders of giants."
+
+Name:          Nikola Tesla
+Lived:         1856 - 1943
+Nationality:   Serbian-American
+Field:         Engineering
+Known For:     AC electricity, induction motor
+Contribution:  Alternating current power systems; Tesla coil; radio foundation
+Quote:         "The present is theirs; the future is mine."
+
+============================================================
+  MATHEMATICS
+============================================================
+
+Theorem/Law:  Bayes Theorem
+Branch:       Probability
+Formula:      P(H|E) = P(E|H)P(H)/P(E)
+Applications: ML, spam filters, medical testing
+Discoverer:   Thomas Bayes (1763)
+
+Theorem/Law:  Euler Polyhedron Formula
+Branch:       Topology
+Formula:      V - E + F = 2
+Applications: Architecture, crystallography
+Discoverer:   Leonhard Euler (1758)
+
+Theorem/Law:  Prime Number Theorem
+Branch:       Number Theory
+Formula:      π(n) ~ n/ln(n)
+Applications: Cryptography, algorithm analysis
+Discoverer:   Hadamard/de la VP (1896)
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         3000 BC
+Event:        Invention of cuneiform writing
+Region:       Middle East
+Key Figures:  Sumerians
+Significance: First writing system enables record-keeping
+
+Year:         490 BC
+Event:        Battle of Marathon
+Region:       Europe
+Key Figures:  Miltiades
+Significance: Greek victory saves Western civilization
+
+Year:         1914 AD
+Event:        World War I begins
+Region:       Europe
+Key Figures:  Multiple
+Significance: 17 million dead; empires collapse
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      South Korea
+Capital:      Seoul
+Continent:    Asia
+Population:   51.7M people
+Currency:     South Korean won
+Language:     Korean
+Government:   Presidential Republic
+Independence: 1948
+GDP (USD B):  $1804.7B
+
+Country:      Israel
+Capital:      Jerusalem
+Continent:    Asia
+Population:   9.7M people
+Currency:     Israeli shekel
+Language:     Hebrew
+Government:   Parliamentary Democracy
+Independence: 1948
+GDP (USD B):  $564.2B
+
+Country:      Philippines
+Capital:      Manila
+Continent:    Asia
+Population:   114.2M people
+Currency:     Philippine peso
+Language:     Filipino/English
+Government:   Presidential Republic
+Independence: 1898
+GDP (USD B):  $404.3B
+
+============================================================
+  INVENTIONS & TECHNOLOGIES
+============================================================
+
+Invention:  Telegraph
+Year:       1837
+Inventor:   Samuel Morse
+Country:    USA
+Category:   Communication
+Description:Electrical coded message transmission
+Impact:     First rapid long-distance communication
+
+Invention:  Printing Press
+Year:       1440
+Inventor:   Gutenberg
+Country:    Germany
+Category:   Communication
+Description:Movable metal type for mass printing
+Impact:     Democratized knowledge; enabled Reformation and science
+
+Invention:  ChatGPT/LLMs
+Year:       2022
+Inventor:   OpenAI
+Country:    USA
+Category:   AI
+Description:Transformer LLMs generating human-quality text
+Impact:     Transforms writing, coding, education, search
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Phenomenology
+Branch:       Epistemology
+Definition:   Philosophy must study first-person conscious experience directly
+Philosopher:  Husserl/Heidegger
+Example:      What is the structure of my experience of time or other people?
+
+Concept:      Descartes' Cogito
+Branch:       Epistemology
+Definition:   I think therefore I am — the one undoubtable truth
+Philosopher:  Rene Descartes
+Example:      Even if deceived, you must exist to be deceived
+
+Concept:      Rationalism
+Branch:       Epistemology
+Definition:   Some knowledge is innate or derivable by reason alone
+Philosopher:  Descartes/Spinoza
+Example:      Math truths like 2+2=4 are known by reason, not experiment
+
+============================================================
+  SCIENCE FACTS
+============================================================
+
+Domain:  Physics
+Topic:   Speed of Light
+Formula: c = 299,792,458 m/s in vacuum
+Note:    Foundation of special relativity; universal speed limit
+
+Domain:  Chemistry
+Topic:   Conservation of Mass
+Formula: Reactants mass = Products mass
+Note:    Mass is conserved in all chemical reactions
+
+Domain:  Physics
+Topic:   E = mc²
+Formula: E = mc²
+Note:    Mass-energy equivalence; foundation of nuclear physics
+
+Domain:  Mathematics
+Topic:   Central Limit Theorem
+Formula: Sample means → normal distribution
+Note:    Foundation of statistical inference and polling
+
+Domain:  Geology
+Topic:   Plate Tectonics
+Formula: ~15 major plates on mantle
+Note:    Explains earthquakes, volcanoes, mountain formation
+
+============================================================
+  END OF VOLUME 0020
+============================================================

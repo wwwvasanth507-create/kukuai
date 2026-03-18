@@ -1,0 +1,234 @@
+************************************************************
+  AI WORLD KNOWLEDGE DATABASE
+  Volume 0929 of 1000
+  Topic Focus: Medicine & Health
+  Generated: 2026-03-16
+************************************************************
+
+This file contains structured knowledge entries for AI
+training across multiple domains of human knowledge.
+Domains covered in this volume:
+  - Ai
+  - Diseases
+  - Countries
+  - Philosophy
+  - Animals
+  - History
+  - Qa
+
+============================================================
+  ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+============================================================
+
+Concept:     GAN
+Category:    Architecture
+Definition:  Generator vs discriminator adversarial training
+Year:        2014
+Researchers: Ian Goodfellow et al.
+Applications:Image synthesis, deepfakes, augmentation
+Related:     Mode collapse, discriminator, generator
+
+Concept:     Word Embeddings
+Category:    Representation
+Definition:  Dense vectors where semantic similarity = vector proximity
+Year:        2013
+Researchers: Mikolov et al.
+Applications:NLP, recommendation, search
+Related:     Word2Vec, GloVe, BERT embeddings
+
+Concept:     LSTM
+Category:    Architecture
+Definition:  Gating mechanisms solve vanishing gradient in sequences
+Year:        1997
+Researchers: Hochreiter/Schmidhuber
+Applications:NLP, speech, time series
+Related:     GRU, RNN, gates, cell state
+
+============================================================
+  DISEASES & MEDICINE
+============================================================
+
+Disease:     COVID-19
+Type:        Viral
+Pathogen:    SARS-CoV-2
+Transmission:Respiratory droplets
+Symptoms:    Fever, cough, loss of smell
+Treatment:   Antivirals, supportive care
+Deaths/yr:   5.0M
+Vaccine:     Yes (mRNA vaccines)
+Discovered:  2019
+
+Disease:     HIV/AIDS
+Type:        Viral
+Pathogen:    HIV
+Transmission:Sexual contact, blood
+Symptoms:    Flu-like; then AIDS symptoms
+Treatment:   Antiretroviral therapy (ART)
+Deaths/yr:   0.65M
+Vaccine:     No (in development)
+Discovered:  1983
+
+Disease:     Smallpox
+Type:        Viral
+Pathogen:    Variola
+Transmission:Respiratory, contact
+Symptoms:    Pockmarks, fever
+Treatment:   Eradicated (1980)
+Deaths/yr:   EradicatedM
+Vaccine:     Yes
+Discovered:  Antiquity
+
+============================================================
+  COUNTRIES OF THE WORLD
+============================================================
+
+Country:      Colombia
+Capital:      Bogota
+Continent:    South America
+Population:   51.8M people
+Currency:     Colombian peso
+Language:     Spanish
+Government:   Presidential Republic
+Independence: 1810
+GDP (USD B):  $343.6B
+
+Country:      Indonesia
+Capital:      Jakarta
+Continent:    Asia
+Population:   277.5M people
+Currency:     Indonesian rupiah
+Language:     Indonesian
+Government:   Presidential Republic
+Independence: 1945
+GDP (USD B):  $1319.1B
+
+Country:      Portugal
+Capital:      Lisbon
+Continent:    Europe
+Population:   10.3M people
+Currency:     Euro
+Language:     Portuguese
+Government:   Semi-Presidential Republic
+Independence: 1143
+GDP (USD B):  $251.9B
+
+============================================================
+  PHILOSOPHY
+============================================================
+
+Concept:      Social Contract
+Branch:       Political
+Definition:   Legitimate authority derives from agreement among individuals
+Philosopher:  Hobbes/Locke/Rousseau
+Example:      People surrender freedoms to government for security and rights
+
+Concept:      Utilitarianism
+Branch:       Ethics
+Definition:   Maximize pleasure minimize pain across all sentient beings
+Philosopher:  Jeremy Bentham
+Example:      Felicific calculus: measure units of pleasure and pain
+
+Concept:      Virtue Ethics
+Branch:       Ethics
+Definition:   Ethics is about developing virtuous character traits
+Philosopher:  Aristotle
+Example:      A courageous person acts courageously habitually; ethics is becoming good
+
+============================================================
+  ANIMALS OF THE WORLD
+============================================================
+
+Name:         Bowhead Whale
+Scientific:   Balaena mysticetus
+Class:        Mammalia
+Habitat:      Arctic ocean
+Diet:         Carnivore
+Lifespan:     200 years
+Weight:       100000 kg
+Status:       Least Concern
+Fact:         Longest-lived mammal at 200+ years; can break 60cm of ice
+
+Name:         Arctic Fox
+Scientific:   Vulpes lagopus
+Class:        Mammalia
+Habitat:      Arctic tundra
+Diet:         Omnivore
+Lifespan:     3 years
+Weight:       3.5 kg
+Status:       Least Concern
+Fact:         Fur changes color seasonally; survives -70 degrees Celsius
+
+Name:         Mantis Shrimp
+Scientific:   Stomatopoda
+Class:        Malacostraca
+Habitat:      Tropical ocean
+Diet:         Carnivore
+Lifespan:     20 years
+Weight:       0.1 kg
+Status:       Least Concern
+Fact:         Fastest punch in animal kingdom; 16 types of color receptors
+
+============================================================
+  HISTORICAL EVENTS
+============================================================
+
+Year:         336 BC
+Event:        Alexander the Great begins conquests
+Region:       Asia
+Key Figures:  Alexander III
+Significance: Spreads Hellenistic culture from Greece to India
+
+Year:         1903 AD
+Event:        First powered flight
+Region:       Americas
+Key Figures:  Wright Brothers
+Significance: Opens aviation age
+
+Year:         1939 AD
+Event:        World War II begins
+Region:       Europe
+Key Figures:  Hitler/Churchill
+Significance: Deadliest conflict in history; 70-85M dead
+
+Year:         2022 AD
+Event:        Russia invades Ukraine
+Region:       Europe
+Key Figures:  Putin/Zelensky
+Significance: Largest European war since WWII
+
+============================================================
+  QUESTION & ANSWER PAIRS
+============================================================
+
+Q1: What is natural selection?
+A1: Natural selection: individuals with traits better
+     suited to their environment survive and reproduce more.
+     Over many generations, these traits become more common
+     in the population.
+
+Q2: What is the Big Bang?
+A2: The Big Bang theory states the universe began from an
+     extremely hot, dense point approximately 13.8 billion
+     years ago and has been expanding ever since.
+
+Q3: What is the Magna Carta?
+A3: The Magna Carta (1215) was a charter limiting royal
+     power in England, establishing that the king is subject
+     to law. It influenced modern constitutional law and
+     human rights.
+
+Q4: What is artificial intelligence?
+A4: AI is the simulation of human intelligence by machines,
+     including learning, reasoning, and problem-solving.
+     Types: narrow AI (specific tasks) and general AI
+     (human-level across domains).
+
+Q5: What is evolution?
+A5: Evolution by natural selection: organisms with
+     beneficial traits reproduce more, passing traits to
+     offspring. Over generations, populations change. Darwin
+     proposed this in 1859.
+
+============================================================
+  END OF VOLUME 0929
+============================================================

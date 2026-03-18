@@ -7,7 +7,8 @@ venv/
 
 # Project specific
 data/*.db
-databases/*.db
+# allow knowledge databases
+!databases/*.db
 *.log
 bore
 ngrok
