@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+passlib[sha256_crypt]
+python-jose[cryptography]
+python-multipart
+sympy
+groq
+python-dotenv
+gunicorn
